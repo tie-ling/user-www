@@ -1,0 +1,348 @@
+#+title: Breadmaker Tips
+#+date: 2024-12-30T23:40:19+01:00
+
+** Unit conversions
+1 oz. = 28.35 g
+1 cup = 236.588 ml
+
+Water
+3/4 Cup = 180 ml
+
+Sugar
+1-1/2 Tbsp EL = 18 g
+
+Dry Milk
+1 Tbsp EL = 7 g
+
+Salt
+1/2 Tsp TL = 3g
+
+Butter
+1 Tbsp EL = 14 g
+
+Yeast Hefe
+1 Tsp TL = 3g
+
+Raisin Rosinen
+1/4 Cup = 38 g
+
+Cinnamon Zimt
+1/2 Tsp TL = 1 g
+
+Shredded Cheddar Cheese
+3 Tbsp EL = 18 g
+
+Diced Onion
+2 Tbsp EL = 16 g
+
+Honey
+1 Tbsp EL = 17 g
+
+Backing Powder 泡打粉 Backpulver
+3 Tsp TL = 12 g
+
+高筋面粉=Weizenmehl Typ 550=Bread Flour
+2 Cup = 260 g
+
+| Flour             | Weight Per Cup | Deutsch                 | Zhongwen     |
+|-------------------+----------------+-------------------------+--------------|
+| All-Purpose Flour | 130 g          | Einfaches Mehl, Typ 405 | 低筋面粉     |
+| White Bread Flour | 128 g          | Weizenmehl Typ 550      | 高筋面粉     |
+| White Spelt Flour | 105 g          | Dinkelmehl Typ 630      | 斯佩耳特小麦 |
+| Rye flour         | 102 g          | Roggenmehl Typ 1150     | 黑麦粉       |
+| Wheat Bread Flour | 120 g          | Vollkornweizenmehl      | 全麦         |
+
+** Q: Can I use a prepackaged bread machine mix in my Home Bakery? What course should I use?
+A: At Zojirushi, we thoroughly test recipes we develop to ensure a
+successful result. Unfortunately, we cannot guarantee the outcome of
+prepackaged bread machine mixes since we have not tested them. We
+suggest reaching out to the bread mix manufacturer for details on how to
+use them in the Home Bakery.
+** Q: Can I use a Home Bakery at higher altitudes?
+A: All Zojirushi Home Bakery breadmakers are tested to function at an
+altitude of up to 5,000 feet above sea level. The baking results are
+affected because water evaporates faster at higher altitudes. If you are
+at a higher elevation, always use a kitchen scale to measure your
+ingredients and if the loaf rises too high and/or sinks, then please try
+the following:
+1. Decrease yeast by ¼ to ½ tsp.
+2. Increase Water by 2 tbsp.
+3. Decrease Sugar by ½ tsp.
+
+More helpful tips can be found on our
+*[[https://www.zojirushi.com/blog/?p=4617][“Common Bread Baking
+Problems”]]* post.
+** Q: Is there a backlight on the Home Bakery's screen?
+A: The Home Bakery has easy-to-read LCD control panels but does not have
+a backlight.
+** Q: Is the nonstick coated baking pan in my Zojirushi Home Bakery breadmaker PFOA-free?
+A: Yes, all of our breadmakers' nonstick coated baking pans are
+PFOA-free.
+** Q: Why did my /Home Bakery Maestro/® Breadmaker BB-SSC10 make a clunking noise while it was kneading?
+A: While kneading the BB-SSC10 will make a clunking sound when the Auto
+Add Dispenser mechanism activates to add ingredients. This sound is
+normal and will be heard even when the Auto Add Dispenser is not
+attached.
+** Q: Can I remove the kneading blade(s) from the dough before the baking cycle starts?
+
+A: It's not recommended. Manipulating the dough during any of the rising
+cycles will result in shorter and denser loaves. For the best results
+with the breadmaker, it's best to let it carry out the course as
+programmed.
+** Q: What is the purpose of a Preheat/Rest cycle?
+
+A: Most preprogrammed courses in Zojirushi Home Bakery breadmakers will
+start off with a Preheat/Rest cycle. It may seem that the breadmaker is
+not doing anything during this cycle but it's working hard to stabilize
+the temperature of the ingredients you have added into the pan. It makes
+sure the ingredients are at the best temperature for baking, which is
+especially important during the colder seasons.
+** Q: Is the baking pan, kneading blades, and other accessories dishwasher safe?
+
+A: The baking pan, kneading blades, and other accessories are not
+dishwasher safe. To ensure their longevity, please hand wash them using
+a mild dishwashing liquid and a soft sponge. For more detailed care
+instructions, please refer to your breadmaker's instruction manual.
+** Q: Can I use the breadmaker overseas using a voltage converter or plug adapter?
+
+A: The electrical products you see on this website are manufactured to
+be used in the US or Canada, and the use of voltage converters or plug
+adapters are not recommended. Should the unit become damaged or require
+service after being used overseas, any repair services, parts, and
+warranty would only be available within the US and Canada.
+** Q: Where can I order replacement parts for my Home Bakery?
+
+A: Replacement parts may be ordered from our online
+*[[https://shop.zojirushi.com/pages/parts-accessories][Zojirushi Parts &
+Accessories page]]* or by calling our Customer Service Department at
+800-733-6270, M-F, 8:00 a.m. to 5:00 p.m. PST. Please have the model
+number ready when calling.
+** Q: Where is my nearest Service Center?
+
+A: Please see a list of our
+*[[http://www.zojirushi.com/app/service_centers][Authorized Service
+Centers]]* to find your nearest Service Center. Please have the model
+number ready when calling.
+** Q: Can the Zojirushi Home Bakery Breadmaker make gluten-free bread?
+
+A: Yes, the newer /Home Bakery Virtuoso/® Breadmakers (BB-PAC20 and
+BB-PDC20) and /Home Bakery Maestro/® Breadmaker (BB-SSC10) comes with a
+designated gluten-free course and recipes. The /Home Bakery Supreme/®
+Breadmakers (BB-CEC20 and BBCC-X20) come with a gluten-free bread
+recipe, and more can be found on our
+*[[http://www.zojirushi.com/app/recipe/breadmakers][Recipes Page]]*.
+Breadmaker recipes may be adapted to other models of our breadmakers.
+The internet is also a good source for gluten-free recipes as well as
+other bread recipe books. (Please use the Home Made course when baking
+gluten-free breads: Preheat 15 minutes, Knead 25 minutes, turn OFF Rise
+1 and Rise 2, Rise 3 55 minutes, and Bake 55 minutes. Keep Warm
+optional.)
+** Q: Can I use my own recipes?
+
+A: The recipes in the instruction manual have been specially written for
+the Home Bakery breadmaker. We recommend you use the recipes in the
+instruction manual whenever possible. However, if you would like to try
+other recipes, here are some important things to keep in mind:
+Please be sure that the total amount of ingredients does not exceed the
+capacity of the Home Bakery breadmaker. If so, the ingredients may
+overflow and cause damage to the machine, which will not be covered
+under warranty. A good rule of thumb is:
+
+- 2 lb. loaf capacity (BB-PDC20, BB-PAC20, BB-CEC20, BBCC-X20, V20): No
+  more than 5 cups (or 20 oz., 567 g) of flour with 2 cups (473 ml) of liquid
+
+- 1 lb. loaf capacity (BB-SSC10, BB-HAC10): No more than 2-1/2 cups (or
+  10 oz., 283.5 g) of flour with 1 cup (236.588 ml) of liquid
+
+Please be sure to measure correctly using a digital scale and, if
+possible, use recipes written for bread machines.
+
+** Q: Can I use home-ground or home-milled flour?
+
+A: After some testing, it was determined that it is possible to use this
+type of flour. However, the flour must be measured by weight and not by
+volume. This is because the texture of home-milled flour may differ from
+those sold in stores. Some home-milled flour may be ground too fine or
+too coarse. Please calculate the weight required in recipes in the Home
+Bakery manual by following this formula for 1 cup:
+| Flour             | Weight Per Cup |
+|-------------------+----------------|
+| White Bread Flour | 128 g          |
+| Wheat Bread Flour | 120 g          |
+| All-Purpose Flour | 130 g          |
+
+Please also note that home-ground or home-milled flour may leave
+scratches on the pan and kneading blades during kneading. This is
+considered normal wear on the parts when using this type of flour.
+** Q: Can I use all-purpose flour?
+
+A: Bread flour is recommended because of its higher gluten content.
+Gluten makes the bread dough more elastic which improves the rise and
+texture of the finished product. All-purpose flour is best suited for
+making pancakes, waffles, and cookies.\\
+If all you have is all-purpose flour, you can add an egg as part of the
+liquid, which will help the dough rise. You can also substitute 1
+tablespoon of flour with dough enhancer, or make your own bread flour
+using vital wheat gluten:\\
+1. Measure out 1 cup of all-purpose flour (4-1/4 oz or 129 g)
+2. Remove 1-1/2 teaspoons of the flour (1/8 oz or 4 g)
+3. Add 1-1/2 teaspoons of vital wheat gluten (1/8 oz or 5 g)
+4. Sift to combine
+** Q: My loaf doesn't turn out right, what can I do?
+
+A: We can help! Let's first make sure our ingredients are fresh, then
+explore some common bread baking problems, and what steps can be taken
+to correct them. Please visit
+*[[https://www.zojirushi.com/blog/?p=4617][Our Blog Post]]* for details.
+If you have more questions after taking a look at the blog post, reach
+out to our
+*[[https://zojirushiamerica5787.zendesk.com/hc/en-us/requests/new][Customer
+Service Department.]]*
+** Q: What if my bread bakes unevenly?
+
+A: Make sure that the kneading blade(s) is attached all the way to the
+bottom before you start adding ingredients. This will ensure that the
+ingredients will be kneaded thoroughly. Uneven loaves could also be the
+result of dough that is too dry. Watch the dough through the viewing
+window during kneading and if it seems dry, add water or milk one
+teaspoon at a time, waiting to give the dough time to absorb the
+moisture, until the right consistency is reached.
+** Q: Why is the crust sometimes thick and/or hard?
+
+A: A thick and/or dark crust usually means there is too much flour in
+your recipe. This could be caused by flour that was not measured
+accurately, or flour that is too old or too dry. To remedy this, reduce
+the amount of flour by two tablespoons; or use milk instead of water. If
+this still does not provide favorable results, please contact our
+Customer Service Department for assistance by calling 800-733-6270, M-F,
+8:00 a.m. to 5:00 p.m. PST. Also see Q, [[#Q]["Can I use home ground
+or home milled flour?"]] For other common baking problems, please visit
+*[[https://www.zojirushi.com/blog/?p=4617][Our Blog Post]]*.
+** Q: When should I weigh my flour when making bread in my Home Bakery breadmaker?
+
+A: If you have a digital scale then you should always weigh your
+ingredients. Please see below for guidelines:\\
+- 1 cup of Bread Flour equals: 4.5 oz. or 128g
+- 1 cup of Whole Wheat Bread Flour equals: 4.2 oz. or 120g
+** Q: Why are the kneading blades loose?
+
+A: This is perfectly normal and allows the blades to be removed easily
+after every use. The kneading blades are designed to turn easily 1 to 2
+inches in either direction around the shaft. If you turn the pan upside
+down and the kneading blades fall out, this is also normal.
+** Q: Why does my Home Bakery sometimes make a knocking noise?
+
+A: Please ensure that the baking pan is securely locked in place. If the
+pan is securely attached, then this may be the result of dough that is
+too hard and dry. The knocking noise is the result of the hard dough
+being "thrown" against the sides of the baking pan. Add water or milk
+one teaspoon at a time, until the dough forms a ball. If the Home Bakery
+breadmaker continues to make knocking noises, then please call our
+[[https://zojirushiamerica5787.zendesk.com/hc/en-us/requests/new][*Customer
+Service Department*]] for assistance at 800-733-6270, M-F, 8:00 a.m. to
+5:00 p.m. PST.
+** Q: What if I have a "Lid" signal displayed on my front panel even when the lid is closed?
+
+A: Please open the lid and ensure the edge of the lid is free of debris,
+then try closing it again while pressing down on the lid to ensure that
+it is closed. If "Lid" is still displayed, make sure the baking pan is
+seated properly. If "Lid" is still displayed, contact one of our
+*[[http://www.zojirushi.com/app/service_centers][Authorized Service
+Centers]]* in your area or our Service Department for assistance at
+800-733-6270, M-F, 8:00 a.m. to 5:00 p.m. PST.
+** Q: What if my bread sticks in my bread pan?
+
+A: The nonstick baking pan provides excellent release; however, the
+kneading blades sometimes make the bread difficult to remove. Next time,
+try to remove the bread within 10 to 15 minutes of baking. If necessary,
+twist the wing nut that is under the pan in both directions to help
+release the kneading blade from the loaf. Please use oven mitts while
+handling the pan. Protect the nonstick interior of the pan from
+scratches by not using sharp knives to cut or pry the bread out and do
+not use anything abrasive to wash the pan. Also take a look at our
+*[[https://www.youtube.com/watch?v=p2-M4FQvxys&feature=youtu.be][Helpful
+Tips]]* video for additional help.\\
+[[https://www.zojirushi.com/blog/wp-content/uploads/2023/10/Wing-Nut.gif]]
+** Q: Are the instructions or recipes for the Home Bakery available in other languages?
+
+A: The instructions and recipes are only available in English. For
+models BB-PDC20, BB-CEC20, and BB-SSC10 are also available in French.
+** Q: What is the warranty on my Zojirushi breadmaker?
+
+A: Please see our
+*[[http://zojirushi.com/support/product_warranty.html][Limited Warranty
+for Electrical Products Page]]* for warranty information.
+
+** Bread Baking Problems and Solutions
+[[https://www.zojirushi.com/blog/common-bread-baking-problems/][Link]]
+** Collapsed or Sunken Loaf (Rising and Falling)
+
+Cause: too much yeast, sugar or water, too little salt, or high
+altitude.
+
+/Here's what you can try doing to improve your loaf: /Reduce your yeast
+by 1/8 to 1/4 teaspoon to start with, and using cold water.  If you see
+an improvement but it's still not /quite/ there, continue to reduce
+incrementally.  Alternatively, you could try increasing salt, or
+decreasing your sugar or water.
+
+** Short, Dense, and/or Dark Loaf
+Cause: typical of too much flour (or other dry ingredients) or not
+enough liquid; less often a result of too little yeast, too little
+sugar, too much salt, or old ingredients.
+
+/Here's what you can try doing to improve your loaf: /Reduce your flour*
+or increasing your liquids.  You can always check your dough during the
+KNEAD cycle to make sure the texture isn't too dry.
+
+** Lopsided Loaf
+Cause: typical of too much flour (or other dry ingredients), not enough
+liquid, or recipe size is too small
+
+/Here's what you can try doing to improve your loaf: /Reducing your
+flour* or increasing your liquids.  If you're using your own recipe, you
+may need to increase the recipe size.  The minimum loaf size for our 2
+pound bread machines is 1 1/2 pounds (BB-CEC20 and BB-PAC20), and 1
+pound for our 1 pound machine (BB-HAC10).
+
+** Lumpy Loaf
+Cause: Typical of too much flour (or other dry ingredients) or not
+enough liquid
+
+/Here's what you can try doing to improve your loaf/: Reducing your
+flour* or increasing your liquids.  Check the dough during the KNEAD
+cycle---if it appears knotty or lumpy, you can add a tablespoon of water
+at a time until a nice, round ball of dough forms.
+
+** Unmixed Ingredients
+Cause: The kneading blades were not installed properly, or kneading
+blades have worn out.
+
+/Here's what you can try doing to improve your loaf: / Installing
+kneading blades before adding ingredients to the baking pan.  If you
+suspect they have worn out, take the baking pan out of the bread machine
+and place the kneading blades on the metal shafts.  Then, try turning
+the blades with your finger.  Do they catch the shafts and make them
+rotate?  If one or both doesn't, it's time to replace them.
+
+** Add Ingredients Didn't Mix
+Cause: Typical of too much flour (or other dry ingredients) or not
+enough liquid.
+
+/Here's what you can try doing to improve your loaf: / Reducing your
+flour* or increasing your liquid.  When the dough is too dry, add
+ingredients like nuts and raisins cannot penetrate the dough ball.
+
+​*The weight of a cup of flour can fluctuate significantly depending upon
+how the flour is measured.  Using the measuring cup as a scooper, or
+pouring flour into the measuring cup will result in more of the
+ingredient being used than our recipes call for.  You can reduce your
+flour using one of two methods:
+
+1. Volumetrically: Fluff your flour with a fork or a whisk to loosen it;
+   then, spoon it into your nested measuring cups, and level off without
+   tapping or shaking.
+2. By weight: Weigh your flour with a digital kitchen scale (128g/4.51oz
+   per cup for bread flour; 120g/4.23 oz for whole wheat flour, and
+   125g/4.41oz for all purpose).  This method yields the most consistent
+   and optimal results, and conveniently cuts out the guesswork.

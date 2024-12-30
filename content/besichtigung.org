@@ -1,0 +1,17 @@
+* How-To
+SCHEDULED: <2024-01-01 Mon>
+Press =C-c C-s= to schedule.
+Use =org-agenda-file-to-front= then use =M-x org-agenda= then press =a=.
+Sort by =C-x h= then =C-c ^= by Schedule.
+
+* Ongoing
+** 13595 Berlin, Gatower Straße 2
+SCHEDULED: <2025-01-02 Thu 08:00>
+** 13597 Berlin, Charlottenburger Chaussee 103
+SCHEDULED: <2025-01-02 Thu 09:20>
+** 10439 Berlin, Varnhagenstraße 21
+Bitte klingeln Sie bei Müller.
+SCHEDULED: <2025-01-03 Tue 17:30>
+** 10439 Berlin, Varnhagenstraße 31
+Bitte klingeln Sie bei Villegas.
+SCHEDULED: <2025-01-07 Tue 17:00>

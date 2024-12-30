@@ -1,0 +1,873 @@
+#+title: vwl
+#+date: 2024-12-31T00:16:32+01:00
+* Notizen
+Führungsstill
+
+Führungsverhalten:
+
+Führungsmittel: Information und Kommunikation.
+
+Intransparenz ist frustrierend
+
+Kontrolle und Macht <> Vertrauen
+
+Personal die Möglichkeit zu geben, Stimmungen und Meinungen zu äußern.
+
+kommunikation: bereiche:  sprechen, zuhören
+
+Unternehmensführung: Organisation
+Regeln: Wenn man immer das gleiche Aufgabe haben, dann sollen Regeln
+erstellt werden, um die korrekte Produktionsverfahren festzulegen.
+
+Falls eher kreativ ist, dannn sind Regeln zu diesem  Zweck nicht
+geeignet.
+
+Was wird getan?
+
+An welchem Gegenstand wird das getan?
+
+Wird die Tätigkeit geplant, ausgeführt oder kontrolliert?
+
+Transformationsprozess: ergibt die betriebswirtschaftlichen Funktionen
+
+Einführung
+
+** Verantwortung übernehmen:
+
+Die Verantwortung für eine Aufgabe wird *bewusst* übernommen.
+
+Das Ziel/das Ergebis ist bekannt.
+
+Die Person trägt die Verantwortung für die Abläufe. das Ergebis und
+die Konsequenzen aus dem Ergebnis.
+
+** Klausurvorbereitung
+*** Zusammenhang zwischen Motivation und Führung
+**** Lösung
+Es gibt interensisische / extrinsische motivation
+gibt führungsstille
+gibt die verschiedene gestaltung von anreize
+
+**** Zusammenhängende Text schreiben; nicht 
+**** Grundlagen der Motivation
+Der Begriff Mitarbeitermotivation bezeichnet die Bereitschaft und das
+Interesse der Mitarbeiter, Ziele und Plannung der Unternehmen zu
+erfüllen und durchzusetzen.
+
+Es gibt zwei Arten von Motivationen, nämlich die innere Motivation,
+indem man Befriedigung in der Arbeit selbst finden kann, und die
+äußere Motivation, indem man die berufliche Tätigkeit nur als Mittel
+zur Verfolgung anderer Motive ausübt.
+
+**** Führungsstile
+Nach Art der Motivationsbildung (Willensbildung) unterscheidet man die
+zwei Führungsstile, die autoritärer Führungsstil und die
+Partizipativer Führungsstil.
+
+Mit autoritärer Führungsstil bleibt nur wenig Spielraum für die
+Mitarbeiter, eine Entscheidung selbst zu treffen und es fehlt die innere
+Motivation, denn sind die Mitarbeiter möglicherweise nicht von der
+Entscheidung der Vorgesetzter überzogen.
+
+Mit Partizipativer Führungsstil können eine Gruppe von Mitarbeitern
+sich selbst demokratisch eine Entscheidung zu treffen.  Der
+Vorgesetzter fungiert nur als Integrator.  Da jeder Mitarbeiter an der
+Entscheidung teilgenommen hat, hat der Mitarbeiter auch hoherer innere
+Motivation, die Aufgaben zu erfüllen.
+
+*** Chancengleichheit
+**** Definition?
+Egal Geschlecht, Herkunft, Religion,
+**** Klausur
+Abstrakt
+**** Umsetzung: zwei konkrete Maßnahmen
+Anonymisieren, möglichst wenig Daten zu sammmeln.
+
+Versucht, objektive Kriterien zu finden, die nicht von subjektive
+Gefülle beeinflusst sind
+
+Vorgesetzter Chancengleichheit fördern.
+
+Die Abschaffung der Hierarchie führt zur Chancengleichheit.
+
+Transparenz bzgl. Übermittelung von Information und der
+effektive Kommunikationswege entwickeln.  
+Hoher Dezentralisierungsgrad der Entscheidungen.
+Hoher Delegationsgrad der Aufgaben.
+Hoher Partizipationsgrad.
+
+
+Chancengleichheit in der Personalbeurteilung
+- messbarkeit
+- anonymisierung
+- teamleistung
+- objektive kriterien
+
+** economic man/ complex man
+es existiert kein economic man
+
+nur ein bild, ein symbol, menschenbild, um die Frage zu beantworten,
+wie man Anreiz beanstalten kann
+
+economic man: anreiz: geld
+complex  man: anreiz: entwicklung; verantwortung
+
+* Grundlage und Einführung der VWL und BWL
+** Die Akteure -- Staat, Haushalte, Unternehmen
+- Staat :: Gruppe von Menschen, die bei ihrer Lebensgestaltung zusammenwirken.
+- Haushalte :: Wirtschaftssubjekte, konsumieren fremder Güter zur
+  Deckung eigener Bedarf.  Nachfrager.
+- Unternehmen :: Wirtschaftssubjekte, produziert Güter zur Deckung fremder Bedarf.
+
+** Ökonomisches Prinzip (Wirtschaftlichkeitsprinzip)
+Rationales Verhalten, die knappe Güter zur Nutzenmaximierung
+einzusetzen.
+
+- Minimum Prinzip :: so handeln, dass ein vorgegebener Nutzen mit
+  minimale Mitteleinsatz erzielt wird.
+
+- Maximum Prinzip :: so handeln, dass ein vorgegebenem Einsatz mit
+  maximale Nutzen erzielt wird.
+
+- Freie Güter :: unbegrenzt, ohne Kosten
+- Knappe Güter :: begrenzt, benötigen zur Herstellung Faktorleistungen
+- Existenzbedürfnisse :: Kleidung, Nahrung, Unterkunft
+
+** Nachhaltiges Wirtschaften
+Soziale Nachhaltigkeit
+Ökologische Nachhaltigkeit
+Ökonomische Nachhaltigkeit
+** Effizienz
+- Technische Effizienz
+  Produktionsverfahren zu finden und anzuwenden, um die
+  Produktionsmenge zu maximieren.
+
+- Produktive Effiziez
+  Ein Weg suchen,  Produkte billiger zu produzieren.
+
+- Allokative Effizienz
+  Die Hergestellten Waren und Dienstleistungen auf die Nachfrage der
+  Kunden treffen.
+
+- Soziale Effizienz
+  Soziale Effizienz stellt sich ein, wenn die privaten und die
+  sozialen Kosten der Produktion gleich den privaten und sozialen
+  Nutzen entsprechen.
+
+** Wirtschaftskreislauf
+Der Handel ist geprägt von Wettbewerb und Arbeitsteilung.  Durch
+Handel steigt die produktive und die technische Effizienz.
+
+Die Marktwirtschaft ist das gesamte Zusammenwirken aller privaten
+Haushalte und Unternehmen, in der mittels dezentraler Entscheidungen
+die Güter und Dienstleistungen zugeteilt werden.
+
+Märkte bestehen aus allen Wirtschaftssubjekten, die Güter anbieten und
+nachfragen, die sich gegenseitig ersetzten können.
+
+** Rolle des Staates
+- Rechtssicherheit gewährleisten
+- Erhöhung der Effizienz der Mäarkte bei Marktversagen
+- Verbesserung der Angleichung/Verteilung von Einkommen und Wohlstand.
+
+** Abgrenzung BWL-VWL
+- BWL :: Wissenschaft, wie ein Unternehmen seine knappen Ressourcen am
+  besten bewirtschaftet.  Blick ins Unternehmen.
+- VWL :: Wissenschaft, wie eine Gesellschaft ihre knappen Ressourcen
+  am besten bewirtschaftet.  Blick auf die Außenwirkung.
+
+** Transformationsprozess
+(Input) - (Transformation) - (Output)
+Faktoreinsatz - Kombination der Produktionsfaktoren - Faktorertrag
+
+** Produktionsfaktoren
+Beispiel sind: Natürlichen Ressourcen der Erde; Menschliche
+Arbeitskraft; Kapital; Unternehmerische Leistung (Riskoübernahme als
+Voraussetzung für die Geschäftstätigkeit)
+
+** Die Wertschöpfung
+Die Wertschöpfung  ist die Differenz zwischen Inputkosten und dem
+Verkaufspreis.  Die Wertschöpfung beinhaltet die monetäre Bewertung
+des betrieblichen Transformationsprozesses.
+
+** Die betriebliche Wertschöpfung steht zur Verteilung an
+- Arbeitnehmeer erhalten ihren Lohn
+- Kapitalgeber erhalten Zinsen
+- Staat erhält Steuern
+- Unternehmer erhält Gewinn
+
+* Grundlagen der VWL
+** VWL Graphik
+a) und b) vollständig richtig! sehr gut!
+
+Bei c) muss es unter 1) "Nachfrage sinkt" lauten, denn wie in der
+Zeichnung zu sehen, verschiebt sich die Nachfragekurve. Der Begriff
+"Nachfragemenge" würde bedeuten, dass es sich um eine Bewegung entlang
+der Kurve handelt, was ja nicht der Fall ist. Stichpunkte ansonsten
+richtig.
+
+Graphik b) vollständig richtig.
+
+* Konstitutive Entscheidungen
+Konstitutive Entscheidungen sind einmalige/sehr seltene
+Führungsentscheidungen von besonderer Bedeutung.
+** Wahl der Rechtsform
+In der Gründungsphase müssen viele Entscheidungen getroffen werden.
+
+Alle Entscheidungen werden am obersten Ziel des Unternehmens
+ausgerichtet (Gewinnmaximierung nach Steuern).
+
+*** Kriterien
+- Haftung
+- Mindestkapital
+- Leitungs- und Kontrollbefugnisse
+- Gewinn- und Verlustbeteiligung
+- Steuerbelastung
+- Publizitätspflicht
+- Kapitalbeschaffungsmöglichkeiten
+- Mitbestimmung der Arbeitnehmer
+*** Haftung
+- Kann-Kaufmann.  Natürliche Person.  für Kleinstunternehmen ist die
+  Eintragung ins Handelsregister freiwillig.
+  Haftet für eingebrachtes Kapital und Privatvermögen.
+ - Ist-Kaufmann.  Natürliche Person.
+   Haftet für eingebrachtes Kapital und Privatvermögen.
+ - Form-Kaufmann. Juristische Person.
+   Haftet für eingebrachtes Kapital.
+*** Rechtsformen des privaten Rechts
+- Einzelunternehmung
+- Gesellschaft
+  - Genossenschaften
+  - Kapitalgesellschaften: AG, GmbH
+  - Personengesellschaften: GbR, OHG, KG, stille Gesellschaft
+
+
+
+** Kooperation von Unternehmen
+*** Ziele
+Beschaffungsbereich; Produktionsbereich; Absatzbereich;
+Finanzierungsbereich; Steuerliche
+*** Arten
+Kooperation (Konsortien, Kartelle, Interessengemeinschaften); Konzentration (Fusion)
+** Liquidation
+Die Liquidation ist die Auflösung eines Unternehmens durch
+Einzelveräußerung aller Vermögensgegenstände.
+
+*** Freiwillig
+Erfüllung des Betriebszwecks oder Beschluss der Gesellschafter
+1. Abwicklungsbeschluss
+2. Durchführung der Abwicklung
+*** Zwangsweise
+Zahlungsunfähigkeit, Überschuldung.
+Insolvenzverfahren.
+** Insolvenzverfahren
+Rechte und Pflichten des
+- Schuldners
+- Insolvenzverwalters
+- Gläubigerversammlung
+- Insolvenzgerichts
+* Unternehmensführung
+** Motivation und Führung
+Einordnung: innerhalb eines Unternehmens wird das Effizienzdifizit im
+Formen des Nicht-Wollens durch Motivation gelöst.
+(Effizienzdifizit: Nicht-Wollen)-(Motivation)
+
+Motivation besteht darin, Bedürfnisse der Mitarbeiter zu befriedigen.
+Die Führung existiert als Ausgleich zwischen den Sachzwängen und den
+Bedürfnissen der Mitarbeiter.
+
+UN-Nachhaltigkeitsziel: Menschenwürdige Arbeit und Wirtschaftswachstum.
+
+*** Menschenbild: Complex-Man
+Bedürfnis nach Selbstverwirklichung und psychologischem Wachstum.
+Entlohnung und soziale Rahmenbedingung als Voraussetzung.
+
+Schlussfolgerung: Die intrinsische Motivation aus der Aufgabe führt zu
+hoher Arbeitsleistung.
+*** Intrinsische-Extrinsische Motivation
+Intrinsische Motivation: Mensch handelt in dem Bestreben, etwas um
+seiner selbst willen zu tun.  Man findet Befriedigung in der Arbeit
+selbst.  Hat langfristige Wirkungsdauer.
+
+Extrinsische Motivation: Beweggründe liegen außerhalb der eigenen
+Handlung.  Man findet Befriedigung nicht in der Arbeit selbst, sondern
+in der Folgen der Arbeit.  Hat kurzfristige Wirkungsdauer.
+*** Anreizgestaltung
+Anreizgestaltung umfasst das Anbieten und Abstimmen von mehreren
+Anreizen, welche erwünschete Verhaltensweisen auslösen und
+unerwünschte Verhaltensweisen zurückdrängen.
+
+Materielle Anreize: Positive: Direktvergütung, Erfolgsbeteiligung;
+Negative: Gehaltskürzung
+
+Immaterielle Anreize: Positive: Sicherheit, Aufstieg; Negative: Tadel,
+Restriktion
+*** Headship und Leadership
+Headship ist nur eine formale Weisung.  Headship ist nicht
+notwendigerweise sozial von Mitgliedern akzeptiert.  Leadership
+bedeutet hingegen soziale Akzeptanz.
+
+Führung, Zielrichtung: Koordinationsfunktion: Mitglieder koordinieren,
+um Ziele zu erreichen.
+Führung, Kohäsionsfunktion: Zusammenhalt der Mitglieder.
+
+*** Führungsstil
+Kriterium: Arten der Willensbildung.
+
+Autoritärer Führungsstil, Aufgabeorientiert, der Vorgesetzter
+hat großer Entscheidungsspielraum.
+
+Partizipativer Führungsstil, Personalorientiert, der Mitarbeiter hat
+großer Spielraum.
+
+Die Wahl des Führungsstils ist abhängig von objektiven- (Aufgabe
+selbst, Organisationsstruktur) und subjektiven-  (Temperament des
+Vorgesetzten, Fähigkeit der Mitarbeiter) Gegebenheiten.
+
+*** Führungsverhalten
+Taktik der Willendurchsetzung: von Befehl bis Überzeugung
+Partizipation: die Mitarbeiter beeinflussen den Vorgesetzten.
+Kontrolle: Verhaltenskontrolle, Ergebniskontrolle.
+*** Führungsmittel
+Information über das Personal, an das Personal, von dem Personal
+
+Kommunikation Gespräche, Besprechungen, Konferenzen, Verhandlungen
+** Organisation
+Organisation ist der Versuch, die betriebliche Leistungserstellung und die
+Leistungsverwertung so zu strukturieren, dass die Effizienzverluste
+auf der Ausführungsebene minimiert werden.
+
+*** Regeln und Flexibilität
+Je mehr Regeln, desto weniger Raum für spontane Handlungsweisen im
+Leistungsprozess.  Regeln macht dort Sinn, wo sich Aufgaben häufig in
+gleicher Weise wiederholen.  Je variabler und unterschiedlicher die
+Tätigkeiten sind, desto weniger Regeln.
+
+Regeln-Standardisierung für gleichartige Fälle
+
+Flexibilität für komplexen und veränderlichen Aufgaben
+
+*** Unter und Überorganisation
+Organisation ist optimal (Eopt), wenn alle gleichartigen und regelmäßig
+auftretenden Tätigkeiten geregelt sind.  In diesem Fall ist der
+Rationalisierungsgrad optimal (Ropt.)
+
+Werden zu viele unregelmäßige Aufgabe geregelt, oder zu wenig
+regelmäßige Aufgabe geregelt, dann liegt über-unter organisation vor.
+
+*** Organisatorische Gestaltungsfelder
+besteht aus Aufgabenanalyse und Aufgabensynthese.
+
+*** Organisationsform
+Funktional, Gliederung der zweiten Ebene nach Funktionen.
+Divisionale, Gliederung der zweiten Ebene in autonome Bereiche.
+Matrix, Gliederung nach Funktionen wird von produktorientierten
+Struktur überlagert.
+
+*** Leitungsstruktur
+Einliniensystem
+Mehrliniensystem
+Stabliniensystem
+*** Macht
+Es bedarf eines Systems der Machtausübung, damit die Aufgaben erfüllt
+werden.
+- Sanktionsmacht :: Der Personal soll durch Machteinsatz beeinflusst
+  werden, die entsprechende Belohnung anstreben bzw. Bestrafung fürchten.
+- Expertenmacht :: Der Personal hat Expertenmacht, wenn
+  der Personal innerhalb einer sozialen Beziehung relevantes Wissen
+  oder relevantes Fähigkeiten zugeschrieben wird.  Achtung, die
+  Zuschreibung ist wichtiger als die tatsächliche Fähigkeiten.
+- Informationsmacht :: Kontrolle über die Nutzung und Verteilung von
+  Informationen, die für andere Personen wichtig sind.
+- Identifikationsmacht :: Sie beruht auf einer Vorbildfunktion des
+  Mächtigen oder der Mächtigen, der es nachzueifern gilt. Dadurch,
+  dass die Mitarbeiter sich mit dem Vorgesetzten identifizieren und
+  ihm oder ihr gefallen möchten, hat das Vorbild Einfluss auf die
+  Mitarbeiter.
+- Einflusssysteme :: Netzwerke, die den persönlichen
+  Handlungsspielraum der Organisationsmitglieder erweitern.
+*** Agilität
+Agilität: Fähigkeit eines Unternehmens, sich kontinuierlich an ihre
+komplexe, dznamische und unsichere Umwelt anzupassen.
+
+Mitarbeiterorientierung, Kundenorientierung, Iterative Prozesse,
+Vertrauen, Offene Kritik, Kommunikation
+*** Agilität, Scrum Methode
+*** Dimensionen der agile Organisation
+- Strategische Dimension
+  Outside-in Denkweise. Der Kunde steht im Mittelpunkt des Interesses, Denkens und Handelns.
+  Die Strategie wird auf den Kunden ausgerichtet.
+
+  Außerdem ist ihre Aufgabe, Rahmenbedingungne zu schaffen, die
+  selbstorganisiertes und selbstverantwortliches Arbeiten der
+  Mitarbeiter und Teams gewährleisten.
+
+  Strategie-Entwicklungsprozess
+  ist stark partizipativ, Transparenz wird gefördert.
+- Strukturell
+  Die Organisation orientiert sich nicht mehr an vergangenen
+  Hierarchien, sondern ist kundenzentriert und in einem Peach-Modell
+  organisiert und strukturiert.
+- Prozessual
+  Das gesamte Unternehmen arbeitet nach agilen Prinzipien und lebt die
+  eigenen Przesse konsequent auf agile Art und Weise.  Der Kunde wird
+  in die Prozesse eingebunden und die Teams übernehmen Verantwortung
+  gegenüber dem Kunden.
+- Führung
+  Agile Führung besteht aus verteilte Führung und empowered
+  Leadership.
+
+  Verteilter Führung ist die Verteilung von Führungsaufgaben auf
+  mehrere Schultern gemäß der agilen Logik.
+
+  Empowered Leadership bedeutet die Ermächtigung der Mitarbeiter,
+  bestimmte Dinge selbst entscheiden zu können und stärker
+  selbstverantwortlich handeln zu dürfen.
+- HR-Instrumente
+  Die HR-Instrumente dient der agilen Organisation zum Katalysator der
+  Transformation und Weiterentwicklung der Organisation.
+
+  In agilen Organisationen stellen die Teams selbst fest, ob Bedarf
+  nach einer neuen Kollegen besteht und sucht nach diesen.
+- Kulturell
+  In agilen Organisation herrscht Vertrauen.  Das Management vertraut
+  den operativen Teams, selbstorganisiert zu sein und Verantwortung zu
+  übernehmen.  Mitarbeiter kann ohne Budgetbegrenzungen um ihre eigene
+  Weiterbildung kümmern.  Vertrauen ersetzt viele Regeln und Richtlinien.
+
+*** Agiles Management
+Pro: schnelle, flexible Anpassung.  Kundeninteresse werden stark
+vertreten.
+Contra:  hohe Kommunikationsanforderungen. Überlastung im Team.  Es
+entsteht Konflikte durch Abbau von Machthierarchien.
+** Personal
+Personalwirtschaft, zielorientierte Einsatz von Personal.
+
+Personal, zur Aufgabenerfüllung in Organisationen beschäftigte Menschen.
+
+*** Ziele der Personalwirtschaft
+Wirtschaftliche Ziele: das Unternehmen mit best geeigneten Mitarbeiter
+unter Berücksichtigung des Ökonomischen Prinzips besorgen.
+
+Soziale Ziele: die Arbeitsumstände bestmöglich für Mitarbeiterinnen
+gestalten.
+
+Insgesamt wird durch Personalwirtschaft eine harmonischen Beziehung
+zwischen den Zielen des Unternehmens und den Interessen der
+Mitarbeiter hergestellt.
+
+*** Aufgaben der Personalwirtschaft
+**** Bereitstellung von Personal
+**** Personalbedarf erkennen
+orientiert sich an den Quantität, Qualifikation, Zeitpunkt, Ort
+**** Personalbeschaffung
+Extern, oder Intern.
+
+**** Intere Personalbeschaffung, Vor- und Nachteile
+Vorteile: Motivierung durch Aufstiegschancen, Besseres Betriebsklima,
+Geringeres Risiko, Geschwindigkeit, Geringe Beschaffungskosten, Kurze
+Einarbeitungszeit
+
+Nachteile: keine neuen Ideen durch neue Mitarbeitern, Geringe Auswahl,
+Demotivation, Rivalität.
+
+**** Personalbeurteilung
+Bild über Fähigkeiten und Potenziale des Mitarbeiters bilden.
+
+Leistungsbeurteilung (vergangenheitsbezogen), Potenzialbeurteilung
+(zukunftsorientiert)
+
+**** Entwicklung von Personal
+
+Motivationsfunktion, Versorgungsfunktion, Abstimmungsfunktion.
+
+Die Bereitstellung von Personalien (Beschaffung, Einsatz, Freisetzung,
+Beurteilung)
+
+Die Entwicklung von Personal (Weiterbildung)
+
+* Leistungsbereich
+** Beschaffung
+*** Beschaffungsziele
+Beschaffungsziele: Sachziele, richtige Qualität, Preis, Zeit, Ort,
+Menge;
+
+Formalziele: Wirtschaftlichkeit
+
+Nebenziele: Sicherheitsstreben, Liquidität, Lieferant, Ökologische
+Zielsetzung
+*** Grundsatzentscheidungen
+Bestellungzeitpunkt.  Lieferantenauswahl.  Lieferantenpolitik.
+*** Qualitätsmanagement
+Gute Anforderungserfüllung; Gebrauchstauglichkeit;
+Funktionstüchtigkeit; Lange Haltbarkeit; Zuverlässigkeit.
+
+Qualitätsmanagement für Sachleistungen: vorgegebener
+Qualitätsforderung sichern.  Gewährleistungs- und
+Produkthaftungsansprüche gegenüber den Lieferanten.  Kostengünstig.
+
+für Dienstleistung: Flexibilität, Kooperation, Vertrauen.
+
+*** Beschaffungsmanagement
+Supply Chain Management: Methoden und Instrumente zur Gestaltung und
+Optimierung unternehmensinterner und -übergreifender Lieferketten
+sowie der Kommunikation und Logistik zwischen Wertschöpfungpartnern.
+** Produktion
+*** Aufbauorganisation
+Fertigungstypen werden bestimmt durch die Größe der einzelnen
+Fertigungseinheiten und die Häufigkeit der Widerholung bestimmter
+Produktionsvorgänge: Einzel-, Serien-, Sorten-, Massenfertigung.
+
+Fertigungsverfahren zeigen auf, wie dei einzelnen Produktionsanlagen
+angeordnet sind: Werkstatt-, Gruppen-, Fließ-fertigung
+*** Ablauforganisation
+** Absatz
+Die zentrale Frage der Produktpolitik ist die Frage nach Form und Zeitpunkt von Programmänderungen.
+Zur Beantwortung wird vielfach auf das Lebenszyklusmodell zurückgegriffen.
+
+* Finanzbereich
+Finanzierung ist die Bereitstellung von finanziellen Mitteln,
+
+- zur Durchführung der betrieblichen Leistungserstellung und
+  Leistungsverwertung,
+- zur Vornahme bestimmter außerordentlicher finanztchnischer Vorgänge,
+  z.B. Gründung, Umwandlung, Kapitalerhöhung, Sanierung,
+
+Investition: ist die Verwendung finanzieller Mittel.  Eine heute
+betätige Auszahlung ist mit der Erwartung einer höheren Einzahlung in
+Zukunft verbunden.
+** Finanzierungsarten
+Innenfinanzierung: das Geld gehört dem Eigentümer
+Außenfinanzierung: das Geld wird ausgeliehen
+Eigenfinanzierung: Geld gehört dem Eigentümer
+Fremdfinanzierung: Geld wird ausgeliehen
+Innenfinanzierung, Eigenfinanzierung: Selbstfinanzierung
+Innenfinanzierung, Fremdfinanzierung: eigengebildetes Fremdkapital
+Außenfinanzierung, Eigenfinanzierung: Beteiligungsfinanzierung
+Außenfinanzierung, Fremdfinanzierung: Kreditfinanzierung
+** Eigen- und Fremdkapital
+- Eigenkapital :: gesellschaftlicher Vertrag, Maximierung des
+  Marktwerts  des Eigenkapital, keine Rückzahlung
+
+- Fremdkapital :: schuldrechtlicher Vertrag, sichere Zins- und
+  Tilgungszahlungen, hat Anspruch an Rückzahlung.
+
+** Buchführung
+- Planung :: Plan-Bilanz, Plan-GuV
+- Durchführung :: Bilanz, GuV, Kostenrechnung
+- Kontrolle :: Soll-Ist-Vergleich
+
+Buchführung erfasst die Geschäfts- und Finanzbuchhaltung:
+Außenbeziehung des Unternehmens und die Betriebsbuchführung: internen
+Vorgänge.
+
+** Grundsätze ordnungsgemäßer Buchführung
+- Materielle Ordnungsmäßigkeit :: Richtigkeit und Vollständigkeit der Aufzeichnungen
+- Formelle Ordnungsmäßigkeit :: Klarheit und Übersicherlichkeit der
+  Aufzeichnungen, der Kaufmann ist zur doppelten Buchführung verpflichtet.
+
+* Übung Angebot-Nachfrage
+1. Käse als Komplementärgut von Wein, Preis von Wein steigt.
+   Wirkung auf Käse-Markt
+
+   Der Preis von Wein steigt, und Käse gilt als Komplementärgut von Wein.
+
+   Der Nachfrage nach Käse sinkt von M0 zu M1 entlang des
+   Preisniveaus.  Es besteht Angebotsüberhang von Käse.
+   Preis sinkt von P0 zu P1.
+   Nachfragemenge steigt von M1 zu M2.  Angebotsmenge sinkt von M0 zu M2.
+
+2. Marktreaktion
+   1. Olivenöl, falls Dürre in Südeuropa
+
+      Der Preis von Olivenöl steigt von P0 zu P1.  Der Nachfrage nach
+      Olivenöl sinkt von M0 zu M1 entlang des Preisniveaus.  Es
+      besteht Angebotsüberhang.  Der Preis von Olivenöl sinkt von P1
+      zu P2.  Der Nachfragemenge steigt von M1 zu M2.
+
+   2. Zimmervermietung in London während des olympischen Spiele 2012
+
+      Der Nachfrage nach Zwischenvermietung steigt von M0 zu M1
+      entlang des Preisniveaus.  Es besteht Nachfrageüberhang.  Der
+      Preis steigt von P0 zu P1.  Der Nachfragemenge sinkt von M1 zu
+      M2.  Der Angebotsmenge steigt von M0 zu M2.
+
+   3. Mundschutz während Pandemie
+
+      Der Nachfrage nach Mundschutz steigt von M0 zu M1 entlang des
+      Preisniveaus.  Es besteht Nachfrageüberhang.  Der Preis steigt
+      von P0 zu P1.  Der Nachfragemenge sinkt von M1 zu M2.  Der
+      Angebotsmenge steigt von M0 zu M2.
+* Wiederholungsfragen
+** 1. Fokus einer nachfrageorientierten Persoanlentwicklung
+Der Mitarbeiter bestimmt, was und wie er lernen will.  Dies ist für
+agiles Lernen notwendig.
+** 2. Cafeteria-Vergütungssystem
+Das Cafeteria-System, auch Cafeteria-Modell genannt, ist ein
+Vergütungsmodell im Personalwesen. Das System funktioniert so, dass
+Mitarbeiter individuell Sozialleistungen des Unternehmens wählen
+können. Dabei erhalten sie Punkte, welche infolge eingelöst werden
+können. Das Ziel des Cafeteria-Systems ist es, die Arbeitsmotivation
+zu steigern.
+** 3. Nachteile einer internen Personalbeschaffung
+Vorteile: Motivierung durch Aufstiegschancen, Besseres Betriebsklima,
+Geringeres Risiko, Geschwindigkeit, Geringe Beschaffungskosten, Kurze
+Einarbeitungszeit
+
+Nachteile: keine neuen Ideen durch neue Mitarbeitern, Geringe Auswahl,
+Demotivation, Rivalität.
+** 4. Ziele der Personalwirtschaft
+Wirtschaftliche Ziele: das Unternehmen mit best geeigneten Mitarbeiter
+unter Berücksichtigung des Ökonomischen Prinzips besorgen.
+
+Soziale Ziele: die Arbeitsumstände bestmöglich für Mitarbeiterinnen
+gestalten.
+
+Insgesamt wird durch Personalwirtschaft eine harmonischen Beziehung
+zwischen den Zielen des Unternehmens und den Interessen der
+Mitarbeiter hergestellt.
+
+** 5. Rechtsformen
+- Einzelunternehmen:
+  - persönlich und unbeschränkte Haftung mit Betriebs- und
+    Privatvermögen.  Er tragt das Risiko alleine.
+
+  - kein Mindestkapital gesetzlich vorgeschrieben
+
+  - Der Einzelunternehmer hat alleine die Geschäftsführungsbefugnis
+    (alleinige Entscheidungsgewalt) und Vertretungsbefugnis inne.
+
+  - Gewinnverteilung:  alleine Anspruch auf Gewinn, muss auch den
+    Verlust alleine tragen.
+
+  - Kapitalbeschaffungsmöglichkeiten: nur durch Privateinlagen.
+
+- Offene Handelsgesellschaft
+  - persönliche Haftung mit Geschäftsvermögen und Privatvermögen
+
+  - kein Mindestkapital
+
+  - Leistung und Kontrollbefugnisse: mehrere Partner sind gleichberechtigt
+
+  - Gewinn und Verlustbeteiligung: Vorzugsgewinnanteil von 4% seines
+    Kapitalanteils, der Anteil über 4% wird pro Kopf verteilt.
+
+  - keine externen Investoren
+
+- Kommanditgesellschaft (KG)
+
+  - besteht aus Komplementär (Unternehmer) und Kommanditist (Teilhaber)
+
+  - Komplementär (Unternehmer) führen Geschäfte allein
+
+  - Komplementär haftet mit Betriebs und Privatvermögen.  Kommanditist
+    haftet nur mit ihre Einlage.
+
+  - Gewinn wird unter Komplementär und Kommandist aufgeteilt.
+
+  - Kapitalbeschaffung: begrentzt, nur Einlage der Kommandististen und Fremdkapital
+
+- Aktiengesellschaft
+
+  - Haftung: nur das Gesellschaftsvermögen
+
+  - Mindestkapital: 50.000 €
+
+  - Leitungs- und Kontrollbefugnisse: durch Aufsichtsrat beschränkt
+
+  - GuV: richtet sich nach seinem Anteil an der AG bzw. am Grundkapital.
+
+  - Kapitalbeschaffungsmöglichkeiten: Eigenkapital kann durch Aktien
+    und Emissionen eingesammelt werden
+
+- GmbH
+
+  - Die Haftung beschränkt sich auf Betriebsvermögen
+
+  - Mindestkapital 25000 Euro.
+
+  - Leitungs- und Kontrolbefugnisse:  die Gesellschafter hat
+    weitreichende Gestaltungsspielräume
+
+  - GuV Verteilung: nach Geschäftsanteil
+
+  - Kapitalbeschaffung: durch den Verkauf von Geschäftsanteilen an
+    neue Gesellschafterinnen und Gesellschafter
+** 6. Gemeinschaftsunternehmen
+Unter Gemeinschaftsunternehmen versteht man
+die Kooperation von mindestens zwei Unternehmen, die sonst unabhängig
+voneinander agieren.
+
+Die dahinterstehenden Gesellschaften selbst
+bleiben im Rahmen eines Joint Ventures rechtlich und wirtschaftlich
+eigenständig.
+
+Die Zusammenarbeit ist in der Regel langfristig angelegt
+und dient unter anderem dazu Märkte, Vermögenswerte (insbesondere auch
+geistiges Eigentum) und Know-How zu teilen, gemeinsame Projekte
+durchzuführen und von den Synergieeffekten zu profitieren, aber auch
+um Risiken zwischen den beteiligten Unternehmen zu teilen.
+** 7. Risikodiversifikation durch Unternehmenskooperation
+Bei komplementären Kooperationsbeziehungen wird das Risiko
+diversifiziert, indem es duch die Kooperation zusätzliches Know-How
+und Informationen generiert.
+** 8. Was ist die Konjunktur und wie wird sie gemessen
+Konjunktur ist die gesamtwirtschaftlichen Auslastung des Produktionspotentials.
+Der Produktionsrückgang ist mit einem Anstieg der Arbeitslosigkeit verknüpft.
+
+Indikator: Bruttoinlandsprodukt.  BIP ist der Marktwert aller für den
+Endverbrauch bestimmten Waren und Dienstleistungen, die in einem Land
+in einem bestimmten Zeitabschnitt hergestellt werden.
+
+Detailiert?
+
+** 9. Was ist die Inflation und wie wird sie gemessen
+Die Inflation bezeichnet den Anstieg des Preisniveaus und bringt eine
+Geldentwertung mit sich.
+
+Die Inflationsrate wird anhand der Inflationsrate ermittelt.
+** 10. Arbeitslosenquote und Erwerbslosenquote
+Erwerbslos: egal, ob eine Person bei einer Arbeitsagentur als
+arbeitslos gemeldet oder nicht.  Aber eine Tätigkeit
+von weniger als 15 Wochenstunden gilt als Erwerbstätige.
+
+Diese Abgrenzung folgt dem Labour-Force-Konzept der ILO (International
+Labor Organisation).
+
+Arbeitslos: bei einer Arbeitsagentur gemeldet, inklusiv eine Tätigkeit
+von weniger als 15 Wochenstunden.
+
+** 11. Definition von Erwerbslosigkeit
+Personen ohne Erwerbstätigkeit im Alter von 15 bis 74 Jahren, die sich
+in den letzten vier Wochen aktiv um eine Arbeitsstelle bemüht haben
+und sofort, d.h. innerhalb von zwei Wochen für die Aufnahme einer
+Tätigkeit zur Verfügung stehen.
+
+** 12. Gesetz der Nachfrage
+Bei steigendem Preis sinkt die nachgefragte Menge.
+** 13. Betrieb und Unternehmen, Unterschied
+Betriebe sind Wirtschaftssubjekte, in denen zur Deckung fremder
+Bedarfe Güter produziert und abgesetzt werden.
+
+Unternehmen sind autonome Betriebe in (mehrheitlich) privatem
+Eigentum, die gewinnorientiert arbeiten.
+
+Unternehmen bilden die rechtlich-finanzielle Seite von
+Einzelwirtschaften, Betriebe sind ihre produktionswirtschafliche
+Seite.
+** 14. öffentlicher und privater Haushalt
+Private Haushalte: Arbeit, Wohnort
+Öffentliche Haushalte: Stadtplanung, Kosten
+
+Gemeinsamkeiten: Wirtschaftssubjekte, in denen zur Deckung eigener
+Bedarfe Güter konsumiert werden.  Sie sind Nachfrager der von
+Betrieben angebotenen Gütern.
+
+Unterschiede: bei privaten Haushalte handelt es sich um individuelle
+Familien und Personen.  bei öffentliche Haushalte handelt es sich um
+Konsum des Staates, wird durch u.a. Steuern finanziert. 
+** 15. Unterschied Personengesellschaften und Kapitalgesellschaften
+Während die Personengesellschaft von mehreren Gesellschaftern
+gegründet wird, kann die Kapitalgesellschaft auch als
+Einzelunternehmen geführt werden. Außerdem muss bei
+Personengesellschaften keine Kapitaleinlage getätigt werden.
+** 16. Kennzahl der Liquidität ersten Grades
+Barliquidität. Es ist eine Kennzahl zur Beurteilung der
+Zahlungsfähigkeit (Liquidität) eines Unternehmens.
+
+Der Aussagekraft dieser Kennzahl ist begrenzt, da Vergangenheitsdaten
+und zeitpunktbezogen.
+** 17. Unterschied Sortenfertigung und Serienfertigung
+Sortenfertigung: Mehrere Einheiten verschiedener 
+Produkte auf gleichen Anlagen
+
+Serienfertigung: Mehrere Einheiten verschiedener 
+Produkte auf unterschiedl.  Anlagen
+** 18. Chargenfertigung
+eine Sonderform der Sortenfertigung. Man spricht von Chargenfertigung,
+wenn bei gleichem Materialeinsatz aufgrund nicht beeinflussbarer
+Bedingungen beim Produktionsprozess (zum Beispiel Keramikbrennofen)
+unterschiedliche Ergebnisse erzielt werden. Der jeweilige
+Materialeinsatz wird dann als Charge bezeichnet
+** 19. Baustellenfertigung
+handelt es sich um ein Ablaufprinzip, bei dem die Arbeitskräfte und
+Produktionsmittel zum Platz des ortsgebundenen Arbeitsgegenstandes,
+der Baustelle, gebracht werden
+** 20. Erläutern Sie die Dimension der Strategie in der agilen
+Netzwerkorganisation im Vergleich zur Hierarchie.
+
+Während in traditionellen Organisationen ausschließlich von innen nach
+außen gedacht wird, sehen wir in einer agilen Organisation das
+konsequente Gegenteil, nämlich eine konsequente Outside-in Denkweise.
+Der Kunde steht im Mittelunkt des Interesses, Denkens und Handelns.
+Die Strategie wird auf ihn ausgerichtet.
+
+** 21. Intrinsische-Extrinsische Motivation, Anreizgestaltung
+Intrinsische Motivation: Mensch handelt in dem Bestreben, etwas um
+seiner selbst willen zu tun.  Man findet Befriedigung in der Arbeit
+selbst.  Hat langfristige Wirkungsdauer.
+
+Extrinsische Motivation: Beweggründe liegen außerhalb der eigenen
+Handlung.  Man findet Befriedigung nicht in der Arbeit selbst, sondern
+in der Folgen der Arbeit.  Hat kurzfristige Wirkungsdauer.
+
+Anreizgestaltung umfasst das Anbieten und Abstimmen von mehreren
+Anreizen, welche erwünschete Verhaltensweisen auslösen und
+unerwünschte Verhaltensweisen zurückdrängen.
+
+Materielle Anreize: Positive: Direktvergütung, Erfolgsbeteiligung;
+Negative: Gehaltskürzung
+
+Immaterielle Anreize: Positive: Sicherheit, Aufstieg; Negative: Tadel,
+Restriktion
+
+** 22. Organisationsgrad
+Je mehr Regeln geschaffen werden, desto weniger Raum bleibt für
+individuelle und situative (spontane) Handlungweisen im
+Leistungprozess.
+
+Das Setzen von generellen Regeln macht dort Sinn, wo sich Aufgaben
+häufig in gleicher Wise wiederholen.
+
+Je variabler und unterschiedlicher die Tätigkeiten sind, desto wird
+mehr Freiraum benötigt.
+
+Regeln sollen Rahem festlegen, aber nicht überreguieren.
+
+** 23. Umwandlung der Organisationsstruktur von ???
+hierarchisch-pzramidalen zu einer agilen.
+
+Die Organisation orientiert sich nicht mehr an vergangenen
+Hierarchien, sondern ist selbst kundenzentriert und vergleichsweise
+oft in einem Peach-Modell organisiert und strukturiert.
+** 24. Ablauf eines Projekts nach der Scrum-Methode
+
+** 25. Führung in der agilen Organsation
+Verteilte Führung und empowered Leadership.
+
+Unter verteilter Führung
+verstehen wir die Vertielung von Führungsaufgaben auf mehrere
+Schultern gemäß der agilen Logik.
+
+Empowered Leadership bedeutet die Ermächtigung der Mitarbeiter,
+bestimmte Dinge selbst entscheiden zu können und stärker
+selbstverantwortlich handeln zu dürfen.
+** 26, 27. Sanktionsmacht, Expertenmacht, Informationsmacht, Identifikationsmacht
+- Sanktionsmacht :: Der Personal soll durch Machteinsatz beeinflusst
+  werden, die entsprechende Belohnung anstreben bzw. Bestrafung fürchten.
+- Expertenmacht :: Der Personal hat Expertenmacht, wenn
+  der Personal innerhalb einer sozialen Beziehung relevantes Wissen
+  oder relevantes Fähigkeiten zugeschrieben wird.  Achtung, die
+  Zuschreibung ist wichtiger als die tatsächliche Fähigkeiten.
+- Informationsmacht :: Kontrolle über die Nutzung und Verteilung von
+  Informationen, die für andere Personen wichtig sind.
+- Identifikationsmacht :: Sie beruht auf einer Vorbildfunktion des
+  Mächtigen oder der Mächtigen, der es nachzueifern gilt. Dadurch,
+  dass die Mitarbeiter sich mit dem Vorgesetzten identifizieren und
+  ihm oder ihr gefallen möchten, hat das Vorbild Einfluss auf die
+  Mitarbeiter.
+
+** 28. Konflikt zwischen Mitarbeiter und Unternehmen
+Motivation besteht darin, Bedürfnisse der Mitarbeiter zu befriedigen.
+Die Führung existiert als Ausgleich zwischen den Sachzwängen und den
+Bedürfnissen der Mitarbeiter.

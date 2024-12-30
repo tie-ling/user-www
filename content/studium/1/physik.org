@@ -1,0 +1,530 @@
+#+title: physik
+#+date: 2024-12-31T00:17:08+01:00
+* Probeklausur
+
+Kein Hilfsmittel außer Schreibzeug.
+
+* Methoden
+
+** Was ist Physik
+
+Zentrales Ziel der Physik ist es, der Natur ihre Gesetzmäßigkeiten zu
+entlocken.
+
+** Methoden der antiken Physik: Beobachtung
+
+Beobachtung der Natur
+
+Überlegungen zu den Beobachtungen
+
+Abstraktion auf das Allgemiene
+
+Schlüsse über grundlegende Gesetze
+
+** Methoden der modernen Physik: Experiment
+
+Isolierte Betrachtung eines Phänomens, störende Einflüsse werden
+beseitigt und so ausgeblendet.
+
+Widerholbarkeit und Überprüfbarkeit der Ergebnisse des Experiments.
+
+Besitmmung quantitativer Aussagen durch Messungen.
+
+** Definitionen
+Hypothese:  Vermutung aufgrund experimenteller Tatsachen
+
+Theorie: Eine Theorie ist eine Menge Hypothese zur Beschreibung eines
+Phänomens.
+
+Modell: vereinfachte Beschreibung eines physikalischen Zusammenhangs.
+
+** Warum Physik wichtig?
+Die Methodik der Physik mit Experiment und Theorien ist vorbildlich.
+
+Physik bestimmt Vorgänge in vielen anderen Fächern.
+
+Physik stellt Messmethoden und Geräte zur Verfügung.
+
+** Messen
+Bestimmung einer physikalischen Größe.  Ermittlung von Messwerten.
+Abschätzung des Messfehlers.
+
+** Messfehler
+Zufälliger Fehler: zufällig, kann man nicht beheben.
+
+Systematischer Fehler: nicht zufällig, kann man beheben.
+
+* Teilchen und Wellen
+
+** Teilchen
+
+Elektron sind unteilbar.  Elementarladung: 10^-19C.
+
+Der Kern eines Atoms besteht aus Protonen und Neutronen.
+
+Photon (Lichtteilchen) hat keine Ruhemasse und keine Ausdehnung.
+
+** Wellen
+
+Eine Welle ist eine sich räumlich ausbreitende Schwingung.
+
+Licht besitzt Welle-Teilchen-Dualismus.
+
+** Kräfte
+
+Starke Wechselwirkung halt Kern zusammen.
+
+Schwache Wechselwirkung tritt nur bei der Radioaktivität auf.
+
+Elektromagnetische Wechselwirkung ist verantwortlich für die
+elektromagnetischen Wellen.
+
+Gravitationskraft.
+
+* Kraft und Bewegung
+** Bewegung
+
+1. Newtonsche Axiom:  Trägheit.  Der Körper ist zu träge, etwas zu
+   ändern und bleibt wie er sich gerade bewegt.
+
+2. Newtonsche Axiom:  Beschleunigung.  Eine Kraft verursacht eine
+   Änderung der Geschwindigkeit des Körpers.
+
+3. Newtonsche Axiom: Aktion = Reaktion.  Übt ein Körper A auf einen
+   anderen Körper B eine Kraft aus (actio), so wirkt eine gleich
+   große, aber entgegengerichtete Kraft von Körper B auf Körper A (reactio).
+   Beispiele: Arbeiten im Weltraum.  Schwimmen;  Ruderboot nach vorne
+   bewegen
+   
+*** Gravitation
+
+Gravitationsgesetz:  alle Köper ziehen einander an.  Beispiel: Fallen
+eines Steins und den Lauf des Mondes um die Erde, Bewegung der
+Planeten um die Sonne.
+
+Gewichtskraft ist gleich Masse mal Gravitationskonstante.
+
+** Mehrere Bewegungen
+
+Man muss Vektoren addieren, wenn mehrere Bewegungen auftritt.
+
+Beispiel: Die Geschwindigkeit eines Bootes in einem fließenden Fluss
+ist in echt die Vektorsumme aus v_Boot und v_Fluss.  Ein Wasserstrahl.
+
+Beispiel: Um weit zu werfen, kommt es auf den Anlauf und auf den
+Abwurfwinkel an.
+
+Tennis- und Volleyballspieler werfen den Ball so hoch, sodass sie ihn
+am höchsten Punkt treffen kann, denn am höchsten Punkt steht der Ball
+in der Luft.
+
+*** Schlittenfahren
+
+Beim Schlittenfahren teilt sich die Schwerkraft vektoriell in zwei
+Kräfte auf:
+
+1. Normalkraft, drückt den Schlitten auf den Boden.
+2. Handabtriebskraft, die parallel zur Ebene wirkt.
+
+
+*** Schiefe Ebene
+
+Effekte sind die Reduzierung der Kraft durch Verlängerung des Weges:
+1. Keil
+2. Rampe/Serpentinenstraße
+3. Schraube
+4. Hebel
+   Mit einem Hebel kann man große Lasten anheben, weil sich die
+   aufzuwendende Kraft proportional zur Länge des Hebelarms reduziert.
+5. Flaschenzug
+
+*** Elastischen Stoß
+
+Beim elastischen Stoß wird die mechanische Energie beim Aufprall eines
+Körpers auf einen andern Körper vollständig wieder in mechanische
+Energie umgewandelt.
+
+Anwendungen
+- Wagen trifft auf Wagen
+- Billard: zwei Kugeln haben die gleiche Masse, deshalb bleibt eine
+  Kugel beim Treff still, die andere Kugel läuft mit gleiche
+  Geschwindigkeit und Richtung los.
+- Ball trifft auf Wand: denn die Wand hat gegenüber dem Ball eine viel
+  größere Masse.
+
+*** Unelastischen Stoß
+
+Beim unelastischen Stoß bewegen beide Körper nach dem Stoß mit einer
+gemeinsamen Geschwindigkeit weiter.  Ein Teil der Energie werden in
+Verformung oder Wärme umgewandelt.
+
+- Zusammenstoß von Autos
+- Einschlag einer Kugel in den Körper
+- Schlag eines Hammers auf einen Nagel.
+
+** Drehen als Bewegung
+
+- Geschwindigkeit des Drehens: Winkegeschwindigkeit mit der Einheit 1/s = 1Hz
+- Masse wird zum Trägheitsmoment
+- Kraft zum Drehmoment
+- Drehimpuls
+- Rotationsenergie
+
+
+*** Drehimpulserhaltung
+
+Aufgrund der Drehimpulserhaltung sind rotierende Objekte stabil
+
+1. Katze fällt immer auf die eigenen vier Füße, weil sie aktiv mit
+   Ihrem Schwanz Ihren Drehimpuls steuern kann.
+
+** Fahrzeuge in Bewegung
+
+*** Warum ein Flugzeug fliegt
+**** Antrieb
+Für Antrieb: Aktion=Reaktion, denn der Propeller und Turbine saugen Luft an und
+stoßen die nach hinten ab.  Der Hubschrauber saugt die Luft von oben
+an und stößt sie nach unten.
+
+**** Auftrieb
+
+Für Auftrieb: es braucht den richtige Flügelform und viel Wind von
+vorn.  Der Auftrieb wird erzeugt, weil oberhalb des Flügels die Luft
+zusammengedrückt wird und damit schneller strömt als unterhalb des
+Flugzeugs.
+
+* Die Erde
+** Die Erde bewegt sich
+Kopernikus formulierte 1543 seinen Weltbild, indem er die Sonne in den
+Mittelpunkt setze.
+
+Brahe und Kepler haben dann seinen Weltbild bewiesen.
+
+** Ebbe und Flut
+Ebbe und Flut treten zwimal am Tag auf.  Die Anziehungskraft der
+Mondmasse verursacht die eine Flut.
+
+Die Fliehkraft erzeugt die zweite Flut.  Da das Paar Erde/Mond nicht
+um den Erdmittelpunkt, sondern das gemeinsame Gravitationßentrum
+kreist.
+
+** Die Erde dreht sich
+
+Die Erde kreist um die Sonne. Die Erde dreht sich auch um sich selbst.
+Die Drehachse der Erde ist dabei geneigt um 23.4 Grad.
+
+** Die schiefe Drehachse als Grund für unsere Jahreßeiten
+Der Drehimpulserhaltungssatz: die Drehachse der Erde steht immer
+gleich im Raum.
+
+Im Sommer wird die Nordhalbkugel länger und intensiver von der Sonne
+beschienen, der Tag ist länger und es kommt mehr Sonnenlicht an.
+
+Nach einem halben Jahr wird die Südhalbkugel länger bestrahlt und ist
+dort Sommer.
+
+In den Tropen gibt es nur Regen und Trockenzeit, denn die Zone liegt
+zwischen den nödlichen und südlichen Wendekreisen.
+
+** Wirbelstürme
+
+Wirbelstürme entstehen wegen der stärkeren Drehung meist in der Nähe
+des Äquators.
+
+** Erde hat Magnetfeld
+
+Erde besitzt einen festen inneren und einen flüssigen äußeren Kern aus
+Eisen.  Das Eisen ist dort wegen hohen Temperaturen nicht magnetisch,
+aber das Eisen leitet Strom, der wiederum ein Magnetfeld erzeugt.
+
+** Erde hat Atmosphäre
+Die Erdatmosphäre lässt nur die passende Strahlung durch.
+
+Die Atmosphäre der Erde sorgt für gleichmäßige Temperaturen.
+
+Die Atmosphäre erzeugt Treibhauseffekt.  Dei Atmosphäre lässt
+sichtbares Licht durch, aber reflektiert Wärmestrahlung.
+
+* Wasser
+** Warum ist einem kalt, wenn man aus dem Wasser kommt
+Es beruht auf dem Verdunsten der Wassertropfen auf der Haut in die
+umgebende Luft.  Die benötigte Verdampfungswärme entzieht der der
+Umgebung (Haut) Wärme.
+
+Was hilft?  Schnell abtrocknen, damit die Wassertropfen weg sind.
+Hohe Luftfeutigkeit, damit kein Wasser mehr verdampfen kann
+(Tropen, Duschkabine schließen).  Nicht in den Wind stellen.
+
+Mit Schwitzen regulieren wir unseren Wärmehaushalt und verdampfen die
+Wassertröpfchen.
+
+Wäsche trocknet an der frischen Luft am besten.
+
+** Wasser hat keine Farbe
+Blau ist die Streuung des Lichtes an den Wassermolekülen, denn Blaues
+Licht wird viel stärker gestreut als rotes.
+
+Tiefes Wasser ist blau: Bei viel Wasser wird das blaue Licht der Sonne gestreut, so dass ein
+Teil des blauen Lichts wieder aus dem Wasser herauskommt;  die anderen
+Farben kommt wegen schwache Streuung nicht aus.
+
+Flaches Wasser ist Türkis: ist die Mischung aus blau (Wasser) und beige (Sand).
+
+Wolken sind weiß: denn Wolken bestehen aus kleinen gefrorene
+Wassertropfen.
+
+** Farbe des Himmels blau/rot/schwarz
+Rayleigh-Streuung: Blaues Licht wird stärker gestreut als rotes.
+
+Der Mondhimmel ist schwarz, denn es gibt keine Luftteilchen, die Licht
+streuen.
+
+Der Erdhimmel ist blau, denn die Luftteilchen Licht streut.
+
+Die Sonne ist gelb, denn Blau wird weggestreut.
+
+Die Sonne am Abend ist rot, denn beim langen Weg durch Atmosphäre wird
+alls Blau gestreut.
+
+** Wärme gleich Energie
+
+Die im Körper enthaltene Wärme -- seine innere Energie ist die
+Bewegung der Atome/Moleküle.
+
+** Anomalie des Wassers
+
+Keine Flaschen im Tiefkühlfach aufbewahren.  Eisberge schwimmen auf
+dem Wasser.  Mit Druck kann man Eis zum Schmelzen bringen.
+Lebenswesen im Kalten Wasser, denn unten ist es immer gleich warm.
+
+Achtung: Schlittschuhlaufen ist kein Effekte der Anomalie des Wassers,
+denn die Reibung erzeugt Wärme, die wiederum das Eis im schmilzt.
+
+** Seewind/Landwind an der Küste
+
+Der Seewind entsteht, wenn die Erde schneller als das Wasser am Morgen
+erwärmt.  Der Landwind entsteht, wenn in der Nacht die Erde schnell
+als das Wasser abkühlt.
+
+* Bewegung der Atome
+
+** Schall entsteht durch Schwingung
+*** Was ist Schall und Wie entsteht der Schall?
+Die Schwingung der Gitarrensaite erzeugt der Schall.
+
+*** Warum hört sich derselbe Ton bei verschiedenen Musikinstrumenten
+
+unterschiedlich an?
+
+Grundschwingung und Oberschwingungen
+
+Schwingt etwas, gibt es außer der Grundschwingung auch
+Oberschwingungen.  Das Verhältnis der Amplituden der Oberschwingungen
+bestimmt den Klang.
+
+*** Amplitude und Frequenz
+
+Die Amplitude bestimmt die Lautstärke des Schalls.
+
+Die Frequenz bestimmt die Tonhöhe des Schalls.
+
+*** Anwendungen von Resonanz
+
+Resonanz: Wenn man etwas mit seiner Eigenfrequenz anregt, dann
+entsteht die Resonanz.
+
+Absorption und Emission von Licht in den Atomen/Molekülen;
+Radio/Fernsehen über den elektrischen Schwingkreis; Moderne Medizin:
+MRT etc.
+
+*** Ausbreitung von Schall
+Der Schall pflanzt sich im Medium (Luft) fort.
+
+Das Schbsen der Lufttielchen ergitbt eine longitudinale Welle.  Der
+Schall ist auch eine Longitudinalwelle.
+
+*** Lautstärke von Schall
+
+Schall ist eine logitudinale Druckwelle.
+
+** Schallphänomene
+
+*** Doppler-Effekt
+Wenn sich die Quelle bewegt, erzeugt zwar die Schwingung dieselbe
+Frequenz, aber der Ausgangspunkt der Welle verändert sich:  die
+Wellenfronten vor einer bewegten Quelle werden zusammengedrückt;
+damit erhöht sich die Frequenz.  Die Wellenfronten hinter einer
+bewegten Quelle werden auseinandergezogen; damit reduziert sich die
+Frequenz.
+
+Analog: wenn sich der Empfänger auf die Quelle zubewegt, damit erhöht
+sich die Frequenz; wenn sich der Empfänger von der Quelle wegbewegt,
+damit reduziert sich die Frequenz.
+
+Anwendung: Lichtwelle: Rotverschiebung der Sterne.  Radar, GPS.
+** Teilchenbewegung und Wärme
+*** Warum wird der Kaffee kalt?
+
+Wärmeleitung: Die Atome der Kaffee stoßen an andere langsamerer Teilchen in der
+Umgebung und geben ihre Bewegung an diese ab.
+
+In einer Thermoskanne/Dewargefäß: Wärmeleitung wird durch das Vakuum im
+Rand des Gefäßes unterbunden.
+
+Wärmeströmung: Die Atome der Kaffee verflüchtigen sich in alle
+Richtungen und verteilen sich.
+
+In einer Thermoskanne/Dewargefäß: Wärmeströmung wird durch dem Deckel
+auf die Kanne verhindert, denn heiße Luft kann nicht mehr nach oben
+entweichen.
+
+Wärmestrahlung: Die Atome der Kaffee geben Energie in Form
+elektromagnetischer Strahlung ab.
+
+In einer Thermoskanne/Dewargefäß: Wärmestrahlung wird reduziert, aber
+nicht ganz verhindert, durch den verspiegelte Innenseite.
+
+* Elektromagnetische Strahlung
+** Lichtgeschwindigkeit
+Die Lichtgeschwindigkeit ist konstant, es gibt keine Medium
+
+Die Lichtgeschwindigkeit ist nicht immer gleich.  Wenn das Licht durch
+ein Material durchgehen muss, wird es gebremst.
+
+Die Lichtgeschwindigkeit in Materialien ist auch abhängig von der
+Wellenlänge des Lichtes.
+
+** Reflexion des Lichtes
+Ausfallswinkel gleich dem Einfallswinkel.
+
+Außerhalb der Brennweite: umgedrehtes Bild.  Innerhalb der Brennweite:
+normales Bild.
+
+** Brechung des Lichts
+Wenn das Licht vo neinem Gegenstand duch verschiedene Materialien
+geht, dann wird der Lichtstrahl abgeknickt.  Denn, Lichtstrahl nimmt
+den schnellsten Weg zum Zielpunkt und das Licht ist im dichteren
+Medium langasmer.
+
+** Totalreflexion
+Ab einem Grenzwinkel tritt der Lichtstrahl nicht mehr aus dem
+dichteren Medium aus; dieses Phänomen nennt sich Totalreflexion.
+Anwendung: Glasfaserkabel.
+
+** Regenbogen
+Wegen Brechung: denn das Sonnenlicht wird im Regentropfen gebrochen
+
+Wegen Dispersion: wenn das Sonnenlicht die Tropfen verlässt, wird das
+Licht in Farben aufgeteilt, wegen der verschiedenen Geschwindigkeiten
+der Wellenlänge
+
+Wegen Totalreflexion:  dreht die Farben um.
+
+** Das Auge; Fehlsichtigkeit
+weitsichtiges Auge: der Brennpunkt liegt hinter der Netzhaut
+
+kurzsichtiges Auge: der Brennpunkt liegt vor der Netzhaut.
+
+* Energie
+** Formen der Energie
+- Innere Energie: Kernenergie; Wärmeenergie; Chemische Energie
+
+  Verbrennung; Kernkraft; Nährung umgewandelt in Wärmeenergie und
+  Mechaische Energie durch Körper.
+- Mechanische Energie: Bewegungsenergie; Höhenenergie; Spannenergie
+
+  Umwandlung: Fahrrad wandeln Rotationsenergie in kinetische Energie um.
+- Strahlungsenergie: Funkwellen; Licht: Radioaktivität
+
+  Person in Wasserwelle; Mikrowellenherd
+- Elektrische Energie: Blitz; Elektromagnet; Stromkreis
+** Hauptsatz der Wärmelehre
+*** Erster Satz
+In abgeschlossenen System:
+
+Zunahme der inneren Energie = Wärme von außen + mechanischer Energie
+von außen
+
+Perpetuum Mobile 1. Art existiert nicht.
+*** Zweiter Satz
+In abgeschlossenen System
+
+Entropie nimmt immer zu.
+
+Perpetuum Mobile 2. Art existiert nicht.
+*** Dritter Satz
+Am absoluten Nullpunkt ist die Entropie gleich Null.
+
+Der absolute Nullpunkt ist nicht erreichbar.
+
+** Wärmemaschine Carnot-Prozess
+Höchstens 50% Wirkungsgrad.
+
+*** Otto-Motor
+40% Wirkungsgrad
+*** Diesel
+50%
+*** Turbinen-Luftstrahltriebwerk
+40%
+*** Photovoltaik
+18% bis 24%
+
+* Elektrizität
+** Strom
+Elektronen tragen die negative Elementarladung.  Wenn in einem
+Leiterkabel Strom fließt, dann bewegen sich die Elektronen, dadurch
+wird Ladung transportiert.
+
+** Wie fließt Strom in einem metallischen Leiter
+Im Metall gibt es zwischen den Ionen auch freie Elektronen.  Wird ein
+elektrisches Spannung angelegt, werden die freien Elektronen in eine
+Richtung fließen.  Die Elektronen schubsen sich an, sodass der
+elektrische Strom mit nahezu Lichtgeschwindigkeit fließt, die
+einzelnen Elktronen selbst bewegen sich mit nur 0,4mm/s.  Bei 1A Strom
+fließt pro Sekunde eine Ladung von 1C durch den Leiter.
+
+** Nicht alle Festkörper sind Leiter
+In Isolatoren gibt es keine freien Elektronen; alle Elektronen sind an
+die Atomkerne fest gebundne und können sich nicht weg bewegen.
+
+Halbleiter: beim Halbleiter werden bei Raumtemperatur einige
+Elektronen den Atomkernen entrissen; diese stehen dann als freie
+Elektronen für die elektrische Leitung zur Verfügung.
+
+** Herstellung der Strom
+Strom erzeugt ein Magnetfeld; ein Magnetfeld lenkt Strom ab.
+
+** Ein Magnetfeld erzeugt Strom durch Induktion
+
+Im Leiter befinden dich frei bewegliche Elektronen.  Bewegung des
+Leiters quer zum Magnetfeld bringt wegen der Lorentzkraft die
+Elektronen in Bewegung.
+
+** Warum Wechselstrom
+Er ist einfach zu erzeugen: im Generator/Dynamo entsteht automatisch
+Wechselstrom
+
+Er lässt sich leicht transformieren durch Induktion.
+
+** Der Elektromotor die Umkehrung des Generators
+Man schickt Strom druch die Spule, die sich im Magnetfeld bewegt und
+eine Drehbewegung erzeugt.
+
+* Kernkraft
+Elektronen haben "Schalen".  Auch die Kerne haben "Schalen".
+
+** Radioaktivität
+*** Alpha-Strahlung
+Ein Heliumkern (stabil!) verlässt den Kern; wegen der Größe der
+Teilchen ist die Alpha-Strahlung leicht abzuschirmen, z.B. mit Papier
+oder Kleidung.
+
+*** Beta-Stralung
+Ein Elektron oder Positron verlässt den Kern; zur Abschirmung brauch
+man z.B. ein Metallblech.
+
+*** Gamma-Strahlung
+Hochenergetische elektromagnetische Strahlung; muss mit Beton/Blei
+hoher Dicke abgeschirmt werden.
+
+* Quanten und Relativität
