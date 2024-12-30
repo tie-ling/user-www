@@ -1,0 +1,24 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+{{ if .IsPage }}
+<!-- structured data for search engines
+https://developers.google.com/search/docs/appearance/structured-data/article -->
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org/",
+    "@type": "BlogPosting",
+    "headline": "{{ .Title }}",
+    "datePublished": "{{ .Date | time.Format "2006-01-02T15:04:05-07:00" }}",
+    "author": [ {"@type": "Person", "name": "{{ .Site.Params.Author.name }}"} ],
+    "url": "{{ .Permalink }}",
+    "isPartOf": {
+        "@type" : "Blog",
+        "@id": "{{ .Site.BaseURL }}",
+        "name": "{{ .Site.Title }}"
+     }
+}
+</script>
+{{ end }}
+{{ partialCached "head/css.html" . }}

@@ -1,0 +1,21 @@
+baseURL = './'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'default'
+pluralizelisttitles = false
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 30
+
+[markup]
+defaultMarkdownHandler = 'org'
+
+[params.author]
+name = "Yan Cao"
