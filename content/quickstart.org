@@ -1,6 +1,5 @@
 #+TITLE: Quickstart | Org mode
 #+date: 2024-12-30T23:01:06+01:00
-#+description: Org: an Emacs Mode for Notes, Planning and Authoring
 
 * Getting started with Org-mode
   :PROPERTIES:
@@ -27,7 +26,7 @@ that transforms Org syntax into a living, interactive document.
 At the start of a file (before the first heading), it is common to
 set the title, author and other [[https://orgmode.org/manual/Export-Settings.html][export options]].
 
-#+BEGIN_SRC org
+#+BEGIN_SRC
 ,#+title: The glories of Org
 ,#+author: A. Org Writer
 #+END_SRC
@@ -42,7 +41,7 @@ Lines that start with an asterisk ~*~ are [[https://orgmode.org/worg/dev/org-syn
 A single ~*~ denotes a 1st-level heading, ~**~ denotes a 2nd-level
 heading, etc.
 
-#+BEGIN_SRC org
+#+BEGIN_SRC
 ,* Welcome to Org-mode
 ,** Sub-heading
 Each extra ~*~ increases the depth by one level.
@@ -57,7 +56,7 @@ organize all kinds of tasks.
 To add a TODO item to a heading, start the heading with a TODO
 keyword such as ~TODO~ or ~HOLD~.
 
-#+BEGIN_SRC org
+#+BEGIN_SRC
 ,* TODO Promulgate Org to the world
 ,** TODO Create a quickstart guide
 #+END_SRC
@@ -94,7 +93,7 @@ a plain list if it is immediately preceded by a newline because it
 will be interpreted as a heading.].  Ordered lists start with ~1.~, ~1)~,
 ~A.~, or ~A)~.  Ordered and unordered bullets can be nested in any order.
 
-#+BEGIN_SRC org
+#+BEGIN_SRC
 To buy:
 1. Milk
 2. Eggs
@@ -105,14 +104,14 @@ To buy:
 #+END_SRC
 
 Lists can contain checkboxes ~[ ]~, ~[-]~, ~[X]~.
-#+BEGIN_SRC org
+#+BEGIN_SRC
 - [ ] not started
 - [-] in progress
 - [X] complete
 #+END_SRC
 
 Lists can contain tags (and checkboxes at the same time).
-#+BEGIN_SRC org
+#+BEGIN_SRC
 - [ ] fruits :: get apples
 - [X] veggies :: get carrots
 #+END_SRC
@@ -172,7 +171,7 @@ Org mode uses =#+BEGIN= ... =#+END= blocks for many purposes.
 Some of the basic blocks types quote, example, and src.
 
 If all you need is monospace text, you can use an example block.
-#+BEGIN_SRC org
+#+BEGIN_SRC
 ,#+begin_example
 monospace
 ,#+end_example
@@ -181,7 +180,7 @@ monospace
 However, example blocks do not give you the power of [[https://orgmode.org/worg/org-contrib/babel/][Org babel]].
 For that you need a source block.
 Source blocks provide syntax highlighting, code execution, literate programming, and more.
-#+BEGIN_SRC org
+#+BEGIN_SRC
 ,#+begin_src
 (message "Hello world")
 ,#+end_src
@@ -201,7 +200,7 @@ and formulas.
 
 In its simplest form a table is text separated using pipes ~|~.
 
-#+BEGIN_SRC org
+#+BEGIN_SRC
 | I    | am  | a    | table |
 | with | two | rows | !     |
 #+END_SRC
@@ -209,7 +208,7 @@ In its simplest form a table is text separated using pipes ~|~.
 A more useful example is this comparison of existing Literate
 programming / reproducible research tools (from [[doi:10.18637/jss.v046.i03][Schulte /et al./ 2012]]).
 
-#+BEGIN_SRC org
+#+BEGIN_SRC
 | Tool         | Literate programming? | Reproducible Research? | Languages |
 |--------------+-----------------------+------------------------+-----------|
 | Javadoc      | partial               | no                     | Java      |
@@ -237,7 +236,7 @@ Org mode has a variety of ways to add comments.
   exact behavior of headings, including use of the special tags ~:ARCHIVE:~ and
   ~:noexport:~.].
 
-#+BEGIN_SRC org
+#+BEGIN_SRC
 # A line comment
 
 Example of an @@comment:inline@@ comment.
@@ -271,7 +270,7 @@ This text will be exported and code blocks will run.
 Org has many more advanced features built into its syntax.  To give
 only a single example, let's take a look at [[https://orgmode.org/manual/Macro-Replacement.html][macros]].
 
-#+BEGIN_SRC org
+#+BEGIN_SRC
 ,#+macro: attn _*/$1/*_
 {{{attn(Attention! This text gets all the markup!)}}}
 
@@ -345,7 +344,7 @@ On GNU/Linux, just use your package manager to install Emacs.
 
 On Debian:
 
-#+BEGIN_SRC sh
+#+BEGIN_SRC
 sudo apt-get install emacs
 #+END_SRC
 
@@ -394,7 +393,7 @@ which will enable the Org mode on the current document.
 To make Emacs understand that this is an Org document, add the
 following to the *top* of your document:
 
-#+BEGIN_SRC org
+#+BEGIN_SRC
 MY PROJECT -*- mode: org -*-
 #+END_SRC
 
@@ -452,7 +451,7 @@ actually start using it. Let's begin with an outline that will help us
 get to know Org mode. Start a new document (*C-x b*), call it 2.org, and
 copy and paste the following in it:
 
-#+BEGIN_SRC org
+#+BEGIN_SRC
 #-*- mode: org -*-
 ,#+STARTUP: showall
 
@@ -501,7 +500,7 @@ Finally, to add a new headline, press *M-RET*.
 Besides headlines there are still other kind of lists, ordered and
 unordered lists. They look like this:
 
-#+BEGIN_SRC org
+#+BEGIN_SRC
 ,** Lord of the Rings
    My favorite scenes are (in this order)
    1. The attack of the Rohirrim
@@ -554,7 +553,7 @@ The biggest use-case of Org mode is using it to keep track of
 TODOs. To start working with TODOs you don't have to do anything,
 just add the TODO keyword in a headline:
 
-#+BEGIN_SRC org
+#+BEGIN_SRC
 ,** TODO buy airplane
 #+END_SRC
 
@@ -571,7 +570,7 @@ folding the rest away.
 Org mode files can be configured by adding workflow states to the
 beginning of the file, like so:
 
-#+BEGIN_SRC org
+#+BEGIN_SRC
 ,#+TODO: TODO IN-PROGRESS WAITING DONE
 #+END_SRC
 
@@ -590,7 +589,7 @@ Adding the workflow states to every org-file you create gets boring
 soon, so it also possible to do this in your config file. Add the
 following /after/ the (require 'org) line:
 
-#+BEGIN_SRC lisp
+#+BEGIN_SRC
 (setq org-todo-keywords
   '((sequence "TODO" "IN-PROGRESS" "WAITING" "DONE")))
 #+END_SRC
@@ -671,7 +670,7 @@ Further reading:
 If you open up your emacs configuration file, after you have used
 *C-c [*, you will see the following:
 
-#+BEGIN_SRC emacs-lisp -n -r
+#+BEGIN_SRC
 (custom-set-variables
   ;; custom-set-variables was added by Custom.
   ;; If you edit it by hand, you could mess it up, so be careful.
@@ -713,7 +712,7 @@ example all tasks on the phone, reading, shopping, etc.
 
 To add tags, add the following to the top your document:
 
-#+BEGIN_SRC org
+#+BEGIN_SRC
 ,#+TAGS: { @OFFICE(o) @HOME(h) } COMPUTER(c) PHONE(p) READING(r)
 #+END_SRC
 
@@ -741,7 +740,7 @@ implement GTD]]
 To add tags to the Emacs config-file, so it is available to all your
 documents, add the following.
 
-#+BEGIN_SRC emacs-lisp
+#+BEGIN_SRC
 (setq org-tag-alist '(("@work" . ?w) ("@home" . ?h) ("laptop" . ?l)))
 #+END_SRC
 
@@ -824,7 +823,7 @@ How do you go about that?
    - [[http://code.google.com/p/msysgit/][Myssysgit]] git on Windows
    - On Linux, use your package manager:
 
-   #+BEGIN_SRC sh
+   #+BEGIN_SRC
    sudo apt-get install git
    #+END_SRC
 
@@ -834,7 +833,7 @@ How do you go about that?
 
 3. Download the latest version of Org mode:
 
-   #+BEGIN_SRC sh
+   #+BEGIN_SRC
     mkdir ~/Build/Emacs
     cd ~/Build/Emacs
     git clone https://git.savannah.gnu.org/git/emacs/org-mode.git
@@ -843,7 +842,7 @@ How do you go about that?
 
 4. Add to your Emacs-init file:
 
-   #+BEGIN_SRC emacs-lisp
+   #+BEGIN_SRC
    (setq load-path (cons "~/Build/Emacs/org-mode/lisp" load-path))
    (setq load-path (cons "~/Build/Emacs/org-mode/contrib/lisp" load-path))
    #+END_SRC
@@ -853,7 +852,7 @@ How do you go about that?
 
 5. To keep up-to-date with Org mode in the future do:
 
-   #+BEGIN_SRC sh
+   #+BEGIN_SRC
     cd ~/Build/Emacs/org-mode
     git pull && make clean && make && make doc
    #+END_SRC
