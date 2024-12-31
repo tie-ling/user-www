@@ -10,9 +10,9 @@
   {{ .Content }}
 
 
- {{ $lastmodMachine := .Lastmod | time.Format "2006-01-02T15:04:05-07:00" }}
- {{ $lastmodHuman := .Lastmod | time.Format ":date_long" }}
- <p>This page was last edited on <time datetime="{{ $lastmodMachine }}">{{ $lastmodHuman }}</time>.</p>
+  {{ $lastmodMachine := .Lastmod | time.Format "2006-01-02T15:04:05-07:00" }}
+  {{ $lastmodHuman := .Lastmod | time.Format ":date_long" }}
+  <p>{{T "message-lastmod"}} <time datetime="{{ $lastmodMachine }}">{{ $lastmodHuman }}</time>.</p>
 
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}
