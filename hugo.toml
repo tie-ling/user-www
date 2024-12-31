@@ -1,6 +1,7 @@
 baseURL = './'
-title = 'My New Hugo Site'
 theme = 'default'
+defaultContentLanguageInSubdir = true
+defaultContentLanguage = 'en'
 pluralizelisttitles = false
 summarylength = 10
 
@@ -17,6 +18,7 @@ defaultMarkdownHandler = 'org'
     languageCode = 'de-DE'
     contentDir = 'content/de'
     languageName = 'Deutsch'
+    title = 'Marzahn'
     weight = 3
     [languages.de.menus]
       [[languages.de.menus.main]]
@@ -35,6 +37,7 @@ defaultMarkdownHandler = 'org'
     languageCode = 'en-US'
     contentDir = 'content/en'
     languageName = 'English'
+    title = 'Marzahn'
     weight = 1
     [languages.en.menus]
       [[languages.en.menus.main]]
@@ -48,6 +51,7 @@ defaultMarkdownHandler = 'org'
   [languages.zh]
     languageCode = 'zh-CN'
     contentDir = 'content/zh'
+    title = '马灿'
     languageName = '简体中文'
     weight = 2
     [languages.zh.menus]
