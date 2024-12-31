@@ -1,0 +1,48 @@
+#+title: Plain Text Publishing with Hugo
+#+date: 2024-12-31T04:28:52+01:00
+#+draft: true
+#+tags[]: hugo
+#+isCJKLanguage: false
+
+This article introduces you to plain text publishing with Hugo.
+
+# more
+
+* Note to self
+
+** No need for archive page
+There is no need to have a separate page for "blog archive": a list of
+all blog posts within a Hugo, ordered chronologically.
+
+Instead, we can use sections and their templates to achieve the same
+effect.
+
+*** Sections
+A section is a top-level content directory, or any content directory
+with an _index.md file.
+
+Consider the following content organization:
+#+begin_src
+content
+├── posts
+│   ├── 2024
+│   │   └── besichtigung.org
+│   └── _index.org
+└── studium
+    ├── 1
+    │   ├── inf.org
+    │   ├── physik.org
+    │   ├── recht.org
+    │   └── vwl.org
+    └── _index.org
+#+end_src
+In this example, there are two top-level directories, =posts= and
+=studium=.
+Their section page is defined by the =_index.org= files.
+Their section page will be rendered by the Section templates
+defined in the theme.
+
+Here is where the magic happens.  In the section template defined in
+the theme, we let the program iterate over all regular pages in the
+section, creating a link for each of the pages.  In this way, the
+section pages become archive pages.
