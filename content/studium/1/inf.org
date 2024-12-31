@@ -2665,6 +2665,7 @@ Sie diese an.
 
 
 * Vorbreitungen
+#+begin_src
 ; syntax: grammatik
 ; semantik: bedeutung
 
@@ -2903,5 +2904,4 @@ def new_pandas():
     
 
     return df
-
-
+#+end_src
