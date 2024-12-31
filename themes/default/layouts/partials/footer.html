@@ -1,1 +1,4 @@
+{{ $lastmodMachine := .last | time.Format "2006-01-02T15:04:05-07:00" }}
+{{ $lastmodHuman := .lastmod | time.Format ":date_long" }}
+<p>This page was last edited on <time datetime="{{ $lastmodMachine }}">{{ $lastmodHuman }}</time>.</p>
 <p>Copyright {{ now.Year }}. All rights reserved.</p>
