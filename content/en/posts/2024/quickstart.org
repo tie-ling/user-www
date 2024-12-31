@@ -12,6 +12,9 @@ This article demonstrates the synergy between Hugo and Org mode.
 
 # more
 
+* Bread for You!
+[[bread.org][Bread Tips]]
+
 * Getting started with Org-mode
   :PROPERTIES:
   :CUSTOM_ID: getting-started

@@ -5,6 +5,8 @@ pluralizelisttitles = false
 summarylength = 10
 enableGitInfo = true
 enableRobotsTXT = true
+# needed for org file links
+uglyURLs = true
 
 [markup]
 defaultMarkdownHandler = 'org'
