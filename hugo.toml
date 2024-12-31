@@ -1,5 +1,4 @@
 baseURL = './'
-languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'default'
 pluralizelisttitles = false
@@ -15,7 +14,7 @@ defaultMarkdownHandler = 'org'
 
 [languages]
   [languages.de]
-    languageCode = 'de-de'
+    languageCode = 'de-DE'
     contentDir = 'content/de'
     languageName = 'Deutsch'
     weight = 3
@@ -29,7 +28,7 @@ defaultMarkdownHandler = 'org'
         pageRef = '/studium'
         weight = 20
   [languages.en]
-    languageCode = 'en-us'
+    languageCode = 'en-US'
     contentDir = 'content/en'
     languageName = 'English'
     weight = 1
@@ -43,7 +42,7 @@ defaultMarkdownHandler = 'org'
         pageRef = '/posts'
         weight = 20
   [languages.zh]
-    languageCode = 'zh-cn'
+    languageCode = 'zh-CN'
     contentDir = 'content/zh'
     languageName = '简体中文'
     weight = 2

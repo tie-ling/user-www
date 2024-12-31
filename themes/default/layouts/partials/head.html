@@ -13,6 +13,7 @@ https://developers.google.com/search/docs/appearance/structured-data/article -->
     "datePublished": "{{ .Date | time.Format "2006-01-02T15:04:05-07:00" }}",
     "author": [ {"@type": "Person", "name": "{{ .Site.Params.Author.name }}"} ],
     "url": "{{ .Permalink }}",
+    "inLanguage": "{{ .Language.LanguageCode }}",
     "isPartOf": {
         "@type" : "Blog",
         "@id": "{{ .Site.BaseURL }}",
