@@ -1,0 +1,17 @@
+{{ define "main" }}
+  {{ .Content }}
+
+  {{ $pages := .Pages }}
+  {{ $paginator := .Paginate $pages.ByTitle 10 }}
+
+  <table>
+  {{ range $paginator.Pages }}
+     <tr>
+       <td>{{ .Date | time.Format "2006-01-02" }}</td>
+       <td><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></td>
+     </tr>
+    {{ end }}
+  </table>
+
+  {{ template "_internal/pagination.html" . }}
+{{ end }}

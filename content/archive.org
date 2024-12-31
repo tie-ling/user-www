@@ -1,3 +1,0 @@
-#+title: Archive
-#+type: myarchivetype
-#+url: archive

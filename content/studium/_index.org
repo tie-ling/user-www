@@ -1,0 +1,6 @@
+#+title: Studium Archive
+
+Here you can find a list of posts in the =/studium/= section.
+
+# This is the section file for /posts section.  The section template,
+# defined in theme/layouts/_default/section.html, will be applied.

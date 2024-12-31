@@ -11,9 +11,14 @@ pageRef = '/'
 weight = 10
 
 [[menus.main]]
-name = 'Archive'
-pageRef = '/archive'
-weight = 20
+name = 'Posts'
+pageRef = '/posts'
+weight = 10
+
+[[menus.main]]
+name = 'Studium'
+pageRef = '/studium'
+weight = 11
 
 
 [[menus.main]]
