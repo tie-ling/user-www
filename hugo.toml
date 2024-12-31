@@ -31,6 +31,25 @@ defaultMarkdownHandler = 'org'
   [markup.tableofcontents]
     endlevel = 2
     startlevel = 2
+  [markup.highlight]
+    style = 'modus-operandi'
+
+[languages]
+  [languages.de]
+    languageCode = 'de-de'
+    contentDir = 'content/de'
+    languageName = 'Deutsch'
+    weight = 3
+  [languages.en]
+    languageCode = 'en-us'
+    contentDir = 'content/en'
+    languageName = 'English'
+    weight = 1
+  [languages.zh]
+    languageCode = 'zh-cn'
+    contentDir = 'content/zh'
+    languageName = '简体中文'
+    weight = 2
 
 # removes the default 'categories' taxonomy
 [taxonomies]
