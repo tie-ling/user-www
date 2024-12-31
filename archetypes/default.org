@@ -1,0 +1,11 @@
+#+title: {{ replace .File.ContentBaseName `-` ` ` | title }}
+#+date: {{ .Date }}
+#+draft: true
+#+tags[]: 
+#+isCJKLanguage: false
+
+This article demonstrates the synergy between Hugo and Org mode.
+
+# more
+
+Main content.
