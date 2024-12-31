@@ -1,4 +1,9 @@
-{{ $lastmodMachine := .last | time.Format "2006-01-02T15:04:05-07:00" }}
-{{ $lastmodHuman := .lastmod | time.Format ":date_long" }}
-<p>This page was last edited on <time datetime="{{ $lastmodMachine }}">{{ $lastmodHuman }}</time>.</p>
+<nav class="globalnav" id="nav-lang">
+<ul>
+{{ range $.Site.Home.AllTranslations }}
+<li><a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a></li>
+{{ end }}
+</ul>
+</nav>
+
 <p>Copyright {{ now.Year }}. All rights reserved.</p>
