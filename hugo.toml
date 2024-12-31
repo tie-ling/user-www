@@ -24,6 +24,10 @@ defaultMarkdownHandler = 'org'
         pageRef = '/'
         weight = 10
       [[languages.de.menus.main]]
+        name = 'Posts'
+        pageRef = '/posts'
+        weight = 15
+      [[languages.de.menus.main]]
         name = 'Studium'
         pageRef = '/studium'
         weight = 20
