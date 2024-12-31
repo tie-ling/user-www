@@ -1,5 +1,16 @@
 #+TITLE: Quickstart | Org mode
 #+date: 2024-12-30T23:01:06+01:00
+#+DRAFT: false
+#+TAGS[]: red blue
+#+GENRES[]: mystery romance
+#+isCJKLanguage: false
+#+keywords[]: quickstart org-mode
+#+modified: 2024-12-30T23:01:06+01:00
+#+publishDate: 2024-12-30T23:01:06+01:00
+
+This article demonstrates the synergy between Hugo and Org mode.
+
+# more
 
 * Getting started with Org-mode
   :PROPERTIES:

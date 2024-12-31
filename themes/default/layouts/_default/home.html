@@ -1,7 +1,12 @@
 {{ define "main" }}
   {{ .Content }}
-  {{ range site.RegularPages }}
+  {{ $pages := where site.RegularPages "Type" "posts" }}
+  {{ $paginator := .Paginate $pages.ByTitle 3 }}
+
+  {{ range $paginator.Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
     {{ .Summary }}
   {{ end }}
+
+  {{ template "_internal/pagination.html" . }}
 {{ end }}

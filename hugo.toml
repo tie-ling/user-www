@@ -3,11 +3,18 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'default'
 pluralizelisttitles = false
+summarylength = 10
 
 [[menus.main]]
 name = 'Home'
 pageRef = '/'
 weight = 10
+
+[[menus.main]]
+name = 'Archive'
+pageRef = '/archive'
+weight = 20
+
 
 [[menus.main]]
 name = 'Tags'
@@ -16,6 +23,9 @@ weight = 30
 
 [markup]
 defaultMarkdownHandler = 'org'
+  [markup.tableofcontents]
+    endlevel = 2
+    startlevel = 2
 
 [params.author]
 name = "Yan Cao"
