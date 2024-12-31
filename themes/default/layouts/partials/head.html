@@ -12,6 +12,7 @@ https://developers.google.com/search/docs/appearance/structured-data/article -->
     "headline": "{{ .Title }}",
     "datePublished": "{{ .PublishDate | time.Format "2006-01-02T15:04:05-07:00" }}",
     "dateModified": "{{ .Lastmod | time.Format "2006-01-02T15:04:05-07:00" }}",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
     "author": [ {"@type": "Person", "name": "{{ .Site.Params.Author.name }}"} ],
     "url": "{{ .Permalink }}",
     "inLanguage": "{{ .Language.LanguageCode }}",

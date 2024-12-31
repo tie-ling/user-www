@@ -6,4 +6,15 @@
 </ul>
 </nav>
 
-<p>© {{ now.Year }} {{T "message-copyright"}}</p>
+<p xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dct="http://purl.org/dc/terms/">
+  <a property="dct:title" rel="cc:attributionURL"
+     href="{{ .Site.BaseURL }}">{{ .Site.Title }}
+  </a> by
+  <a rel="cc:attributionURL dct:creator" property="cc:attributionName"
+     href="{{ .Site.Params.Author.profile }}">{{ .Site.Params.Author.name }}
+  </a> is licensed under
+  <a href="https://creativecommons.org/licenses/by/4.0/"
+  target="_blank" rel="license noopener noreferrer">CC BY 4.0
+  </a>
+</p>
