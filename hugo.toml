@@ -26,6 +26,10 @@ defaultMarkdownHandler = 'org'
         pageRef = '/'
         weight = 10
       [[languages.de.menus.main]]
+        name = 'Tags'
+        pageRef = '/tags'
+        weight = 11
+      [[languages.de.menus.main]]
         name = 'Posts'
         pageRef = '/posts'
         weight = 15
@@ -45,6 +49,10 @@ defaultMarkdownHandler = 'org'
         pageRef = '/'
         weight = 10
       [[languages.en.menus.main]]
+        name = 'Tags'
+        pageRef = '/tags'
+        weight = 11
+      [[languages.en.menus.main]]
         name = 'Posts'
         pageRef = '/posts'
         weight = 20
@@ -59,6 +67,10 @@ defaultMarkdownHandler = 'org'
         name = '主页'
         pageRef = '/'
         weight = 10
+      [[languages.zh.menus.main]]
+        name = '标签'
+        pageRef = '/tags'
+        weight = 11
       [[languages.zh.menus.main]]
         name = '文章'
         pageRef = '/posts'
