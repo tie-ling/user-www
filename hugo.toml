@@ -32,5 +32,9 @@ defaultMarkdownHandler = 'org'
     endlevel = 2
     startlevel = 2
 
+# removes the default 'categories' taxonomy
+[taxonomies]
+  tag = 'tags'
+
 [params.author]
 name = "Yan Cao"
