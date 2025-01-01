@@ -3,7 +3,9 @@ defaultContentLanguageInSubdir = true
 defaultContentLanguage = 'en'
 pluralizelisttitles = false
 summarylength = 10
-enableGitInfo = true
+# nix flake build does not clone git repo
+# thus disable gitinfo
+enableGitInfo = false
 enableRobotsTXT = true
 # needed for org file links
 uglyURLs = true

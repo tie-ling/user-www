@@ -44,6 +44,7 @@
           installPhase = ''
             mv public $out
           '';
+          # nix build does not make git repo available to hugo
           nativeBuildInputs = [ hugo ];
         };
 
