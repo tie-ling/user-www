@@ -1,5 +1,5 @@
 *~
-*.html
+content/de/studium/*/*.html
 *.lock
 public/
 result

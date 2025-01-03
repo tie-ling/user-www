@@ -603,12 +603,11 @@ Vorgänge.
 Der Mitarbeiter bestimmt, was und wie er lernen will.  Dies ist für
 agiles Lernen notwendig.
 ** 2. Cafeteria-Vergütungssystem
-Das Cafeteria-System, auch Cafeteria-Modell genannt, ist ein
-Vergütungsmodell im Personalwesen. Das System funktioniert so, dass
-Mitarbeiter individuell Sozialleistungen des Unternehmens wählen
-können. Dabei erhalten sie Punkte, welche infolge eingelöst werden
-können. Das Ziel des Cafeteria-Systems ist es, die Arbeitsmotivation
-zu steigern.
+Das Cafeteria-System ist ein Vergütungsmodell im Personalwesen. Der
+Mitarbeiter wählt individuell Sozialleistungen des Unternehmens.
+Dabei erhalten sie Punkte, welche infolge eingelöst werden können. Das
+Ziel des Cafeteria-Systems ist es, die Arbeitsmotivation zu steigern.
+
 ** 3. Nachteile einer internen Personalbeschaffung
 Vorteile: Motivierung durch Aufstiegschancen, Besseres Betriebsklima,
 Geringeres Risiko, Geschwindigkeit, Geringe Beschaffungskosten, Kurze

@@ -1,5 +1,6 @@
 #+title: Wohnungsbesichtigung
 #+date: 2024-12-31T00:33:19+01:00
+#+lastmod: 2025-01-02T12:53:03+01:00
 
 My devious Wohnungsbesichtigungsplan in Berlin.
 
@@ -12,10 +13,6 @@ Use =org-agenda-file-to-front= then use =M-x org-agenda= then press =a=.
 Sort by =C-x h= then =C-c ^= by Schedule.
 
 * Ongoing
-** 13595 Berlin, Gatower Straße 2
-SCHEDULED: <2025-01-02 Thu 08:00>
-** 13597 Berlin, Charlottenburger Chaussee 103
-SCHEDULED: <2025-01-02 Thu 09:20>
 ** 10439 Berlin, Varnhagenstraße 21
 Bitte klingeln Sie bei Müller.
 SCHEDULED: <2025-01-03 Tue 17:30>

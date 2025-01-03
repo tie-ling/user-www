@@ -1,5 +1,15 @@
 #+title: physik
 #+date: 2024-12-31T00:17:08+01:00
+# do not add toc for espeak
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:nil title:nil toc:nil todo:t |:t
+#+options: html-link-use-abs-url:nil html-postamble:nil
+#+options: html-preamble:nil html-scripts:nil html-style:nil
+#+options: html5-fancy:nil tex:t
+
 * Probeklausur
 
 Kein Hilfsmittel außer Schreibzeug.
@@ -17,7 +27,7 @@ Beobachtung der Natur
 
 Überlegungen zu den Beobachtungen
 
-Abstraktion auf das Allgemiene
+Abstraktion auf das Allgemeine
 
 Schlüsse über grundlegende Gesetze
 
@@ -26,9 +36,9 @@ Schlüsse über grundlegende Gesetze
 Isolierte Betrachtung eines Phänomens, störende Einflüsse werden
 beseitigt und so ausgeblendet.
 
-Widerholbarkeit und Überprüfbarkeit der Ergebnisse des Experiments.
+Wiederholbarkeit und Überprüfbarkeit der Ergebnisse des Experiments.
 
-Besitmmung quantitativer Aussagen durch Messungen.
+Bestimmung quantitativer Aussagen durch Messungen.
 
 ** Definitionen
 Hypothese:  Vermutung aufgrund experimenteller Tatsachen
@@ -105,14 +115,6 @@ Planeten um die Sonne.
 Gewichtskraft ist gleich Masse mal Gravitationskonstante.
 
 ** Mehrere Bewegungen
-
-Man muss Vektoren addieren, wenn mehrere Bewegungen auftritt.
-
-Beispiel: Die Geschwindigkeit eines Bootes in einem fließenden Fluss
-ist in echt die Vektorsumme aus v_Boot und v_Fluss.  Ein Wasserstrahl.
-
-Beispiel: Um weit zu werfen, kommt es auf den Anlauf und auf den
-Abwurfwinkel an.
 
 Tennis- und Volleyballspieler werfen den Ball so hoch, sodass sie ihn
 am höchsten Punkt treffen kann, denn am höchsten Punkt steht der Ball
@@ -201,7 +203,7 @@ Mittelpunkt setze.
 Brahe und Kepler haben dann seinen Weltbild bewiesen.
 
 ** Ebbe und Flut
-Ebbe und Flut treten zwimal am Tag auf.  Die Anziehungskraft der
+Ebbe und Flut treten zweimal am Tag auf.  Die Anziehungskraft der
 Mondmasse verursacht die eine Flut.
 
 Die Fliehkraft erzeugt die zweite Flut.  Da das Paar Erde/Mond nicht
@@ -248,7 +250,7 @@ sichtbares Licht durch, aber reflektiert Wärmestrahlung.
 * Wasser
 ** Warum ist einem kalt, wenn man aus dem Wasser kommt
 Es beruht auf dem Verdunsten der Wassertropfen auf der Haut in die
-umgebende Luft.  Die benötigte Verdampfungswärme entzieht der der
+umgebende Luft.  Die benötigte Verdampfungswärme entzieht der
 Umgebung (Haut) Wärme.
 
 Was hilft?  Schnell abtrocknen, damit die Wassertropfen weg sind.
