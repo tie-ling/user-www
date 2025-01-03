@@ -1,5 +1,6 @@
 *~
 content/de/studium/*/*.html
+content/de/studium/*/*.opus
 *.lock
 public/
 result
