@@ -1,6 +1,8 @@
 #+title: physik
 #+date: 2024-12-31T00:17:08+01:00
 # do not add toc for espeak
+# do not add numbering for headings
+#+options: num:nil
 #+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+options: author:t broken-links:nil c:nil creator:nil
 #+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
@@ -207,7 +209,7 @@ Ebbe und Flut treten zweimal am Tag auf.  Die Anziehungskraft der
 Mondmasse verursacht die eine Flut.
 
 Die Fliehkraft erzeugt die zweite Flut.  Da das Paar Erde/Mond nicht
-um den Erdmittelpunkt, sondern das gemeinsame Gravitationßentrum
+um den Erdmittelpunkt, sondern das gemeinsame Gravitationszentrum
 kreist.
 
 ** Die Erde dreht sich
@@ -215,7 +217,7 @@ kreist.
 Die Erde kreist um die Sonne. Die Erde dreht sich auch um sich selbst.
 Die Drehachse der Erde ist dabei geneigt um 23.4 Grad.
 
-** Die schiefe Drehachse als Grund für unsere Jahreßeiten
+** Die schiefe Drehachse als Grund für unsere Jahreszeiten
 Der Drehimpulserhaltungssatz: die Drehachse der Erde steht immer
 gleich im Raum.
 
