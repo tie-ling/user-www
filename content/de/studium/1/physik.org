@@ -168,13 +168,6 @@ Verformung oder Wärme umgewandelt.
 
 ** Drehen als Bewegung
 
-- Geschwindigkeit des Drehens: Winkegeschwindigkeit mit der Einheit 1/s = 1Hz
-- Masse wird zum Trägheitsmoment
-- Kraft zum Drehmoment
-- Drehimpuls
-- Rotationsenergie
-
-
 *** Drehimpulserhaltung
 
 Aufgrund der Drehimpulserhaltung sind rotierende Objekte stabil
