@@ -2,10 +2,9 @@
 #+date: 2024-12-31T00:17:08+01:00
 # do not add toc for espeak
 # do not add numbering for headings
-#+options: num:nil
 #+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+options: author:t broken-links:nil c:nil creator:nil
-#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
 #+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
 #+options: timestamp:nil title:nil toc:nil todo:t |:t
 #+options: html-link-use-abs-url:nil html-postamble:nil
