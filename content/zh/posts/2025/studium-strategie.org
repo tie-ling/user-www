@@ -15,3 +15,23 @@
 - 其次选之前没考过、没修的科目；
 - 最后选未来学期的科目。
 - 不用管上课时间是否冲突，因为冲突的课可以在家学。
+
+
+* Prüfungszeiten 1. Semester
+
+- Physik ::
+  um <2025-01-20 Mon 08:30>
+  in TGS Haus 2 002
+- ABWL ::
+  um <2025-01-22 Wed 12:15>
+  in TGS Haus 2 002
+- Technische Mechanik ::
+  nicht angemeldet
+- Recht für WiIng ::
+  nicht angemeldet
+- Mathe 1 ::
+  um <2025-02-06 Thu 17:30>
+  in TGS Haus 1a/b 402
+- Inf 1 ::
+  um <2025-02-07 Fri 10:15>
+  in TGS Haus 1a/b 426 oder 428

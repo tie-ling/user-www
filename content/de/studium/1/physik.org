@@ -337,12 +337,8 @@ MRT etc.
 *** Ausbreitung von Schall
 Der Schall pflanzt sich im Medium (Luft) fort.
 
-Das Schbsen der Lufttielchen ergitbt eine longitudinale Welle.  Der
+Das Schubsen der Luftteilchen ergibt eine longitudinale Welle.  Der
 Schall ist auch eine Longitudinalwelle.
-
-*** Lautstärke von Schall
-
-Schall ist eine logitudinale Druckwelle.
 
 ** Schallphänomene
 
@@ -365,20 +361,20 @@ Anwendung: Lichtwelle: Rotverschiebung der Sterne.  Radar, GPS.
 Wärmeleitung: Die Atome der Kaffee stoßen an andere langsamerer Teilchen in der
 Umgebung und geben ihre Bewegung an diese ab.
 
-In einer Thermoskanne/Dewargefäß: Wärmeleitung wird durch das Vakuum im
+In einer Thermoskanne: Wärmeleitung wird durch das Vakuum im
 Rand des Gefäßes unterbunden.
 
 Wärmeströmung: Die Atome der Kaffee verflüchtigen sich in alle
 Richtungen und verteilen sich.
 
-In einer Thermoskanne/Dewargefäß: Wärmeströmung wird durch dem Deckel
+In einer Thermoskanne: Wärmeströmung wird durch dem Deckel
 auf die Kanne verhindert, denn heiße Luft kann nicht mehr nach oben
 entweichen.
 
 Wärmestrahlung: Die Atome der Kaffee geben Energie in Form
 elektromagnetischer Strahlung ab.
 
-In einer Thermoskanne/Dewargefäß: Wärmestrahlung wird reduziert, aber
+In einer Thermoskanne: Wärmestrahlung wird reduziert, aber
 nicht ganz verhindert, durch den verspiegelte Innenseite.
 
 * Elektromagnetische Strahlung
@@ -477,12 +473,12 @@ Im Metall gibt es zwischen den Ionen auch freie Elektronen.  Wird ein
 elektrisches Spannung angelegt, werden die freien Elektronen in eine
 Richtung fließen.  Die Elektronen schubsen sich an, sodass der
 elektrische Strom mit nahezu Lichtgeschwindigkeit fließt, die
-einzelnen Elktronen selbst bewegen sich mit nur 0,4mm/s.  Bei 1A Strom
+einzelnen Elektronen selbst bewegen sich mit nur 0,4mm/s.  Bei 1A Strom
 fließt pro Sekunde eine Ladung von 1C durch den Leiter.
 
 ** Nicht alle Festkörper sind Leiter
 In Isolatoren gibt es keine freien Elektronen; alle Elektronen sind an
-die Atomkerne fest gebundne und können sich nicht weg bewegen.
+die Atomkerne fest gebunden und können sich nicht weg bewegen.
 
 Halbleiter: beim Halbleiter werden bei Raumtemperatur einige
 Elektronen den Atomkernen entrissen; diese stehen dann als freie
@@ -493,7 +489,7 @@ Strom erzeugt ein Magnetfeld; ein Magnetfeld lenkt Strom ab.
 
 ** Ein Magnetfeld erzeugt Strom durch Induktion
 
-Im Leiter befinden dich frei bewegliche Elektronen.  Bewegung des
+Im Leiter befinden sich frei bewegliche Elektronen.  Bewegung des
 Leiters quer zum Magnetfeld bringt wegen der Lorentzkraft die
 Elektronen in Bewegung.
 
@@ -504,7 +500,7 @@ Wechselstrom
 Er lässt sich leicht transformieren durch Induktion.
 
 ** Der Elektromotor die Umkehrung des Generators
-Man schickt Strom druch die Spule, die sich im Magnetfeld bewegt und
+Man schickt Strom durch die Spule, die sich im Magnetfeld bewegt und
 eine Drehbewegung erzeugt.
 
 * Kernkraft
@@ -512,16 +508,16 @@ Elektronen haben "Schalen".  Auch die Kerne haben "Schalen".
 
 ** Radioaktivität
 *** Alpha-Strahlung
-Ein Heliumkern (stabil!) verlässt den Kern; wegen der Größe der
-Teilchen ist die Alpha-Strahlung leicht abzuschirmen, z.B. mit Papier
+Ein Heliumkern verlässt den Kern; zur Abschirmung braucht man Papier
 oder Kleidung.
 
 *** Beta-Stralung
-Ein Elektron oder Positron verlässt den Kern; zur Abschirmung brauch
-man z.B. ein Metallblech.
+Ein Elektron oder Positron verlässt den Kern; zur Abschirmung braucht
+man ein Metallblech.
 
 *** Gamma-Strahlung
-Hochenergetische elektromagnetische Strahlung; muss mit Beton/Blei
-hoher Dicke abgeschirmt werden.
+Hochenergetische elektromagnetische Strahlung; zur Abschirmung braucht
+man dicke Beton/Blei.
+
 
 * Quanten und Relativität

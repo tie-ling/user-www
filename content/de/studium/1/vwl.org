@@ -150,7 +150,7 @@ Soziale Nachhaltigkeit
   Kunden treffen.
 
 - Soziale Effizienz
-  Soziale Effizienz stellt sich ein, wenn die privaten und die
+  Die privaten und die
   sozialen Kosten der Produktion gleich den privaten und sozialen
   Nutzen entsprechen.
 
@@ -167,8 +167,8 @@ nachfragen, die sich gegenseitig ersetzten können.
 
 ** Rolle des Staates
 - Rechtssicherheit gewährleisten
-- Erhöhung der Effizienz der Mäarkte bei Marktversagen
-- Verbesserung der Angleichung/Verteilung von Einkommen und Wohlstand.
+- Erhöhung der Markteffizienz bei Marktversagen
+- Verbesserung der Verteilung von Einkommen und Wohlstand.
 
 ** Abgrenzung BWL-VWL
 - BWL :: Wissenschaft, wie ein Unternehmen seine knappen Ressourcen am
