@@ -243,11 +243,10 @@ sichtbares Licht durch, aber reflektiert Wärmestrahlung.
 
 * Wasser
 ** Warum ist einem kalt, wenn man aus dem Wasser kommt
-Es beruht auf dem Verdunsten der Wassertropfen auf der Haut in die
-umgebende Luft.  Die benötigte Verdampfungswärme entzieht der
-Umgebung (Haut) Wärme.
+Denn die Verdunstung von Wassertropfen auf der Haut in die umgebenden
+Luft benötigt Energie, die der Haut Wärme.
 
-Was hilft?  Schnell abtrocknen, damit die Wassertropfen weg sind.
+Schnell abtrocknen, damit die Wassertropfen weg sind.
 Hohe Luftfeutigkeit, damit kein Wasser mehr verdampfen kann
 (Tropen, Duschkabine schließen).  Nicht in den Wind stellen.
 
@@ -280,7 +279,7 @@ Der Erdhimmel ist blau, denn die Luftteilchen Licht streut.
 Die Sonne ist gelb, denn Blau wird weggestreut.
 
 Die Sonne am Abend ist rot, denn beim langen Weg durch Atmosphäre wird
-alls Blau gestreut.
+alles Blau gestreut.
 
 ** Wärme gleich Energie
 
