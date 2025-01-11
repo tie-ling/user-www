@@ -1,6 +1,8 @@
 *~
 content/de/studium/*/*.html
 content/de/studium/*/*.opus
+content/de/studium/*/*.pdf
+content/de/studium/*/*.tex
 *.lock
 public/
 result
