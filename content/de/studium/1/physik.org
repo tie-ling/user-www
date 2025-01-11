@@ -11,511 +11,243 @@
 #+options: html-preamble:nil html-scripts:nil html-style:nil
 #+options: html5-fancy:nil tex:t
 
-* Probeklausur
+* Schalenmodell und Orbitalmodell des Atomes
+Die Schalen haben für Elektronen Platz.
+In  Schale gibt es eine Orbitalform mit Bahnen und Platz.
+Die Schalen werden gemischt belegt nach Pauli Prinzip.
 
-Kein Hilfsmittel außer Schreibzeug.
+Erste Schale hat 1 s und 2 Elektronen.
+Zweite Schale hat 2s 2p und 6 Elektronen.
+Dritte Schale hat 3s 3p 3d und 10 Elektronen.
 
-* Methoden
+* Zerfall von Kern
+Ein Element hat Isotopen, bei der die Anzahl der Neutronen
+unterschiedlich sind.
 
-** Was ist Physik
+Isotopen sind instabil und zerfallen in stabile Kerne.  Das Zerfall
+nennt man Radioaktivität.  Beim Zerfall entsteht Radioaktive
+Strahlung.
 
-Zentrales Ziel der Physik ist es, der Natur ihre Gesetzmäßigkeiten zu
-entlocken.
+Alphastrahlung ist ein Heliumkern und kann mit Papier abgeschirmt
+werden.  Betastrahlung ist ein Elektron und kann mit Metallblech
+abgeschirmt werden.  Gammastrahlung ist eletromagnetisch und kann mit
+Beton und Blei abgeschirmt werden.
 
-** Methoden der antiken Physik: Beobachtung
+* Kernspaltung und Kernfusion
+Bei der Kernspaltung werden Kerne in zwei Kerne aufgeteilt.  Man
+braucht Neutronen als Trigger.
 
-Beobachtung der Natur
+Bei der Kernfusion werden zwei leiche Kerne zu einem Kern
+verschmolzen.  Man braucht Plasma mit hohen Temperaturen als Trigger.
 
-Überlegungen zu den Beobachtungen
+* Strom
+Der Strom ist die Bewegung von Elektronen in einem Leiterkabel.
+Dadurch wird Ladung verschoben.
 
-Abstraktion auf das Allgemeine
+* Strom fließt im Leiter
+denn im Leiter gibt es zwischen den Ionen auch freie Elektronen.  Die
+freien Elektronen fließen in eine Richtung unter Einfluss von
+Spannung.
 
-Schlüsse über grundlegende Gesetze
+Der elektrische Strom fließt mit lichtgeschwindigkeit, denn die
+Elektronen schubsen sich an.
 
-** Methoden der modernen Physik: Experiment
+Kabel hat kleinen aber nicht null Widerstand.
 
-Isolierte Betrachtung eines Phänomens, störende Einflüsse werden
-beseitigt und so ausgeblendet.
+In Isolatoren gibt es keine freie Elektronen.  In Halbleiter gibt es
+wenige freie Elektronen.
 
-Wiederholbarkeit und Überprüfbarkeit der Ergebnisse des Experiments.
+Flüssigkeit mit Salz leitet Strom.
 
-Bestimmung quantitativer Aussagen durch Messungen.
+* Strom erzeugt Magnetfeld und Magnetfeld wirkt auf Elektronen.
+Strom kann ein Magnetfeld mittels Induktion erzeugen.  Bewegung des
+Leiters quer zum Magnetfeld nennt man Induktion.
 
-** Definitionen
-Hypothese:  Vermutung aufgrund experimenteller Tatsachen
 
-Theorie: Eine Theorie ist eine Menge Hypothese zur Beschreibung eines
-Phänomens.
+Generator erzeugt Wechselstrom.  Wechselstrom ist leicht zu
+transformieren.
 
-Modell: vereinfachte Beschreibung eines physikalischen Zusammenhangs.
+* Quantenmechanik
+Es gibt kleinste Portion von Größen wie die Energie.  Diese Portionen
+sind Quanten.  Der Welle-Teilchen-Dualismus betrifft Licht und
+Photonen.  Das Messen verändert das System.  Quantenmechanik ermittelt
+nur Wahrscheinlichkeiten.
 
-** Warum Physik wichtig?
-Die Methodik der Physik mit Experiment und Theorien ist vorbildlich.
+Die Schrödingergleichung beschreibt Teilchen als Wellen.
 
-Physik bestimmt Vorgänge in vielen anderen Fächern.
+Kopenhagener Deutung beschreibt Wellenfunktion des Teilchens als
+Aufenthaltswahrscheinlichkeit.  Die Viele-Welten-Theorie ist eine
+Alternativ.
 
-Physik stellt Messmethoden und Geräte zur Verfügung.
+* Heisenbergsche Unschärferelation
+heißt, dass man den Ort und den Impuls von Quantenobjekten nicht
+beliebig genau bestimmen kann.
 
-** Messen
-Bestimmung einer physikalischen Größe.  Ermittlung von Messwerten.
-Abschätzung des Messfehlers.
+* Relativitätstheorien
 
-** Messfehler
-Zufälliger Fehler: zufällig, kann man nicht beheben.
+Wenn man Teilchen mit Masse beschleunigt, nimmt die Masse des
+Teilchens zu.
 
-Systematischer Fehler: nicht zufällig, kann man beheben.
+* Äquivalenzprinzip
+besagt, dass die Schwerlosigkeit und freien Fall ohne Umgebung
+äquivalent sind.
 
-* Teilchen und Wellen
+* Beobachtung und Experiment
+Beobachtung der Natur.  Überlegungen zu den Beobachtungen.
+Abstraktion auf das Allgemeinen.  Schlüsse auf die Grundlegende
+Gesetze.
 
-** Teilchen
+Experiment ist die Isolierte Betrachtung eines Phänomens, störende
+Einflüsse werden ausgeblendet.  Ergebnisse sind wiederholbar und
+überprüfbar.  Bestimmt Quatitative Aussagen durch Messungen.
 
-Elektron sind unteilbar.  Elementarladung: 10^-19C.
+* Theorie und Hypothese
+Hypothesen sind Vermutungen aufgrund Experimenten.
 
-Der Kern eines Atoms besteht aus Protonen und Neutronen.
+Theorie ist viele Hypothesen zur Erklärung eines Phänomens.
 
-Photon (Lichtteilchen) hat keine Ruhemasse und keine Ausdehnung.
+Modell ist eine vereinfachte Beschreibung eines Phänomens.
 
-** Wellen
+* Messen
+ist die Bestimmung der physikalischen Größe in Einheiten und
+Messfehler.
 
-Eine Welle ist eine sich räumlich ausbreitende Schwingung.
+Messfehler sind zufällig und systematisch.
 
-Licht besitzt Welle-Teilchen-Dualismus.
+* Atomen
+Atomen besteht aus Elektronen und ein Kern aus Protonen und Neutronen.
+Das Elektron ist unteilbar.
 
-** Kräfte
+* Grundlegende Kräfte
+sind die starke und schwache Wechselwirkung, die elektromagnetische
+Kraft und die Gravitationskraft.
 
-Starke Wechselwirkung halt Kern zusammen.
+* Newtonsche Axiomen
+Erste Axiom.  Trägheit.  Der Körper ist zu träge, etwas zu ändern, und
+bleibt wie er sich gerade bewegt.
 
-Schwache Wechselwirkung tritt nur bei der Radioaktivität auf.
+Zweite Axiom.  Beschleunigung.  Eine Kraft ändert die Geschwindigkeit
+des Körpers.
 
-Elektromagnetische Wechselwirkung ist verantwortlich für die
-elektromagnetischen Wellen.
+Dritte Axiom.  Aktio gleich Reaktio.  Übt ein Körper A eine Kraft auf
+ein Körper B, so wirkt eine gleich große aber entgegengerichtete Kraft
+von Körper B auf Körper A.
 
-Gravitationskraft.
+* Elastischen und Unelastischen Stoß
+Beim Elastischen Stoß wird die mechanische Energie beim Aufprall
+vollständig in mechanische Energie umgewandelt.
 
-* Kraft und Bewegung
-** Bewegung
+Beim unelastischen Stoß wird ein Teil der mechanischen Energie beim
+Aufprall in Wärme und Verformung umgewandelt und die beider Körper
+bewegen sich mit gemeinsamer Geschwindigkeit weiter.
 
-1. Newtonsche Axiom:  Trägheit.  Der Körper ist zu träge, etwas zu
-   ändern und bleibt wie er sich gerade bewegt.
+* Flugzeug fliegt wegen Antrieb und Auftrieb
+Für das Antrieb des Flugzeugs saugt Propeller Luft von vorne an und
+stoßen sie nach hinten ab.
 
-2. Newtonsche Axiom:  Beschleunigung.  Eine Kraft verursacht eine
-   Änderung der Geschwindigkeit des Körpers.
+Für das Auftrieb wird richtige Flügelform benötigt.  Luft oberhalb
+wird zusammengedrückt und strömt schneller als die Luft unterhalb des
+Flügels.
 
-3. Newtonsche Axiom: Aktion = Reaktion.  Übt ein Körper A auf einen
-   anderen Körper B eine Kraft aus (actio), so wirkt eine gleich
-   große, aber entgegengerichtete Kraft von Körper B auf Körper A (reactio).
-   Beispiele: Arbeiten im Weltraum.  Schwimmen;  Ruderboot nach vorne
-   bewegen
-   
-*** Gravitation
+* Ebbe und Flut
+Ebbe und Flut treten zweimal am Tag auf.  Die Anziehungskraft der Mond
+und die Fliehkraft verursacht die Ebbe und Flut.
 
-Gravitationsgesetz:  alle Köper ziehen einander an.  Beispiel: Fallen
-eines Steins und den Lauf des Mondes um die Erde, Bewegung der
-Planeten um die Sonne.
+* Die schiefe Drehachse ist der Grund für Jahreszeiten
+Die Erde dreht um sich selbst. Die Drehachse der Erde ist schief.  Die
+Nordhalbkugel wird im Sommer länger und intensiver von der Sonne
+bestrahlt.  Die Südhalbkugel wird im Winter länger und intensiver
+bestrahlt.  In den Tropen gibt es nur Regen- und Trockenzeit, denn die
+Region liegt zwischen nördlichen und südlichen Wendekreisen.
 
-Gewichtskraft ist gleich Masse mal Gravitationskonstante.
+* Die Erde hat Magnetfeld
+wegen des Eisenkerns.  Der Kern leitet Strom, der wiederum Magnetfeld
+erzeugt.  Der Erdmagnetfeld lenkt Hochenergieteilchen von der Sonne ab
+und schützt uns.
 
-** Mehrere Bewegungen
+* Treibhauseffekt der Erdatmosphäre
+Die Erdatmosphäre lässt sichtbares Licht und Infrarot von der Sonne
+durch und reflektiert Infrarot Wärmestrahlung von der Erdoberfläche.
 
-Tennis- und Volleyballspieler werfen den Ball so hoch, sodass sie ihn
-am höchsten Punkt treffen kann, denn am höchsten Punkt steht der Ball
-in der Luft.
+* Man fühlt sich kalt, wenn aus dem Wasser kommt
+denn die Wassertropfen auf der Haut verdunsten in die umgebenden Luft
+und entzieht Verdampfungswärme.
 
-*** Schlittenfahren
+* Wasser hat keine Farbe,
+aber tiefes Wasser ist blau wegen des stärker Streuung des blauen
+Lichtes.  Flaches Wasser sind türkis wegen der Sand unter Wasser.
 
-Beim Schlittenfahren teilt sich die Schwerkraft vektoriell in zwei
-Kräfte auf:
+Wolken besteht aus kleinen Eiskristallen.  Die Eiskristallen spiegeln
+weißes Licht.
 
-1. Normalkraft, drückt den Schlitten auf den Boden.
-2. Handabtriebskraft, die parallel zur Ebene wirkt.
+* Erdhimmel ist Blau
+denn Blaues Licht wird stärker gestreuut als rotes.
 
+Die Luftteilchen streuuen Blaues Licht weg.  Am Abend ist die Sonne
+rot, denn alles Blau wird weggestreut.
 
-*** Schiefe Ebene
+* Wärme
+sind die Bewegung der Atome und Moleküle.
 
-Effekte sind die Reduzierung der Kraft durch Verlängerung des Weges:
-1. Keil
-2. Rampe/Serpentinenstraße
-3. Schraube
-4. Hebel
-   Mit einem Hebel kann man große Lasten anheben, weil sich die
-   aufzuwendende Kraft proportional zur Länge des Hebelarms reduziert.
-5. Flaschenzug
+* Seewind und Landwind an der Küste
+entsteht, weil am Morgen erwärmen das Wasser langsamer als die Erde
+und am Abend abkühlt das Wasser langsamer als die Erde.
 
-*** Elastischen Stoß
+* Der Schall entsteht
+wenn es Schwingung gibt und die Ausbreitung von Schwingung möglich
+ist.  Beispiel sind Gitarrensaite und Stimmbänder in Kehlkopf.
 
-Beim elastischen Stoß wird die mechanische Energie beim Aufprall eines
-Körpers auf einen andern Körper vollständig wieder in mechanische
-Energie umgewandelt.
+* Wenn Instrumente denselben Ton spielen, sie hören sich nicht gleich an, denn
+es gibt Grundschwingung und Oberschwingungen.  Das Verhältnis der
+Amplituden der Oberschwingungen bestimmt den Klang.
 
-Anwendungen
-- Wagen trifft auf Wagen
-- Billard: zwei Kugeln haben die gleiche Masse, deshalb bleibt eine
-  Kugel beim Treff still, die andere Kugel läuft mit gleiche
-  Geschwindigkeit und Richtung los.
-- Ball trifft auf Wand: denn die Wand hat gegenüber dem Ball eine viel
-  größere Masse.
+* Der Schall ist eine Welle
+und entsteht aus Schwingung.  Der Schall braucht Medium.
 
-*** Unelastischen Stoß
+* Doppler-Effekt
+Bei der Bewegung der Quelle verändert sich der Ausgangspunkt.  Die
+Wellenfronten vor der Quelle werden zusammengedrückt und die Frequenz
+wird erhöht.  Die Wellenfronten hinter der Quelle werden
+auseinandergezogen und die Frequenz wird reduziert.
 
-Beim unelastischen Stoß bewegen beide Körper nach dem Stoß mit einer
-gemeinsamen Geschwindigkeit weiter.  Ein Teil der Energie werden in
-Verformung oder Wärme umgewandelt.
+Bei der Bewegung des Empfängers auf die Quelle werden die
+Wellenfronten zusammengedrückt.  Bei der Bewegung des Empfängers von
+der Quelle werden die Wellenfronten auseinandergezogen.
 
-- Zusammenstoß von Autos
-- Einschlag einer Kugel in den Körper
-- Schlag eines Hammers auf einen Nagel.
+* Kaffee wird kalt
+wegen Wärmeleitung, indem die Kaffee Moleküle an langsamerer
+Luftteilchen stoßen und ihre Wärme abgeben.  wegen Wärmeströmung, in
+dem die Kaffee Moleküle in alle Richtungen verflüchtigen.  wegen
+Wärmestrahlung, indem die Kaffee Moleküle elektromagnetische Strahlung
+abgeben.
 
-** Drehen als Bewegung
+Thermoskanne verhindert Wärmeleitung durch Vakkum, Wärmeströmung durch
+Deckel, Wärmestrahlung durch verspiegelung.
 
-*** Drehimpulserhaltung
+* Lichtgeschwindigkeit ist
+konstant
 
-Aufgrund der Drehimpulserhaltung sind rotierende Objekte stabil
+* Arten von Energie
+Es gibt mechanische, innere, Strahlung und elektrische Energie.
 
-1. Katze fällt immer auf die eigenen vier Füße, weil sie aktiv mit
-   Ihrem Schwanz Ihren Drehimpuls steuern kann.
+Beispiele für innere Energie sind Kernenergie, Wärmeenergie, chemische
+Energie.
 
-** Fahrzeuge in Bewegung
+Beispiele für Mechanische Energie sind Bewegungsenergie, Höhenenergie
+und Spannenergie.
 
-*** Warum ein Flugzeug fliegt
-**** Antrieb
-Für Antrieb: Aktion=Reaktion, denn der Propeller und Turbine saugen Luft an und
-stoßen die nach hinten ab.  Der Hubschrauber saugt die Luft von oben
-an und stößt sie nach unten.
+Beispiele für Strahlungsenergie sind Funkwellen, Licht und
+Radioaktivität.
 
-**** Auftrieb
+Beispiele für elektrische Energie sind Blitz, Elektromagnet und
+Stromkreis.
 
-Für Auftrieb: es braucht den richtige Flügelform und viel Wind von
-vorn.  Der Auftrieb wird erzeugt, weil oberhalb des Flügels die Luft
-zusammengedrückt wird und damit schneller strömt als unterhalb des
-Flugzeugs.
+* Hauptsatz der Wärmelehre
+Erster Satz: in einem abgeschlossenen System ist die Zunahme der
+inneren Energie gleich Wärme und mechanische Energie von außen.
 
-* Die Erde
-** Die Erde bewegt sich
-Kopernikus formulierte 1543 seinen Weltbild, indem er die Sonne in den
-Mittelpunkt setze.
+Zweiter Satz: in einem abgeschlossenen System nimmt die Entropie immer
+zu.
 
-Brahe und Kepler haben dann seinen Weltbild bewiesen.
-
-** Ebbe und Flut
-Ebbe und Flut treten zweimal am Tag auf.  Die Anziehungskraft der
-Mondmasse verursacht die eine Flut.
-
-Die Fliehkraft erzeugt die zweite Flut.  Da das Paar Erde/Mond nicht
-um den Erdmittelpunkt, sondern das gemeinsame Gravitationszentrum
-kreist.
-
-** Die Erde dreht sich
-
-Die Erde kreist um die Sonne. Die Erde dreht sich auch um sich selbst.
-Die Drehachse der Erde ist dabei geneigt um 23.4 Grad.
-
-** Die schiefe Drehachse als Grund für unsere Jahreszeiten
-Der Drehimpulserhaltungssatz: die Drehachse der Erde steht immer
-gleich im Raum.
-
-Im Sommer wird die Nordhalbkugel länger und intensiver von der Sonne
-beschienen, der Tag ist länger und es kommt mehr Sonnenlicht an.
-
-Nach einem halben Jahr wird die Südhalbkugel länger bestrahlt und ist
-dort Sommer.
-
-In den Tropen gibt es nur Regen und Trockenzeit, denn die Zone liegt
-zwischen den nödlichen und südlichen Wendekreisen.
-
-** Wirbelstürme
-
-Wirbelstürme entstehen wegen der stärkeren Drehung meist in der Nähe
-des Äquators.
-
-** Erde hat Magnetfeld
-
-Erde besitzt einen festen inneren und einen flüssigen äußeren Kern aus
-Eisen.  Das Eisen ist dort wegen hohen Temperaturen nicht magnetisch,
-aber das Eisen leitet Strom, der wiederum ein Magnetfeld erzeugt.
-
-** Erde hat Atmosphäre
-Die Erdatmosphäre lässt nur die passende Strahlung durch.
-
-Die Atmosphäre der Erde sorgt für gleichmäßige Temperaturen.
-
-Die Atmosphäre erzeugt Treibhauseffekt.  Dei Atmosphäre lässt
-sichtbares Licht durch, aber reflektiert Wärmestrahlung.
-
-* Wasser
-** Warum ist einem kalt, wenn man aus dem Wasser kommt
-Denn die Verdunstung von Wassertropfen auf der Haut in die umgebenden
-Luft benötigt Energie, die der Haut Wärme.
-
-Schnell abtrocknen, damit die Wassertropfen weg sind.
-Hohe Luftfeutigkeit, damit kein Wasser mehr verdampfen kann
-(Tropen, Duschkabine schließen).  Nicht in den Wind stellen.
-
-Mit Schwitzen regulieren wir unseren Wärmehaushalt und verdampfen die
-Wassertröpfchen.
-
-Wäsche trocknet an der frischen Luft am besten.
-
-** Wasser hat keine Farbe
-Blau ist die Streuung des Lichtes an den Wassermolekülen, denn Blaues
-Licht wird viel stärker gestreut als rotes.
-
-Tiefes Wasser ist blau: Bei viel Wasser wird das blaue Licht der Sonne gestreut, so dass ein
-Teil des blauen Lichts wieder aus dem Wasser herauskommt;  die anderen
-Farben kommt wegen schwache Streuung nicht aus.
-
-Flaches Wasser ist Türkis: ist die Mischung aus blau (Wasser) und beige (Sand).
-
-Wolken sind weiß: denn Wolken bestehen aus kleinen gefrorene
-Wassertropfen.
-
-** Farbe des Himmels blau/rot/schwarz
-Rayleigh-Streuung: Blaues Licht wird stärker gestreut als rotes.
-
-Der Mondhimmel ist schwarz, denn es gibt keine Luftteilchen, die Licht
-streuen.
-
-Der Erdhimmel ist blau, denn die Luftteilchen Licht streut.
-
-Die Sonne ist gelb, denn Blau wird weggestreut.
-
-Die Sonne am Abend ist rot, denn beim langen Weg durch Atmosphäre wird
-alles Blau gestreut.
-
-** Wärme gleich Energie
-
-Die im Körper enthaltene Wärme -- seine innere Energie ist die
-Bewegung der Atome/Moleküle.
-
-** Anomalie des Wassers
-
-Keine Flaschen im Tiefkühlfach aufbewahren.  Eisberge schwimmen auf
-dem Wasser.  Mit Druck kann man Eis zum Schmelzen bringen.
-Lebenswesen im Kalten Wasser, denn unten ist es immer gleich warm.
-
-Achtung: Schlittschuhlaufen ist kein Effekte der Anomalie des Wassers,
-denn die Reibung erzeugt Wärme, die wiederum das Eis im schmilzt.
-
-** Seewind/Landwind an der Küste
-
-Der Seewind entsteht, wenn die Erde schneller als das Wasser am Morgen
-erwärmt.  Der Landwind entsteht, wenn in der Nacht die Erde schnell
-als das Wasser abkühlt.
-
-* Bewegung der Atome
-
-** Schall entsteht durch Schwingung
-*** Was ist Schall und Wie entsteht der Schall?
-Die Schwingung der Gitarrensaite erzeugt der Schall.
-
-*** Warum hört sich derselbe Ton bei verschiedenen Musikinstrumenten
-
-unterschiedlich an?
-
-Grundschwingung und Oberschwingungen
-
-Schwingt etwas, gibt es außer der Grundschwingung auch
-Oberschwingungen.  Das Verhältnis der Amplituden der Oberschwingungen
-bestimmt den Klang.
-
-*** Amplitude und Frequenz
-
-Die Amplitude bestimmt die Lautstärke des Schalls.
-
-Die Frequenz bestimmt die Tonhöhe des Schalls.
-
-*** Anwendungen von Resonanz
-
-Resonanz: Wenn man etwas mit seiner Eigenfrequenz anregt, dann
-entsteht die Resonanz.
-
-Absorption und Emission von Licht in den Atomen/Molekülen;
-Radio/Fernsehen über den elektrischen Schwingkreis; Moderne Medizin:
-MRT etc.
-
-*** Ausbreitung von Schall
-Der Schall pflanzt sich im Medium (Luft) fort.
-
-Das Schubsen der Luftteilchen ergibt eine longitudinale Welle.  Der
-Schall ist auch eine Longitudinalwelle.
-
-** Schallphänomene
-
-*** Doppler-Effekt
-Wenn sich die Quelle bewegt, erzeugt zwar die Schwingung dieselbe
-Frequenz, aber der Ausgangspunkt der Welle verändert sich:  die
-Wellenfronten vor einer bewegten Quelle werden zusammengedrückt;
-damit erhöht sich die Frequenz.  Die Wellenfronten hinter einer
-bewegten Quelle werden auseinandergezogen; damit reduziert sich die
-Frequenz.
-
-Analog: wenn sich der Empfänger auf die Quelle zubewegt, damit erhöht
-sich die Frequenz; wenn sich der Empfänger von der Quelle wegbewegt,
-damit reduziert sich die Frequenz.
-
-Anwendung: Lichtwelle: Rotverschiebung der Sterne.  Radar, GPS.
-** Teilchenbewegung und Wärme
-*** Warum wird der Kaffee kalt?
-
-Wärmeleitung: Die Atome der Kaffee stoßen an andere langsamerer Teilchen in der
-Umgebung und geben ihre Bewegung an diese ab.
-
-In einer Thermoskanne: Wärmeleitung wird durch das Vakuum im
-Rand des Gefäßes unterbunden.
-
-Wärmeströmung: Die Atome der Kaffee verflüchtigen sich in alle
-Richtungen und verteilen sich.
-
-In einer Thermoskanne: Wärmeströmung wird durch dem Deckel
-auf die Kanne verhindert, denn heiße Luft kann nicht mehr nach oben
-entweichen.
-
-Wärmestrahlung: Die Atome der Kaffee geben Energie in Form
-elektromagnetischer Strahlung ab.
-
-In einer Thermoskanne: Wärmestrahlung wird reduziert, aber
-nicht ganz verhindert, durch den verspiegelte Innenseite.
-
-* Elektromagnetische Strahlung
-** Lichtgeschwindigkeit
-Die Lichtgeschwindigkeit ist konstant, es gibt keine Medium
-
-Die Lichtgeschwindigkeit ist nicht immer gleich.  Wenn das Licht durch
-ein Material durchgehen muss, wird es gebremst.
-
-Die Lichtgeschwindigkeit in Materialien ist auch abhängig von der
-Wellenlänge des Lichtes.
-
-** Reflexion des Lichtes
-Ausfallswinkel gleich dem Einfallswinkel.
-
-Außerhalb der Brennweite: umgedrehtes Bild.  Innerhalb der Brennweite:
-normales Bild.
-
-** Brechung des Lichts
-Wenn das Licht vo neinem Gegenstand duch verschiedene Materialien
-geht, dann wird der Lichtstrahl abgeknickt.  Denn, Lichtstrahl nimmt
-den schnellsten Weg zum Zielpunkt und das Licht ist im dichteren
-Medium langasmer.
-
-** Totalreflexion
-Ab einem Grenzwinkel tritt der Lichtstrahl nicht mehr aus dem
-dichteren Medium aus; dieses Phänomen nennt sich Totalreflexion.
-Anwendung: Glasfaserkabel.
-
-** Regenbogen
-Wegen Brechung: denn das Sonnenlicht wird im Regentropfen gebrochen
-
-Wegen Dispersion: wenn das Sonnenlicht die Tropfen verlässt, wird das
-Licht in Farben aufgeteilt, wegen der verschiedenen Geschwindigkeiten
-der Wellenlänge
-
-Wegen Totalreflexion:  dreht die Farben um.
-
-** Das Auge; Fehlsichtigkeit
-weitsichtiges Auge: der Brennpunkt liegt hinter der Netzhaut
-
-kurzsichtiges Auge: der Brennpunkt liegt vor der Netzhaut.
-
-* Energie
-** Formen der Energie
-- Innere Energie: Kernenergie; Wärmeenergie; Chemische Energie
-
-  Verbrennung; Kernkraft; Nährung umgewandelt in Wärmeenergie und
-  Mechaische Energie durch Körper.
-- Mechanische Energie: Bewegungsenergie; Höhenenergie; Spannenergie
-
-  Umwandlung: Fahrrad wandeln Rotationsenergie in kinetische Energie um.
-- Strahlungsenergie: Funkwellen; Licht: Radioaktivität
-
-  Person in Wasserwelle; Mikrowellenherd
-- Elektrische Energie: Blitz; Elektromagnet; Stromkreis
-** Hauptsatz der Wärmelehre
-*** Erster Satz
-In abgeschlossenen System:
-
-Zunahme der inneren Energie = Wärme von außen + mechanischer Energie
-von außen
-
-Perpetuum Mobile 1. Art existiert nicht.
-*** Zweiter Satz
-In abgeschlossenen System
-
-Entropie nimmt immer zu.
-
-Perpetuum Mobile 2. Art existiert nicht.
-*** Dritter Satz
-Am absoluten Nullpunkt ist die Entropie gleich Null.
-
-Der absolute Nullpunkt ist nicht erreichbar.
-
-** Wärmemaschine Carnot-Prozess
-Höchstens 50% Wirkungsgrad.
-
-*** Otto-Motor
-40% Wirkungsgrad
-*** Diesel
-50%
-*** Turbinen-Luftstrahltriebwerk
-40%
-*** Photovoltaik
-18% bis 24%
-
-* Elektrizität
-** Strom
-Elektronen tragen die negative Elementarladung.  Wenn in einem
-Leiterkabel Strom fließt, dann bewegen sich die Elektronen, dadurch
-wird Ladung transportiert.
-
-** Wie fließt Strom in einem metallischen Leiter
-Im Metall gibt es zwischen den Ionen auch freie Elektronen.  Wird ein
-elektrisches Spannung angelegt, werden die freien Elektronen in eine
-Richtung fließen.  Die Elektronen schubsen sich an, sodass der
-elektrische Strom mit nahezu Lichtgeschwindigkeit fließt, die
-einzelnen Elektronen selbst bewegen sich mit nur 0,4mm/s.  Bei 1A Strom
-fließt pro Sekunde eine Ladung von 1C durch den Leiter.
-
-** Nicht alle Festkörper sind Leiter
-In Isolatoren gibt es keine freien Elektronen; alle Elektronen sind an
-die Atomkerne fest gebunden und können sich nicht weg bewegen.
-
-Halbleiter: beim Halbleiter werden bei Raumtemperatur einige
-Elektronen den Atomkernen entrissen; diese stehen dann als freie
-Elektronen für die elektrische Leitung zur Verfügung.
-
-** Herstellung der Strom
-Strom erzeugt ein Magnetfeld; ein Magnetfeld lenkt Strom ab.
-
-** Ein Magnetfeld erzeugt Strom durch Induktion
-
-Im Leiter befinden sich frei bewegliche Elektronen.  Bewegung des
-Leiters quer zum Magnetfeld bringt wegen der Lorentzkraft die
-Elektronen in Bewegung.
-
-** Warum Wechselstrom
-Er ist einfach zu erzeugen: im Generator/Dynamo entsteht automatisch
-Wechselstrom
-
-Er lässt sich leicht transformieren durch Induktion.
-
-** Der Elektromotor die Umkehrung des Generators
-Man schickt Strom durch die Spule, die sich im Magnetfeld bewegt und
-eine Drehbewegung erzeugt.
-
-* Kernkraft
-Elektronen haben "Schalen".  Auch die Kerne haben "Schalen".
-
-** Radioaktivität
-*** Alpha-Strahlung
-Ein Heliumkern verlässt den Kern; zur Abschirmung braucht man Papier
-oder Kleidung.
-
-*** Beta-Stralung
-Ein Elektron oder Positron verlässt den Kern; zur Abschirmung braucht
-man ein Metallblech.
-
-*** Gamma-Strahlung
-Hochenergetische elektromagnetische Strahlung; zur Abschirmung braucht
-man dicke Beton/Blei.
-
-
-* Quanten und Relativität
+Dritter Satz: am absoluten Nullpunkt ist die Entropie gleich Null.
+Absoluten Nullpunkt ist nicht erreichbar.
