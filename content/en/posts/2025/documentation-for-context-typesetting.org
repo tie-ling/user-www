@@ -1,4 +1,4 @@
-#+title: Documentation for Context Typesetting
+#+title: Documentation for ConTeXt Typesetting System
 #+date: 2025-01-13T09:43:11+01:00
 #+lastmod: 2025-01-13T09:43:11+01:00
 # ISO 8601 date use output from
