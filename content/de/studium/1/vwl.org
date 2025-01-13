@@ -142,28 +142,26 @@ sind seltene Führungsentscheidungen.
 | GmbH   | betriebsvermögen | 25000   |          | nach Anteil | Kredit, Anteilverkauf |
 
 ** Frage 6: Gemeinschaftsunternehmen
-ist eine Form der Zusammenarbeit zwischen mehreren unabhängigen
-Unternehmen, die ein rechtlich selbständiges Unternehmen gegründet mit
-dem Ziel, Aufgaben im gemeinsamen Interesse der
-Gesellschaftsunternehmen auszuführen.
+ist eine Form von Unternehmenskooperation, indem sie ein rechtlich
+selbstständiges Unternehmen gegründet, um Aufgaben im gemeinsamen
+Interesse auszuführen.
 ** Frage 15: Personengesellschaften und Kapitalgesellschaften
 Personengesellschaften sind keine juristischen Personen.  Für
 Verbindlichkeiten haftet der Gesellschafter unbeschränkt.
 
 Eine Kapitalgesellschaft ist eine juristische Person.  Für
-Verbindlichkeiten haftet nur die Betriebsvermögen.  Der Bestand der
-Gesellschaft ist unabhängig von der Person der Gesellschafter.
+Verbindlichkeiten haftet die Gesellschaft nur die Betriebsvermögen.
+Der Bestand der Gesellschaft ist unabhängig von der Person der
+Gesellschafter.
 ** Frage 7: Kooperation
 Ziel der Unternehmenskooperation ist Wirtschaftlichkeit durch
 Rationalisation, Risiken durch Diversifikation, Verhandlungsmacht
 durch Konzentration.
 
-Im Bereich Beschaffung, Finanz, Produktion, Absatz und Steuerliche.
-
 Risikostreuung durch Diversifikation ist der Zusamenschluss mit
 anderen Unternehmen, die entweder Produkte herstellen, die in
-sachlichem Zusammenhang mit den eigenen Produkten stehen, oder einer
-Abstazstufe angehören oder sich wechselseitig mit eigenen Produkten
+Zusammenhang mit den eigenen Produkten stehen, oder einer
+Absatzstufe angehören oder sich wechselseitig mit eigenen Produkten
 ergänzen.
 
 ** Liquidation
@@ -189,11 +187,11 @@ Gehaltsreduzierung.
 
 ** Frage 1: Fokus der Nachfrageorientierte Personalentwicklung
 
-Co-Creation auf Teamebene.
+Bei der nachfrageorientierten Personalentwicklung werden Co-Creation
+auf Teamebene gefördert, verändernden Bedingungen und ihre
+Auswirkungen auf die Arbeit des Teams erkannt, und Workflow,
+Fehlerrate verbessert.
 
-Kontext: komplexe Bedingungen und ihre Auswirkungen zu erkennen.
-
-Entwicklungsmaßnahme: Fehlerrate hat sich verbessert.
 ** Frage 2: Cafeteria Vergütungssystem
 Der Mitarbeiter wählt selbst, welche Sozialleistung der Unternehmen er
 erhalten will und erhält dabei Punkte.
@@ -206,7 +204,7 @@ Führungsstil, der Personenorientiert ist.
 ** Frage 22: Organisationsgrad
 Organisationsgrad beschreibt wie viel Regel in einer Organsation gibt.
 Je mehr Regeln, desto weniger spontane Handlungsweisen im
-Lestungsprozess.  Regeln macht vor allem Sinn, wo sich Aufgaben
+Leitungsprozess.  Regeln macht vor allem Sinn, wo sich Aufgaben
 wiederholen.  Variabler Tätigkeiten benötigt Freiraum und weniger
 Regeln.
 
@@ -230,11 +228,9 @@ mit dem Beeinflussenden (Vorbild).
 ** Frage 24: Ablauf eines Projekts nach dem Scrum Methode
 Der Product Owner erstellt das Product Backlog.
 
-Der Sprint beginnt mit dem Sprint Planning. Während dieses Events
-entscheidet das Scrum Team, woran es in diesem Sprint arbeiten wird.
+Während Sprint Planning entscheidet das Scrum Team das Sprint-Ziel.
 
-Das Sprint Backlog wird erstellt: Die Prognose der bevorstehenden
-Arbeit für diesen Sprint, um das Sprint-Ziel zu erreichen.
+Das Sprint Backlog wird erstellt als Die Prognose für diesen Sprint.
 
 Der Scrum Master verantwortet die Effektivität des Scrum Teams.
 
@@ -242,11 +238,7 @@ Die Entwickler schaffen jeden Sprint ein Inkrement.
 
 Während des Sprints gibt es alle 24 Stunden ein Daily Scrum.
 
-Am Ende des Sprints organisiert das Scrum Team für die Stakeholder ein
-Sprint-Review.
-
-Nach dem Sprint-Review nutzt das Scrum Team die Sprint Retrospektive,
-um über Arbeit nachzudenken.
+Das Scrum Team organisiert ein Sprint-Review und die Retrospektive.
 
 ** Frage 20, 25: Dimensionen der agile Organisation
 Strukturelle Dimension ist strukturell Kunden orientiert.  Die
