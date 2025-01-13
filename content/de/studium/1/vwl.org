@@ -12,9 +12,9 @@
 #+options: html5-fancy:nil tex:t
 * VWL
 ** Akteure
-Staat ist eine Gruppe von Menshcne, die bei ihrer Lebensgestaltung zusammenwirken.
+Staat ist eine Gruppe von Menschen, die bei ihrer Lebensgestaltung zusammenwirken.
 
-*** Frage 14: Gemeinsamkeiten und Unterschiede zwischen öffentlichen und privaten Haushalt.
+** Frage 14: Gemeinsamkeiten und Unterschiede zwischen öffentlichen und privaten Haushalt.
 
 Öffentliche und private Haushalt sind Wirtschaftssubjekte, in denen
 zur Deckung eigener Bedarf Güter konsumiert werden.  Sie sind
@@ -26,7 +26,7 @@ Familienplanung.
 Öffentliche Haushalte treffen Entscheidungen über Stadtplanung und
 Kosten.
 
-*** Frage 13: Unterschiede und Relation zwischen Betrieb und Unternehmen
+** Frage 13: Unterschiede und Relation zwischen Betrieb und Unternehmen
 
 Betriebe sind Wirtschaftssubjekte, in denen zur Deckung fremder
 Bedarfe Güter produziert und abgesetzt werden. Sie sind die
@@ -278,7 +278,7 @@ Personal unter Berücksichtigung des Ökonomischen Prinzips.
 Soziale Ziele sind die bestmögliche Gestaltung der Arbeitsumstände für
 die Mitarbeiter.
 
-** Frage 3: Vor und Nachteiler der Personalbeschaffung
+** Frage 3: Vor und Nachteile der Personalbeschaffung
 Vorteile: Motivierung durch Aufstiegschancen, Besseres Betriebsklima,
 Geringeres Risiko, Geschwindigkeit, Geringe Beschaffungskosten, Kurze
 Einarbeitungszeit
@@ -287,10 +287,10 @@ Nachteile: keine neuen Ideen durch neue Mitarbeitern, Geringe Auswahl,
 Demotivation, Rivalität.
 
 ** Leistung
-*** Beschaffungsziele
+** Beschaffungsziele
 Materialien in richtigen Qualität, zum richtigen Preis beschaffen.
 Streben nach Wirtschaftlichkeit.
-*** Frage 17, 18: Fertigungstypen
+** Frage 17, 18: Fertigungstypen
 Massenfertigung ist unbegrenzt viele Einheiten eines Produkte auf
 gleichen Anlagen.
 
@@ -304,7 +304,7 @@ Chargenfertigung ist bei gleichem Materialeinsatz aufgrund nicht
 beeinflussbarer Bedingungen unterschiedliche Ergebnisse erzielt
 werden.
 
-*** Frage 19: Fertigungsverfahren
+** Frage 19: Fertigungsverfahren
 Werkstattfertigung sind Maschinen an einem Ort.
 
 Fließfertigung sind Maschinen so angeordnet, dass Arbeitsgänge

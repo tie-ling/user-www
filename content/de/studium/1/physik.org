@@ -12,8 +12,7 @@
 #+options: html5-fancy:nil tex:t
 
 * Schalenmodell und Orbitalmodell des Atomes
-Die Schalen haben für Elektronen Platz.
-In  Schale gibt es eine Orbitalform mit Bahnen und Platz.
+In  Schale gibt es eine Orbitalform mit Bahnen und Platz für Elektronen.
 Die Schalen werden gemischt belegt nach Pauli Prinzip.
 
 Erste Schale hat 1 s und 2 Elektronen.
@@ -46,10 +45,10 @@ Dadurch wird Ladung verschoben.
 
 * Strom fließt im Leiter
 denn im Leiter gibt es zwischen den Ionen auch freie Elektronen.  Die
-freien Elektronen fließen in eine Richtung unter Einfluss von
+freien Elektronen fließen in eine Richtung unter Einfluss der
 Spannung.
 
-Der elektrische Strom fließt mit lichtgeschwindigkeit, denn die
+Der Strom fließt mit lichtgeschwindigkeit, denn die
 Elektronen schubsen sich an.
 
 Kabel hat kleinen aber nicht null Widerstand.
@@ -67,11 +66,10 @@ Leiters quer zum Magnetfeld nennt man Induktion.
 Generator erzeugt Wechselstrom.  Wechselstrom ist leicht zu
 transformieren.
 
-* Quantenmechanik
-Es gibt kleinste Portion von Größen wie die Energie.  Diese Portionen
-sind Quanten.  Der Welle-Teilchen-Dualismus betrifft Licht und
-Photonen.  Das Messen verändert das System.  Quantenmechanik ermittelt
-nur Wahrscheinlichkeiten.
+* In Quantenmechanik
+Es gibt kleinste Portion von Größen wie die Energie. Der
+Welle-Teilchen-Dualismus betrifft alle Teilchen.  Das Messen verändert
+das System.  Quantenmechanik ermittelt nur Wahrscheinlichkeiten.
 
 Die Schrödingergleichung beschreibt Teilchen als Wellen.
 
@@ -161,9 +159,9 @@ bestrahlt.  In den Tropen gibt es nur Regen- und Trockenzeit, denn die
 Region liegt zwischen nördlichen und südlichen Wendekreisen.
 
 * Die Erde hat Magnetfeld
-wegen des Eisenkerns.  Der Kern leitet Strom, der wiederum Magnetfeld
-erzeugt.  Der Erdmagnetfeld lenkt Hochenergieteilchen von der Sonne ab
-und schützt uns.
+wegen des Eisenkerns.  Der Kern leitet Strom und erzeugt Magnetfeld.
+Der Erdmagnetfeld lenkt Hochenergieteilchen von der Sonne ab und
+schützt uns.
 
 * Treibhauseffekt der Erdatmosphäre
 Die Erdatmosphäre lässt sichtbares Licht und Infrarot von der Sonne
@@ -176,6 +174,8 @@ und entzieht Verdampfungswärme.
 * Wasser hat keine Farbe,
 aber tiefes Wasser ist blau wegen des stärker Streuung des blauen
 Lichtes.  Flaches Wasser sind türkis wegen der Sand unter Wasser.
+
+* Wolken sind weiß, denn
 
 Wolken besteht aus kleinen Eiskristallen.  Die Eiskristallen spiegeln
 weißes Licht.
@@ -195,14 +195,11 @@ und am Abend abkühlt das Wasser langsamer als die Erde.
 
 * Der Schall entsteht
 wenn es Schwingung gibt und die Ausbreitung von Schwingung möglich
-ist.  Beispiel sind Gitarrensaite und Stimmbänder in Kehlkopf.
+ist.  Beispiel sind Gitarrensaite und Stimmbänder.
 
 * Wenn Instrumente denselben Ton spielen, sie hören sich nicht gleich an, denn
 es gibt Grundschwingung und Oberschwingungen.  Das Verhältnis der
 Amplituden der Oberschwingungen bestimmt den Klang.
-
-* Der Schall ist eine Welle
-und entsteht aus Schwingung.  Der Schall braucht Medium.
 
 * Doppler-Effekt
 Bei der Bewegung der Quelle verändert sich der Ausgangspunkt.  Die

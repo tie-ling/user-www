@@ -13,9 +13,5 @@ Use =org-agenda-file-to-front= then use =M-x org-agenda= then press =a=.
 Sort by =C-x h= then =C-c ^= by Schedule.
 
 * Ongoing
-** 10439 Berlin, Varnhagenstraße 21
-Bitte klingeln Sie bei Müller.
-SCHEDULED: <2025-01-03 Tue 17:30>
-** 10439 Berlin, Varnhagenstraße 31
-Bitte klingeln Sie bei Villegas.
-SCHEDULED: <2025-01-07 Tue 17:00>
+** 12435 Berlin, Köpenicker Landstr. 44
+SCHEDULED: <2025-01-16 Thu 16:00>
