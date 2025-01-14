@@ -175,6 +175,21 @@ und entzieht Verdampfungswärme.
 aber tiefes Wasser ist blau wegen des stärker Streuung des blauen
 Lichtes.  Flaches Wasser sind türkis wegen der Sand unter Wasser.
 
+* Kondenz des Wassers
+Wasser wird von gasförmigen Wasserdampf in flüssiges Wasser
+kondenziert.
+
+Die Umgebung ist gesättigt mit Wasser. Es braucht irgendwas Wasser
+dran kondensieren kann.
+
+Die Wärmeluft in der Wohnung wird von kalten Brille stark abgekühlt
+und die Fähigkeit, Wasser in kühle Luft aufzunehmen ist gering.
+
+* Schall ist eine Welle, die durch Schwingung entsteht
+und in einem Medium zum Verbreitung.
+
+Charakeristische Größe: Amplitude, Frequenz, Schallenmengen
+
 * Wolken sind weiß, denn
 
 Wolken besteht aus kleinen Eiskristallen.  Die Eiskristallen spiegeln
@@ -248,3 +263,13 @@ zu.
 
 Dritter Satz: am absoluten Nullpunkt ist die Entropie gleich Null.
 Absoluten Nullpunkt ist nicht erreichbar.
+
+* Wiederholung am <2025-01-14 Tue>
+Alle Aufgaben beantworten.
+
+- Aufgabestellung durchlesen.  Wenn man Beispiele nennen soll, nennt
+  man dies.
+- Antworten genau die Frage, die gestellt wird.
+
+* Sieben Physikalischen Größen und abgeleitete Größen
+
