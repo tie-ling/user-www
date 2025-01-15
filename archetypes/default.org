@@ -3,8 +3,8 @@
 #+lastmod: {{ .Date }}
 # ISO 8601 date use output from
 # C-u M-! date -Iseconds
-#+draft: true
-#+tags[]: 
+#+draft: false
+#+tags[]:
 
 This article demonstrates the synergy between Hugo and Org mode.
 
