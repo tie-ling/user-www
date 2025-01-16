@@ -11,7 +11,3 @@ SCHEDULED: <2024-01-01 Mon>
 Press =C-c C-s= to schedule.
 Use =org-agenda-file-to-front= then use =M-x org-agenda= then press =a=.
 Sort by =C-x h= then =C-c ^= by Schedule.
-
-* Ongoing
-** 12435 Berlin, Köpenicker Landstr. 44
-SCHEDULED: <2025-01-16 Thu 16:00>

@@ -312,3 +312,144 @@ Zahlungsfähigkeit (Liquidität) eines Unternehmens.
 
 Der Aussagekraft dieser Kennzahl ist begrenzt, da diese Vergangenheitsdaten
 und zeitpunktbezogen ist.
+
+* Probeklausur
+
+** Rechtsformen Kommanditgesellschaft und Aktiengesellschaft
+
+Haftung
+
+Mindestkapital
+
+Kontrollbefugnisse
+
+GuV
+
+Kapitalbeschaffung
+
+** Der Transformationsprozess und die Wertschöpfung.
+
+** Der Zusammenhang zwischen Motivation und Fertigungsverfahren
+anhand eines Vergleichs der Fertigungsverfahren Fließfertigung und
+Werkstattfertigung. Gehen Sie in Ihren Erläuterungen auch auf die
+Grundlagen der Motivation ein.
+
+** In einem sehr kühlen Sommer
+fällt die Tomatenernte schlecht aus. Welche Auswrikungen hat das auf
+den Markt für Fertigpizza? Erläutern Sie Ihre Überlegungen in einer
+Graphik und in Stichpunkten.
+
+
+Wegen schlechte Tomatenernte steigt der Preis von Tomaten.  Wegen
+steigende Tomatenpreis sinkt die Angebot von M0 zu M1.  Es besteht
+Nachfrageüberhang.
+
+Der Preis von Fertigpizza steigt von P0 zu P1.
+
+Die Nachfragemenge sinkt von M0 zu M2.  Die Angebotsmenge steigt von
+M1 zu M2.
+
+** Die Aufbauorganisation wird auch als "Betrieb im Stillstand"
+bezeichnet, hier werden langfristige Entscheidungen auf strategischer Ebene getroffen.
+
+** Fertigungstypen, Fertigungsverfahren
+
+** Formales, Sachliches Ziele von Beschaffung
+Formales Ziel ist das Streben nach Wirtschaftlichkeit
+
+** Im Fertigungstyps
+wird die Größe der einzelnen Fertigungseinheiten und die Häufigkeit der Wiederholung bestimmter Produktionsvorgänge determiniert.
+
+
+** Im Lebenszykluskonzept
+wird der Lebenszyklus eines Produktes anhand der Kundenzufriedenheit
+und Marktkapitalisierung gemessen.
+
+False.
+
+** Eine Just In Time Lieferung
+ist eine Lieferung die genau in dem Moment bestellt wird, wenn die
+bestellten Materialien in der Produktion gebraucht werden.
+
+False
+
+** Rechtliche Aspekte der Verpackung
+sind zum Beipsiel Angaben über die Inhaltsstoffe, Warnhinweise, wie
+Giftig oder für Kinder 0-3 Jahre nicht geeignet.
+
+** Die Preispolitik
+strebt mit den Absatzpreisen das Ziel der Gewinnmaximierung  zu verwirklichen. Beinhaltet alle vertraglichen Vereinbarungen über
+
+- Preis
+- Rabatte
+- Zahlungsbedingungen
+- Kreditgewährungen
+
+** Mit dem Begriff Absatzmittler ist der Handel gemeint.
+True
+
+** Risiken der globalen Beschaffung
+können sein: höhere Emissionen durch längeren Transport, Wechselkurs,
+Zölle, erschwerte Kommunikation aufgrund unterschiedlicher Kulturen
+und Sprachen
+
+** Vorteile der globalen Beschaffung
+beispielsweise sein: größere Vielfalt an Produkten, größere Vielfalt
+an unterschiedlichen Qualitäten, geringere Kosten
+
+** Bei der Durchlaufterminierung
+in der Ablauforganisation der Produktion richtet sich der Blick auf
+eine einzelne Fertigungseinheit, z.B. eine Maschine und nun wird die
+Fertigungeinheit so programmiert, dass die Produktionskapazität dieser
+Fertigungseinheit ununterbrochen voll ausgelastet ist.
+
+False
+
+** Reinventing Organizations
+False: Der Prozess der Entscheidungsfindung ist langwierig, da es lange
+dauert, bis ein Konsens mit den Experten und allen Betroffenen
+verhandelt ist.
+
+der evolutionäre Zweck beschreibt, dass nur Produkte entwickelt und
+umgesetzt werden dürfen, die im gesamtwirtschaftlichen Kontext eine
+evolutionäre Entwicklung bedeuteten. Die Entscheidung, ob neue
+Produkte diesem evolutionären Zweck dienen, entscheidet der
+Vorstand. False!
+
+** Fertigungsverfahren Werkstattfertigung
+ist eine Zusammenfassung gleichartiger Maschinen an einem Ort. Die
+Anwendung ist sinnvoll bei der Herstellung von Einzelstücken und
+Kleinserien.
+
+** Aktien sind Wertpapiere
+auf das Eigenkapital, die an der Börse gehandelt werden.
+
+** Es gibt keine Fremdfinanzierung die gleichzeitig eine Innenfinanzierung ist.
+
+false
+
+** Es gibt keine zinslose Fremdfinanzierung.
+
+false
+
+** Bei einer Finanzierung erfolgt heute eine Auszahlung des Unternehmens mit der Erwartung einer höheren Einzahlung in Zukunft.
+
+false
+
+** Es gibt keine Fremdfinanzierung die unbefristet ist.
+
+false
+
+** Investition ist die Verwendung finanzieller Mittel.
+false: Bei einer Investition erfolgt heute eine Auszahlung mit der Erwartung einer höheren Einzahlung in Zukunft.
+
+
+** Finanzierung ist die Bereitstellung finanzieller Mittel
+false: Bei einer Finanzierung erfolgt heute eine Auszahlung mit der Erwartung einer höheren Einzahlung in Zukunft.
+
+** Selbstfinanzierung
+bedeutet, dass der im Unternehme entstandene Gewinn einbehalten wird und zur Finanzierung genutzt wird.
+
+** Grundlage der Motivation
+Motivation und Führung als Ausgleich zwischen den Sachzwängen und den 
+Bedürfnissen der Mitarbeiter.

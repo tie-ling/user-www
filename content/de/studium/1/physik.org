@@ -15,9 +15,9 @@
 In  Schale gibt es eine Orbitalform mit Bahnen und Platz für Elektronen.
 Die Schalen werden gemischt belegt nach Pauli Prinzip.
 
-Erste Schale hat 1 s und 2 Elektronen.
-Zweite Schale hat 2s 2p und 6 Elektronen.
-Dritte Schale hat 3s 3p 3d und 10 Elektronen.
+Erste Schale hat 2 Elektronen.
+Zweite Schale hat 6 Elektronen.
+Dritte Schale hat 10 Elektronen.
 
 * Zerfall von Kern
 Ein Element hat Isotopen, bei der die Anzahl der Neutronen
