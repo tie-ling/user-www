@@ -30,6 +30,20 @@ pre {
     margin: 1.2em;
 }
 
+/* table style */
+
+table, th, td {
+  border: 1px solid;
+}
+
+table {
+  width: 100%;
+}
+
+table {
+  border-collapse: collapse;
+}
+
 /*
   pagination/navbar style copied from https://bepsays.com
 */
