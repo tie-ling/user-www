@@ -37,6 +37,35 @@
 维持目标为每天9610kJ。这个数值是通过[[https://www.eatforhealth.gov.au/nutrition-calculators/daily-energy-requirements-calculator][Link]]计算的。
 输入值为：Gender: M; Age: 25Y; Weight: 63kg; Physical activity: sedentary office worker.
 
+** 空表
+| 食品     | 单位 | 单位kJ | 用量 | 用量kJ |
+|----------+------+--------+------+--------|
+| 半熟米   | 百克 |   1485 |    0 |      0 |
+| 土豆     | 百克 |    364 |    0 |      0 |
+| 干豆类   | 百克 |   1514 |    0 |      0 |
+| 白菜     | 百克 |    103 |    0 |      0 |
+| 全麦面条 | 百克 |   1422 |    0 |      0 |
+| 瓜子油   | 百ml |   3400 |    0 |      0 |
+| 鸡蛋去壳 | 百克 |    647 |    0 |      0 |
+| 洋葱     | 百克 |    166 |    0 |      0 |
+| 苹果     | 百克 |    218 |    0 |      0 |
+| 香蕉去皮 | 百克 |    371 |    0 |      0 |
+| 橙子     | 百克 |    197 |    0 |      0 |
+| 其他     | kJ   |      1 |    0 |      0 |
+|----------+------+--------+------+--------|
+| 总计     |      |        |      |      0 |
+#+TBLFM: @<<$5..@>>$5=($3 $4);::@>$5=vsum(@I$5..@II$5);
+
+# comment:
+# @>$5=vsum(@I$5..@II$5)
+# @> refers to the last row, $5 refers to the fifth col
+# @I..@II refers to the region between first hline and second hline
+# @I$5..@II$5 refers to the region of fifth col between first hline and second hline
+
+# @<<$5..@>>$5=($3 $4)
+# @<<..@>> refers to the region between third line and third to last line.
+# excluding first and last two lines.
+
 ** 二五年一月
 
 *** <2025-01-19 Sun>
@@ -67,3 +96,23 @@
 # @<<$5..@>>$5=($3 $4)
 # @<<..@>> refers to the region between third line and third to last line.
 # excluding first and last two lines.
+
+*** <2025-01-20 Mon>
+| 食品     | 单位 | 单位kJ | 用量 | 用量kJ |
+|----------+------+--------+------+--------|
+| 半熟米   | 百克 |   1485 |  3.5 | 5197.5 |
+| 土豆     | 百克 |    364 |    6 |   2184 |
+| 干豆类   | 百克 |   1514 |    0 |      0 |
+| 白菜     | 百克 |    103 |    5 |    515 |
+| 全麦面条 | 百克 |   1422 |    0 |      0 |
+| 瓜子油   | 百ml |   3400 |    0 |      0 |
+| 鸡蛋去壳 | 百克 |    647 |    0 |      0 |
+| 洋葱     | 百克 |    166 |    0 |      0 |
+| 苹果     | 百克 |    218 |    0 |      0 |
+| 香蕉去皮 | 百克 |    371 |    0 |      0 |
+| 橙子     | 百克 |    197 |    0 |      0 |
+| 其他     | kJ   |      1 |    0 |      0 |
+|----------+------+--------+------+--------|
+| 总计     |      |        |      | 7896.5 |
+#+TBLFM: @<<$5..@>>$5=($3 $4);::@>$5=vsum(@I$5..@II$5);
+
