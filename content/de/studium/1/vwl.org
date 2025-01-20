@@ -43,10 +43,6 @@ Die knappe Güter sind die Güter, die nur in begrenztem Umfang
 vorhanden sind.  Die Freie Güter sind Güter, die in unbegrenztem
 Umfang vorhanden sind.
 
-Das Ökonomisches Prinzip enthält Handlungsanweisungen wie Minimum
-Prinzip und Maximum Prinzip.  Ein Nutzen mit geringstmöglichen Einsatz
-erzielen.
-
 ** Effizienzarten
 Technische Effizienz ist die Maximierung von Produktionsmenge durch
 technische Fortschritt.
@@ -67,8 +63,10 @@ Der Staat sollen Rechtssicherheit gewährleisten, die Effizienz des
 Marktes erhöhen und Einkommen und Wohlstand verbessern.
 
 ** Transformationsprozess
-ist der Prozess wo die Faktoreinsatz durch Komination der Faktoren
-Güter produziert.
+Aufgabe eines Betriebes ist, Input aufzunehmen, diesen umzuwandeln und
+als Output abzugeben.  Diese Umwandlung konstituiert den betrieblichen
+Transformationsprozess.  Mit ihm wird ein wirtschaftlicher Zweck
+verfolgt: die Produktion und der Verkauf von Gütern und Dienstleistungen.
 
 ** Frage 12: Gesetz der Nachfrage
 bei steigendem Preis sinkt die nachgefragte Menge.  Die Gründe sind
