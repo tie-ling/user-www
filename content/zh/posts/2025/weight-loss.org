@@ -23,12 +23,13 @@
 
 * 饮食
 
-若未另外说明，均以百克为单位。
-植物油以百毫升为单位。
-鸡蛋以颗为单位，估计每颗去壳50g。
+** Org 模式表格编辑
+
 用 =C-c }= 显示表格调试模式。
 
-在修改计算函数后，用 =C-u C-c C-c= 来重新计算结果。
+在修改计算函数后，在表格内用 =C-u C-c *= 来重新计算结果。
+
+** 目标
 
 减肥目标为每天8230kJ。这个数值是通过[[https://www.eatforhealth.gov.au/nutrition-calculators/daily-energy-requirements-calculator][Link]]计算的。
 输入值为：Gender: M; Age: 25Y; Weight: 63kg; Physical activity: bed bound.
@@ -55,7 +56,7 @@
 | 其他     | kJ   |      1 |    0 |       0 |
 |----------+------+--------+------+---------|
 | 总计     |      |        |      | 11843.5 |
-#+TBLFM: @>$5=vsum(@I$5..@II$5);::@<<$5..@>>$5=($3 $4)
+#+TBLFM: @<<$5..@>>$5=($3 $4);::@>$5=vsum(@I$5..@II$5);
 
 # comment:
 # @>$5=vsum(@I$5..@II$5)
