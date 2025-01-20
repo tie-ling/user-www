@@ -30,7 +30,11 @@
 
 在修改计算函数后，用 =C-u C-c C-c= 来重新计算结果。
 
-目标为每天9000kJ。越少越好。
+减肥目标为每天8230kJ。这个数值是通过[[https://www.eatforhealth.gov.au/nutrition-calculators/daily-energy-requirements-calculator][Link]]计算的。
+输入值为：Gender: M; Age: 25Y; Weight: 63kg; Physical activity: bed bound.
+
+维持目标为每天9610kJ。这个数值是通过[[https://www.eatforhealth.gov.au/nutrition-calculators/daily-energy-requirements-calculator][Link]]计算的。
+输入值为：Gender: M; Age: 25Y; Weight: 63kg; Physical activity: sedentary office worker.
 
 ** 二五年一月
 
