@@ -62,9 +62,11 @@ Güter und Dienstleistungen zugeteilt werden.
 Der Staat sollen Rechtssicherheit gewährleisten, die Effizienz des
 Marktes erhöhen und Einkommen und Wohlstand verbessern.
 
-** Transformationsprozess
+** ? Transformationsprozess
 Aufgabe eines Betriebes ist, Input aufzunehmen, diesen umzuwandeln und
-als Output abzugeben.  Diese Umwandlung konstituiert den betrieblichen
+als Output abzugeben.
+
+Diese Umwandlung konstituiert den betrieblichen
 Transformationsprozess.  Mit ihm wird ein wirtschaftlicher Zweck
 verfolgt: die Produktion und der Verkauf von Gütern und Dienstleistungen.
 
@@ -144,17 +146,10 @@ ist eine Form von Unternehmenskooperation, indem sie ein rechtlich
 selbstständiges Unternehmen gegründet, um Aufgaben im gemeinsamen
 Interesse auszuführen.
 ** Frage 15: Einzelunternehmen, Personengesellschaften und Kapitalgesellschaften
-Bei einem Einzelunternehmen betreibt eine Person sein Handelsgewerbe
-ohne einen weiteren Gesellschafter.
-
-Bei einem Einzelunternehmen betreibt mindestens zwei Personen
-gemeinschaftlich ein völlkaufmännisches Handelsgewerbe.
+Personengesellschaften hat mindestens zwei Gesellschafter.
 
 Personengesellschaften sind keine juristischen Personen.  Für
 Verbindlichkeiten haftet der Gesellschafter unbeschränkt.
-
-In Kapitalgesellschaften liegt eine grundsätzliche Trennung zwischen
-Eigentum und Geschäftsführung vor.
 
 Eine Kapitalgesellschaft ist eine juristische Person.  Für
 Verbindlichkeiten haftet die Gesellschaft nur die Betriebsvermögen.
@@ -171,7 +166,9 @@ ergänzen.
 
 ** Liquidation
 erfolgt freiwilig wegen Erfüllung des Zieles oder Zwang wegen Zahlungsunfähigkeit.
-** Führung
+** Motivation und Führung
+als Ausgleich zwischen den Sachzwängen und den 
+Bedürfnissen der Mitarbeiter.
 ** Frage 21: Intrinsische und Extrinsische Motivation
 Intrinsische Motivation sind Leistungs-, Kompetenz- und
 Geselligkeitsmotive.
@@ -198,8 +195,14 @@ Auswirkungen auf die Arbeit des Teams erkannt, und Workflow,
 Fehlerrate verbessert.
 
 ** Frage 2: Cafeteria Vergütungssystem
-Der Mitarbeiter wählt selbst, welche Sozialleistung der Unternehmen er
-erhalten will und erhält dabei Punkte.
+Als Cafeteria-System wird die Möglichkeit bezeichnet,
+Vergütungsbestandteile und Sozialleistungen flexibler und
+individualisierter dem Arbeitnehmer anzubieten.
+
+Bei der Ausgestaltung eines Cafeteria-Systems werden austauschbare
+Leistungen spezifiziert.  Diese sind materielle Leistungen wie
+Firmenwagen, und Zeitleistungen wie Lebensarbeitszeit.
+
 ** Führungsstill
 wird nach Art der Willensbildung beurteilt.  Es gibt autoritärer
 Führungsstil, der Aufgabenorientiert ist.  Es gibt partizipativer
@@ -220,7 +223,7 @@ Funktional, Divisional, Matrix.
 
 ** Frage 26, 27: Macht
 Sanktionsmacht: Der Beeinflusste handelt im Sinne des Beeinflussenden,
-da er sich einer Bestrafung entziehen möchte.
+um Bestrafung zu vermeiden.
 
 Expertenmacht: Basiert auf der fachlichen und sachlichen Überlegenheit.
 
@@ -246,14 +249,14 @@ Während des Sprints gibt es alle 24 Stunden ein Daily Scrum.
 Das Scrum Team organisiert ein Sprint-Review und die Retrospektive.
 
 ** Frage 20, 25: Dimensionen der agile Organisation
-Strukturelle Dimension ist strukturell Kunden orientiert.  Die
-Organisation strukturiert sich nach Teams und auf Kunden ausgerichtet.
+Strukturelle Dimension: Die Organisation strukturiert sich nach Teams
+und Kunden.
 
-Strategische Dimension haben eine von Außen nach Innen Denkweise.  Der
-Kunde steht im Mittelpunkt des Denkens.  Die Strategie wird auf Kunde
-ausgerichtet.  Erfolg wird als KundennOButzen verstanden.
+Strategische Dimension: Die Organisation haben eine von Außen nach
+Innen Denkweise.  Die Strategie wird auf Kunde ausgerichtet.  Erfolg
+wird als Kundennutzen verstanden.
 
-Prozessuale Dimension: komplett Unternehmen arbeiten nach agilen Prinzip.
+Prozessuale Dimension: Unternehmen arbeiten nach agilen Prinzip.
 
 Dimension der Führung sind verteilte Führung und Ermächtigte Führung.
 Führungsaufgaben werden auf mehrere Schultern geteilt.  Der
@@ -317,144 +320,3 @@ Zahlungsfähigkeit (Liquidität) eines Unternehmens.
 
 Der Aussagekraft dieser Kennzahl ist begrenzt, da diese Vergangenheitsdaten
 und zeitpunktbezogen ist.
-
-* Probeklausur
-
-** Rechtsformen Kommanditgesellschaft und Aktiengesellschaft
-
-Haftung
-
-Mindestkapital
-
-Kontrollbefugnisse
-
-GuV
-
-Kapitalbeschaffung
-
-** Der Transformationsprozess und die Wertschöpfung.
-
-** Der Zusammenhang zwischen Motivation und Fertigungsverfahren
-anhand eines Vergleichs der Fertigungsverfahren Fließfertigung und
-Werkstattfertigung. Gehen Sie in Ihren Erläuterungen auch auf die
-Grundlagen der Motivation ein.
-
-** In einem sehr kühlen Sommer
-fällt die Tomatenernte schlecht aus. Welche Auswrikungen hat das auf
-den Markt für Fertigpizza? Erläutern Sie Ihre Überlegungen in einer
-Graphik und in Stichpunkten.
-
-
-Wegen schlechte Tomatenernte steigt der Preis von Tomaten.  Wegen
-steigende Tomatenpreis sinkt die Angebot von M0 zu M1.  Es besteht
-Nachfrageüberhang.
-
-Der Preis von Fertigpizza steigt von P0 zu P1.
-
-Die Nachfragemenge sinkt von M0 zu M2.  Die Angebotsmenge steigt von
-M1 zu M2.
-
-** Die Aufbauorganisation wird auch als "Betrieb im Stillstand"
-bezeichnet, hier werden langfristige Entscheidungen auf strategischer Ebene getroffen.
-
-** Fertigungstypen, Fertigungsverfahren
-
-** Formales, Sachliches Ziele von Beschaffung
-Formales Ziel ist das Streben nach Wirtschaftlichkeit
-
-** Im Fertigungstyps
-wird die Größe der einzelnen Fertigungseinheiten und die Häufigkeit der Wiederholung bestimmter Produktionsvorgänge determiniert.
-
-
-** Im Lebenszykluskonzept
-wird der Lebenszyklus eines Produktes anhand der Kundenzufriedenheit
-und Marktkapitalisierung gemessen.
-
-False.
-
-** Eine Just In Time Lieferung
-ist eine Lieferung die genau in dem Moment bestellt wird, wenn die
-bestellten Materialien in der Produktion gebraucht werden.
-
-False
-
-** Rechtliche Aspekte der Verpackung
-sind zum Beipsiel Angaben über die Inhaltsstoffe, Warnhinweise, wie
-Giftig oder für Kinder 0-3 Jahre nicht geeignet.
-
-** Die Preispolitik
-strebt mit den Absatzpreisen das Ziel der Gewinnmaximierung  zu verwirklichen. Beinhaltet alle vertraglichen Vereinbarungen über
-
-- Preis
-- Rabatte
-- Zahlungsbedingungen
-- Kreditgewährungen
-
-** Mit dem Begriff Absatzmittler ist der Handel gemeint.
-True
-
-** Risiken der globalen Beschaffung
-können sein: höhere Emissionen durch längeren Transport, Wechselkurs,
-Zölle, erschwerte Kommunikation aufgrund unterschiedlicher Kulturen
-und Sprachen
-
-** Vorteile der globalen Beschaffung
-beispielsweise sein: größere Vielfalt an Produkten, größere Vielfalt
-an unterschiedlichen Qualitäten, geringere Kosten
-
-** Bei der Durchlaufterminierung
-in der Ablauforganisation der Produktion richtet sich der Blick auf
-eine einzelne Fertigungseinheit, z.B. eine Maschine und nun wird die
-Fertigungeinheit so programmiert, dass die Produktionskapazität dieser
-Fertigungseinheit ununterbrochen voll ausgelastet ist.
-
-False
-
-** Reinventing Organizations
-False: Der Prozess der Entscheidungsfindung ist langwierig, da es lange
-dauert, bis ein Konsens mit den Experten und allen Betroffenen
-verhandelt ist.
-
-der evolutionäre Zweck beschreibt, dass nur Produkte entwickelt und
-umgesetzt werden dürfen, die im gesamtwirtschaftlichen Kontext eine
-evolutionäre Entwicklung bedeuteten. Die Entscheidung, ob neue
-Produkte diesem evolutionären Zweck dienen, entscheidet der
-Vorstand. False!
-
-** Fertigungsverfahren Werkstattfertigung
-ist eine Zusammenfassung gleichartiger Maschinen an einem Ort. Die
-Anwendung ist sinnvoll bei der Herstellung von Einzelstücken und
-Kleinserien.
-
-** Aktien sind Wertpapiere
-auf das Eigenkapital, die an der Börse gehandelt werden.
-
-** Es gibt keine Fremdfinanzierung die gleichzeitig eine Innenfinanzierung ist.
-
-false
-
-** Es gibt keine zinslose Fremdfinanzierung.
-
-false
-
-** Bei einer Finanzierung erfolgt heute eine Auszahlung des Unternehmens mit der Erwartung einer höheren Einzahlung in Zukunft.
-
-false
-
-** Es gibt keine Fremdfinanzierung die unbefristet ist.
-
-false
-
-** Investition ist die Verwendung finanzieller Mittel.
-false: Bei einer Investition erfolgt heute eine Auszahlung mit der Erwartung einer höheren Einzahlung in Zukunft.
-
-
-** Finanzierung ist die Bereitstellung finanzieller Mittel
-false: Bei einer Finanzierung erfolgt heute eine Auszahlung mit der Erwartung einer höheren Einzahlung in Zukunft.
-
-** Selbstfinanzierung
-bedeutet, dass der im Unternehme entstandene Gewinn einbehalten wird und zur Finanzierung genutzt wird.
-
-** Grundlage der Motivation
-Motivation und Führung als Ausgleich zwischen den Sachzwängen und den 
-Bedürfnissen der Mitarbeiter.
