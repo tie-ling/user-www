@@ -120,7 +120,7 @@ Dienstleistungen mit der Zeit, ohne dass dies auf Mengen- oder
 Qualitätsveränderungen zurückzuführen ist.
 
 Inflation wird mit die Inflationsrate gemessen.  Sie ist ein
-gewichteter Mittelwert von Preisänderungen der typischer Ausgaben
+gewichteter Mittelwert der typischer Ausgaben
 eines Haushalts.
 ** Preisbildung
 1. Angebot (Nachfrage) steigt (sinkt) von M1 zu M2 entlang des
@@ -143,14 +143,21 @@ sind seltene Führungsentscheidungen.
 ist eine Form von Unternehmenskooperation, indem sie ein rechtlich
 selbstständiges Unternehmen gegründet, um Aufgaben im gemeinsamen
 Interesse auszuführen.
-** Frage 15: Personengesellschaften und Kapitalgesellschaften
+** Frage 15: Einzelunternehmen, Personengesellschaften und Kapitalgesellschaften
+Bei einem Einzelunternehmen betreibt eine Person sein Handelsgewerbe
+ohne einen weiteren Gesellschafter.
+
+Bei einem Einzelunternehmen betreibt mindestens zwei Personen
+gemeinschaftlich ein völlkaufmännisches Handelsgewerbe.
+
 Personengesellschaften sind keine juristischen Personen.  Für
 Verbindlichkeiten haftet der Gesellschafter unbeschränkt.
 
+In Kapitalgesellschaften liegt eine grundsätzliche Trennung zwischen
+Eigentum und Geschäftsführung vor.
+
 Eine Kapitalgesellschaft ist eine juristische Person.  Für
 Verbindlichkeiten haftet die Gesellschaft nur die Betriebsvermögen.
-Der Bestand der Gesellschaft ist unabhängig von der Person der
-Gesellschafter.
 ** Frage 7: Kooperation
 Ziel der Unternehmenskooperation ist Wirtschaftlichkeit durch
 Rationalisation, Risiken durch Diversifikation, Verhandlungsmacht
