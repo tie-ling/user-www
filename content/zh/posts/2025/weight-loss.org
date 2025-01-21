@@ -67,6 +67,21 @@
 # @<<..@>> refers to the region between third line and third to last line.
 # excluding first and last two lines.
 
+#+begin_src elisp
+  (defun org-table-my-delete-row ()
+    (interactive)
+    (save-excursion
+      (unless (org-at-table-p)
+        (error "You are not in an org-table."))
+      (goto-char (org-table-begin))
+      ;; skip first two header rows
+      (forward-line)
+      (forward-line)
+      (while (and (org-at-table-p) (not (org-at-table-hline-p)))
+        (if (= 0 (string-to-number (save-excursion (org-table-get-field 5))))
+            (delete-region (point) (progn (forward-line) (point)))
+          (forward-line)))))
+#+end_src
 ** 二五年一月
 
 *** <2025-01-19 Sun>
