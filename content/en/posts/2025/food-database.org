@@ -1,0 +1,35 @@
+#+title: Food database for meal planning
+#+date: 2025-01-24T11:11:42+01:00
+#+lastmod: 2025-01-24T11:11:42+01:00
+# ISO 8601 date use output from
+# C-u M-! date -Iseconds
+#+draft: false
+#+tags[]:
+
+This article describes how to extract food data from USDA datasets.
+
+# more
+
+First, download datasets in JSON format from
+https://fdc.nal.usda.gov/download-datasets
+
+We use
+https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_foundation_food_json_2024-10-31.zip
+as an example.
+
+Extract the contents.
+
+Then filter the data with jq utility:
+#+begin_src sh
+jq '[
+   .FoundationFoods.[] as $Food
+   | $Food.foodNutrients as $Nutrients
+   | {
+        description: $Food.description,
+        energy: ($Nutrients.[] | select(.nutrient.id== 1008) | .amount),
+        protein: ($Nutrients.[] | select(.nutrient.id == 1003) | .amount),
+        fat: ($Nutrients.[] | select(.nutrient.id == 1004) | .amount),
+        carb: ($Nutrients.[] | select(.nutrient.id == 1005) | .amount)
+     }
+    ]' foundationDownload.json
+#+end_src
