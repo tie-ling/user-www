@@ -19,6 +19,85 @@ as an example.
 
 Extract the contents.
 
+First, ascertain nutrient ids by pretty printing the json:
+
+#+begin_src sh
+  jq < foundationDownload.json > found-food.json
+  less found-food.json
+
+  # or use grep
+  grep -C3 Energy found-food.json | less
+#+end_src
+
+#+begin_example
+{
+  "FoundationFoods": [
+    {
+      "foodClass": "FinalFood",
+      "description": "Hummus, commercial",
+      "foodNutrients": [
+        {
+          "type": "FoodNutrient",
+          "id": 2219707,
+          "nutrient": {
+            "id": 1120,
+            "number": "334",
+            "name": "Cryptoxanthin, beta",
+            "rank": 7460,
+            "unitName": "µg"
+          },
+...
+#+end_example
+
+Using grep
+#+begin_example
+--                                                                                                        
+          "nutrient": {                                                                                   
+            "id": 2047,                                                                                   
+            "number": "957",                                                                              
+            "name": "Energy (Atwater General Factors)",
+            "rank": 280,                                                                                  
+            "unitName": "kcal"                       
+          },                                                                                              
+--                                                                                                        
+          "nutrient": { 
+            "id": 2048,                                                                                   
+            "number": "958",                         
+            "name": "Energy (Atwater Specific Factors)",                                                  
+            "rank": 290,                                                                                  
+            "unitName": "kcal"                       
+          },                                                                                              
+--                                                                                                        
+          "nutrient": {                                                                                   
+            "id": 2047,                                                                                   
+            "number": "957",                                                                              
+            "name": "Energy (Atwater General Factors)",                                                   
+            "rank": 280,                                                                                  
+            "unitName": "kcal"                                                                            
+          },                                         
+--                                                   
+          "nutrient": {                                                                                   
+            "id": 2048,                              
+            "number": "958",                                                                              
+            "name": "Energy (Atwater Specific Factors)",                                                  
+            "rank": 290,                             
+            "unitName": "kcal"                                                                            
+          },                                                                                              
+
+#+end_example
+
+We found that
+| nutrient id | name                             | unitName        |
+|-------------+----------------------------------+-----------------|
+|        1008 | Energy                           | kcal = 4.184 kJ |
+|        1062 | Energy                           | kJ              |
+|        2047 | Energy (Atwater General Factors) | kcal = 4.184 kJ |
+|        1003 | Protein                          | g               |
+|        1004 | Total lipid (fat)                | g               |
+|        1085 | Total fat (NLEA)                 | g               |
+|        1005 | Carbohydrate, by difference      | g               |
+
+
 Then filter the data with jq utility:
 #+begin_src sh
 jq '[
@@ -26,10 +105,52 @@ jq '[
    | $Food.foodNutrients as $Nutrients
    | {
         description: $Food.description,
-        energy: ($Nutrients.[] | select(.nutrient.id== 1008) | .amount),
-        protein: ($Nutrients.[] | select(.nutrient.id == 1003) | .amount),
-        fat: ($Nutrients.[] | select(.nutrient.id == 1004) | .amount),
-        carb: ($Nutrients.[] | select(.nutrient.id == 1005) | .amount)
+        energy: (($Nutrients.[] | select(.nutrient.id == 1008) | .amount) * 4.184 // ($Nutrients.[] | select(.nutrient.id == 2047) | .amount) * 4.184 // ($Nutrients.[] | select(.nutrient.id == 1062) | .amount) // 0),
+        protein: (($Nutrients.[] | select(.nutrient.id == 1003) | .amount) // 0),
+        fat: (($Nutrients.[] | select(.nutrient.id == 1004) | .amount) // ($Nutrients.[] | select(.nutrient.id== 1085) | .amount) // 0),
+        carb: (($Nutrients.[] | select(.nutrient.id == 1005) | .amount) // 0)
      }
-    ]' foundationDownload.json
+    ]' foundationDownload.json > food-data.json
+#+end_src
+Note that we used =// 0= to handle the case where =select= fails.
+
+
+Additionally, Calories can be calculated from the fact that Carbohydrates provide 4
+calories per gram, protein provides 4 calories per gram, and fat
+provides 9 calories per gram.
+
+https://www.nal.usda.gov/programs/fnic
+
+This will produce the following JSON
+#+begin_example
+[
+  {
+    "description": "Onions, white, raw",
+    "energy": 35.0,
+    "protein": 0.890,
+    "fat": 0.130,
+    "carb": 7.68
+  },
+  {
+    "description": "Bananas, overripe, raw",
+    "energy": 85.0,
+    "protein": 0.730,
+    "fat": 0.220,
+    "carb": 20.1
+  },
+  {
+    "description": "Bananas, ripe and slightly ripe, raw",
+    "energy": 97.0,
+    "protein": 0.740,
+    "fat": 0.290,
+    "carb": 23.0
+  }
+]
+#+end_example
+
+Finally, convert to CSV for further processing:
+https://stackoverflow.com/a/32965227
+
+#+begin_src sh
+jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv' < food-data.json > food-data.csv
 #+end_src
