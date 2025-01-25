@@ -10,6 +10,8 @@ This article describes how to extract food data from USDA datasets.
 
 # more
 
+* Extract data from JSON
+
 First, download datasets in JSON format from
 https://fdc.nal.usda.gov/download-datasets
 
@@ -104,15 +106,16 @@ jq '[
    .FoundationFoods.[] as $Food
    | $Food.foodNutrients as $Nutrients
    | {
-        description: $Food.description,
-        energy: (($Nutrients.[] | select(.nutrient.id == 1008) | .amount) * 4.184 // ($Nutrients.[] | select(.nutrient.id == 2047) | .amount) * 4.184 // ($Nutrients.[] | select(.nutrient.id == 1062) | .amount) // 0),
-        protein: (($Nutrients.[] | select(.nutrient.id == 1003) | .amount) // 0),
-        fat: (($Nutrients.[] | select(.nutrient.id == 1004) | .amount) // ($Nutrients.[] | select(.nutrient.id== 1085) | .amount) // 0),
-        carb: (($Nutrients.[] | select(.nutrient.id == 1005) | .amount) // 0)
+        "0_foodCategory": $Food.foodCategory.description,
+        "1_description": $Food.description,
+        "2_energy": (($Nutrients.[] | select(.nutrient.id == 1008) | .amount) * 4.184 // ($Nutrients.[] | select(.nutrient.id == 2047) | .amount) * 4.184 // ($Nutrients.[] | select(.nutrient.id == 1062) | .amount) // 0) | floor,
+        "3_protein":  (($Nutrients.[] | select(.nutrient.id == 1003) | .amount) // 0) | floor,
+        "4_fat": (($Nutrients.[] | select(.nutrient.id == 1004) | .amount) // ($Nutrients.[] | select(.nutrient.id== 1085) | .amount) // 0) | floor,
+        "5_carb": (($Nutrients.[] | select(.nutrient.id == 1005) | .amount) // 0) | floor
      }
     ]' foundationDownload.json > food-data.json
 #+end_src
-Note that we used =// 0= to handle the case where =select= fails.
+Note that we used =// 0= to handle the case where =select= fails and we used =floor= for the values.
 
 
 Additionally, Calories can be calculated from the fact that Carbohydrates provide 4
@@ -154,3 +157,35 @@ https://stackoverflow.com/a/32965227
 #+begin_src sh
 jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv' < food-data.json > food-data.csv
 #+end_src
+
+* Processing CSV
+
+Open =food-data.csv= file in gnumeric.
+
+
+- Sort csv in ascending order by =0_foodCategory,1_description= column.
+
+  Go to Menubar, Data, Sort.  Check "Region has a header option".  Use defaults otherwise.
+
+- Before 2_energy column, insert 4 new columns for Chinese and German translations of food description and food category.
+
+  If applicable, copy and paste from old spreadsheet.
+
+- Data Source column should be the right-most column.
+
+  If applicable, copy and paste from old spreadsheet.
+
+- Header should now be in this order, this example is tab-separated CSV and can be pasted into gnumeric:
+
+  #+begin_example
+  Food Category	Sort English 100g	食品分类	每100克	Lebensmittelgruppen	Deutsch 100g	Energy kJ	Protein g	Fat g	Carb g	Data Source
+  #+end_example
+
+- Fill missing food data for oils:  Select entire spreadsheet, Go to Menubar, Data, Sort.  Check "Region has a header option".
+  Sort by Data Source column by moving Data Source column to the top of sort order.
+
+- Final sort, sort by food category, then by english name:
+  Select entire spreadsheet, Go to Menubar, Data, Sort.  Check "Region has a header option".
+  Move Data Source column to the bottom of sort order.
+
+
