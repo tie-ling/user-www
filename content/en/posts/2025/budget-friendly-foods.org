@@ -10,6 +10,7 @@ Source: https://www.myplate.gov/shopsimple/foods/all
 # more
 
 * Applesauce, unsweetened
+Apfelmus, ungezuckert
 
 ** Tips
 Unopened applesauce can be stored in the pantry for 12 – 18
@@ -55,6 +56,7 @@ Whip up banana “ice cream” for a tasty treat. Freeze ripe banana
 chunks and blend until smooth.
 
 * Beets, canned
+Rote Bete, Dosen
 ** Tips
 Medium- and large-size beets are good for cooking; very large roots
 are too woody for eating regardless of cooking method.
@@ -79,6 +81,7 @@ by boiling, steaming, or roasting.
 Cooked beets can be sliced and served as a vegetable on one side of a
 plate.
 * Black beans, canned
+Schwarze Bohnen, in Dosen
 ** Tips
 Canned beans can be stored in the pantry for up to 5 years from the
 date of purchase. Check the date on the can.
@@ -124,6 +127,7 @@ cornmeal. Stir with a whisk until blended. Pour into a cup and add
 your favorite ingredients or seasonings.
 
 * Blueberries, frozen, unsweetened
+Heidelbeeren
 ** Tips
 Frozen blueberries can be stored in the freezer in an airtight
 container or freezer bag for 10 - 18 months. Check the date on the
@@ -174,6 +178,7 @@ the mixture instead of breadcrumbs when making baked breaded chicken,
 pork, or fish.
 
 * Bread, whole wheat
+Brot, vollkorn
 ** Tips
 Bread can be stored in the pantry for about 5 days, or in the freezer
 for 3 months.
@@ -195,6 +200,7 @@ Try a new sandwich idea on wheat bread: roasted veggies and cheese,
 tofu and tomato, or hummus and turkey.
 
 * Broccoli, frozen
+Brokkoli
 ** Tips
 Frozen broccoli can be stored in the freezer for 10-18 months.
 
@@ -217,6 +223,7 @@ salt. Spread on a baking sheet and roast at 400 degrees F until
 browned.
 
 * Brown rice
+Brauner Reis, Naturreis, Vollkornreis
 ** Tips
 Brown rice can be stored in the pantry for up to 1 year.
 
@@ -236,6 +243,7 @@ Brown rice for breakfast? Yes! Warm it up with milk, raisins, and
 cinnamon or try your own creation.
 
 * Buttermilk, low-fat
+Buttermilch
 ** Tips
 Buttermilk should be refrigerated and must be used within 7-10 days
 after opening. Check the expiration date on the container.
@@ -257,6 +265,7 @@ potatoes. Try it in place of milk in your favorite mashed potato
 recipe.
 
 * Canned tuna, in water
+Thunfisch in Dosen in Wasser
 ** Tips
 Canned tuna can be stored in the pantry for up to 3 years from the
 date of purchase.
@@ -277,6 +286,7 @@ celery. Spread the mixture onto whole wheat bread with sliced
 cucumbers for a portable sandwich.
 
 * Cantaloupe
+Cantaloupe-Melone, Zucker-Melone
 ** Tips
 Canned tuna can be stored in the pantry for up to 3 years from the
 date of purchase.
@@ -314,6 +324,7 @@ Carrots are perfect for dipping! Try hummus, peanut butter, or a DIY
 dip made of yogurt mixed with herbs and spices.
 
 * Catfish, frozen
+Katzenwels
 ** Tips
 Catfish is a white fish with a mild flavor that makes it easy to
 prepare in many different ways.
@@ -357,6 +368,10 @@ Sprinkle a bit of cheese on vegetables like steamed broccoli or
 brussels sprouts for extra flavor.
 
 * Chicken drumsticks or thighs
+Hähnchenkeule, Trommelstock, Schlägel, Unterschenkel,
+Hähnchenschenkel.
+
+Hähnchenschenkelfilet.
 ** Tips
 Uncooked chicken should be refrigerated and can be stored for 1-2 days
 from the date of purchase.
@@ -382,6 +397,7 @@ Sprinkle seasonings like garlic powder and pepper over chicken before
 grilling or broiling it.
 
 * Collard greens
+Blattkohl
 ** Tips
 Collard greens are in season in spring, winter, and fall. Fruits and
 vegetables may cost less when they are in season.
@@ -438,6 +454,7 @@ diced onion, bell pepper, and whipped eggs and stir until cooked
 through.
 
 * Corn, canned
+Mais, Dosen
 ** Tips
 Unopened canned corn can be stored in the pantry for 2-5 years from
 the date of purchase. After opening, store in the refrigerator for 3-4
@@ -461,6 +478,7 @@ Add corn to soup, chili, salsa, chowder, tacos, burrito bowls.
 Combine corn with lima beans to make succotash.
 
 * Cornmeal
+Maismehl
 ** Tips
 Cornmeal can be stored in an airtight container in a cool dark pantry
 for up to 6 months, or in the refrigerator for up to 1 year.
@@ -483,6 +501,9 @@ of boiling water, stirring constantly. Cook until thickened, then
 serve with syrup.
 
 * Cottage cheese, low-fat
+Hüttenkäse.  Hüttenkäse ist eine Frischkäsesorte. Besonderes
+Kennzeichen des Hüttenkäses ist seine körnige Struktur, weswegen er
+auch als körniger Frischkäse (ugs. Kugerlkäse) bezeichnet wird.
 ** Tips
 Cottage cheese can be stored in the fridge for 2 weeks (unopened) or 1
 week (opened).
@@ -528,6 +549,7 @@ Go for a sweet treat by mixing raisins and your favorite nuts into
 cooked couscous.
 
 * Cucumbers
+Gurke.
 ** Tips
 Cucumbers are in season in summer. Fruits and vegetables may cost less
 when they are in season.
@@ -558,6 +580,8 @@ cheese and diced tomatoes.
 Pair cucumbers with hummus for a filling and delicious snack.
 
 * Dairy milk, low-fat or fat-free (or lactose-free or fortified soy versions)
+Noch weniger Fett hat nur die entrahmte Milch, die als Magermilch
+höchstens 0,5 Prozent Fett enthalten darf.
 ** Tips
 Milk should be refrigerated and must be used within 7 days after
 opening. Check the expiration date on the container.
@@ -672,6 +696,7 @@ Brush grapefruit slices with olive oil, then grill or broil the slices
 to serve with cooked chicken or fish.
 
 * Greek yogurt, plain, nonfat
+Joghurt Griechischer Art.
 ** Tips
 Greek yogurt should be refrigerated and can be stored for 1-2 weeks
 from the date of purchase. Check the expiration date on the package.
@@ -693,6 +718,11 @@ Add canned peaches, pears, or pineapple to your Greek yogurt for a
 healthy snack.
 
 * Green (string) beans
+Die Gartenbohne. auch Grüne Bohne, Schnittbohne oder österreichisch
+Fisole genannt.  Sie ist in Deutschland fast immer mit dem Ausdruck
+„Bohne“ gemeint, der sich aber auch auf viele andere Nutzpflanzenarten
+beziehen kann. Je nach Wuchsform wird die Art auch als Buschbohne oder
+Stangenbohne bezeichnet.
 ** Tips
 Green beans are in season in summer and fall. Fruits and vegetables
 may cost less when they are in season.
@@ -712,6 +742,7 @@ Stir frozen green beans into your favorite soup or stew to boost the
 amount of vegetables.
 
 * Green cabbage
+Weißkohl
 ** Tips
 Cabbage is in season in winter, spring, and fall.
 
@@ -730,6 +761,11 @@ Add extra crunch to your salads, soups, tacos, or sandwiches by
 topping them off with thinly sliced cabbage.
 
 * Hominy, canned
+grobes Maismehl
+
+Hominy is a food item produced from dried maize (corn) kernels that
+have been treated with an alkali, in a process called nixtamalization
+(nextamalli is the Nahuatl word for "hominy").
 ** Tips
 Did you know? Hominy is made from dried maize (corn) kernels.
 
@@ -753,6 +789,7 @@ them on hand to add more flavor, color, and nutrients to any meal no
 matter the season.
 
 * Kidney beans, canned
+Die Kidneybohne, auch Indianerbohne oder Rote Bohne ist eine Sorte der Gartenbohne.
 ** Tips
 Canned beans can be stored in the pantry for up to 5 years from the
 date of purchase. Check the date on the can.
@@ -783,6 +820,7 @@ beans with some pico de gallo (or salsa) and greens for a quick taco
 salad.
 
 * Lentils
+Küchen-Linse.  Rote Linse, Beluga Linsen, Rote Linsen, Teller Linsen.
 ** Tips
 Lentils can be stored in the pantry for up to 1 year from the date of
 purchase.
@@ -832,6 +870,7 @@ For a new twist on a classic sandwich, toast whole wheat bread, spread
 with peanut butter, and add mango slices.
 
 * Oatmeal, regular or quick
+Haferflocken.
 ** Tips
 Dry oatmeal can be stored in the pantry for up to 12 months.
 
@@ -853,6 +892,8 @@ shredded cheese on top.
 Oatmeal can replace breadcrumbs in some recipes like meatloaf.
 
 * Okra, frozen
+Die Okra oder der Gemüse-Eibisch (Abelmoschus esculentus) ist eine
+Pflanzenart aus der Familie der Malvengewächse.
 ** Tips
 Frozen okra can be stored in the freezer for 10-18 months.
 
@@ -901,6 +942,7 @@ Top a salad with orange chunks for added flavor.
 Add orange slices to your water pitcher for a refreshing drink.
 
 * Pasta, whole wheat
+Pasta, vollkorn
 ** Tips
 Uncooked dry pasta can be stored in the pantry for up to 1 year.
 
@@ -922,6 +964,9 @@ drained/rinsed cannellini beans, canned diced tomatoes, canned corn,
 and oil. Season as you like.
 
 * Peaches, canned
+Der Pfirsich (Prunus persica) ist eine Pflanzenart aus der Gattung
+Prunus innerhalb der Familie der Rosengewächse (Rosaceae). Seine
+Früchte werden Pfirsiche genannt und zählen zum Steinobst.
 ** Tips
 Unopened canned peaches can be stored in the pantry for 12-18
 months. Check the date on the label.
@@ -948,6 +993,10 @@ Toss canned peaches into a blender with low-fat yogurt, bananas, and
 ice; then blend for a delicious smoothie.
 
 * Peanut butter
+Erdnussbutter, mitunter auch als Erdnusscreme, Erdnussmus oder
+Erdnusspaste bezeichnet, ist ein energiereicher Brotaufstrich, dessen
+Hauptbestandteil gemahlene Erdnüsse sind.
+
 ** Tips
 Unopened peanut butter can often be stored in the pantry for up to 2
 years. Check the date on the label.
@@ -968,6 +1017,7 @@ easy snack on the go.
 Use peanut butter to make a peanut sauce to go with noodles.
 
 * Peanuts
+Erdnuss.
 ** Tips
 Unopened peanuts can be stored in the pantry until the use-by date on
 the package.
@@ -993,6 +1043,7 @@ peanuts. Serve over brown rice or whole wheat noodles.
 Add some crunch to your yogurt parfait by adding crushed peanuts.
 
 * Pears, canned
+Birne.
 ** Tips
 Unopened canned pears can be stored in the pantry for 12-18
 months. Check the date on the label.
@@ -1016,6 +1067,7 @@ Combine canned pears with lemon juice and cinnamon to cook down into a
 quick and easy pear butter.
 
 * Pineapple, canned
+Ananas.
 ** Tips
 Unopened canned pineapple can be stored in the pantry for 12-18
 months. Check the date on the label.
@@ -1034,6 +1086,7 @@ Top your chicken sandwich or burger with a canned pineapple ring for a
 great sweet-savory combination.
 
 * Pinto beans, canned
+Pintobohnen.
 ** Tips
 Canned beans can be stored in the pantry for up to 5 years from the
 date of purchase. Check the date on the can.
@@ -1059,6 +1112,7 @@ Add pinto beans to soups, stews, chilis or even pasta salads for added
 flavor and texture.
 
 * Plain yogurt, low-fat
+Natur Jogurt
 ** Tips
 Yogurt should be refrigerated and can be stored for 1-2 weeks from the
 date of purchase. Check the expiration date on the package.
@@ -1105,6 +1159,7 @@ For a sweet treat, toss popcorn in oil and sprinkle with a dash of
 cinnamon.
 
 * Potatoes
+Kartoffeln
 ** Tips
 Potatoes are in season in fall and winter but can be purchased all
 year round.
@@ -1130,6 +1185,7 @@ easily pierce with a fork. Mix with a bit of unsalted tub margarine
 and seasonings.
 
 * Raisins
+Rosine
 ** Tips
 Unopened raisins can be stored in the pantry or refrigerator for up to
 6 months. Check the date on the label.
@@ -1181,6 +1237,7 @@ For a sweet treat, combine ricotta cheese with fruit, crunchy granola,
 and honey.
 
 * Salmon, frozen
+Lachs
 ** Tips
 Salmon is a flaky fish with flesh ranging from orange to dark red in
 color.
@@ -1205,6 +1262,7 @@ Place salmon filets skin side down on foil. Top with a drizzle of oil,
 onion slices, and lemon pepper or other seasonings. Bake at 350°F for
 15-20 minutes, or until the fish reaches 145°F.
 * Strawberries, frozen, unsweetened
+Erdbeere
 ** Tips
 Frozen strawberries can be stored in the freezer for 10 - 18
 months. Check the date on the package.
@@ -1256,6 +1314,11 @@ Sauté sliced summer squash in olive oil and your favorite seasonings
 for a quick side dish.
 
 * Walleye, frozen
+Zanderfisch.  Glasaugenbarsch
+
+Der Glasaugenbarsch (Sander vitreus), auch Amerikanischer Zander oder
+im Englischen walleye genannt, ist ein Barsch und gehört in der
+Familie der Echten Barsche zur Gattung Sander.
 ** Tips
 Walleye is a flaky, mild-flavored white fish that can be prepared in
 many ways.
@@ -1276,6 +1339,8 @@ and serve with a squeeze of fresh lemon juice.
 Use walleye in your favorite soup, chowder, or jambalaya recipe.
 
 * Watermelon
+Die Wassermelone (Citrullus lanatus), auch Angurie, Arbuse, Pasteke
+und Zitrullengurke (früheres Synonym: Cucurbita citrullus L.) genannt.
 ** Tips
 Watermelon is in season in summer. Fruits and vegetables may cost less
 when they are in season.
@@ -1308,6 +1373,7 @@ Blend watermelon cubes, Greek yogurt, and a banana together for a
 refreshing smoothie.
 
 * White fish (haddock, tilapia, whiting)
+(Schellfisch, Tilapia, Wittling)
 ** Tips
 White fish varieties often have a mild flavor that make them easy to
 prepare in many different ways. Choose fish varieties that are lower
@@ -1334,6 +1400,8 @@ your favorite seasonings on both sides of the fish and cook in a small
 amount of olive oil until it reaches an internal temperature of 145°F.
 
 * Wild rice
+Wasserreis, Wildreis, Indianerreis oder Kanadischer Reis
+
 ** Tips
 Wild rice has long, black whole grains with a nutty flavor and can be
 used in many ways.
