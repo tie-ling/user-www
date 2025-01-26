@@ -9,6 +9,12 @@
 Source: https://www.myplate.gov/shopsimple/foods/all
 # more
 
+Im REWE Lebensmittel-Lexikon findest du Wissenswertes zu verschiedenen
+Lebensmitteln, Getränken und allem was du sonst über Essen wissen
+solltest.
+
+https://www.rewe.de/lexikon/
+
 * Früchte und Fruchtsäfte
 ** Apfelmus, ungesüßt, mit Zusatz von Vitamin C
 ** Kochbananen, reif, roh
@@ -42,6 +48,42 @@ Source: https://www.myplate.gov/shopsimple/foods/all
 ** Brot, Vollkornbrot, handelsüblich zubereitet
 * Getreide und Teigwaren
 ** Reis, braun, langkörnig, nicht angereichert, roh
+Cargoreis, Naturreis, Vollkornreis
+
+https://www.rewe.de/lexikon/vollkornreis/
+
+Kann Vollkornreis auch schaden?  Trotz aller gesundheitlichen Vorteile
+gibt es auch bei Vollreis eine Kehrseite der Medaille: Ökotest hat
+2022 in einer Untersuchung zum wiederholten Male schädliche Stoffe in
+Vollkornreis entdeckt. Denn die Randschichten des Reiskorns sind nicht
+nur reich an Ballaststoffen und Mineralien. Sie speichern auch
+Pestizide, Arsen, Schwermetalle und Mineralöle ein.
+
+Laut Testergebnissen reicht es nicht, Bio-Vollkornreis zu kaufen. Auch
+ökologisch hergestellte Produkte waren teilweise stark belastet. Zwar
+bedeutet „bio“, dass beispielsweise keine Pestizide beim Anbau zum
+Einsatz kommen dürfen. Es wird aber vermutet, dass der Reis teilweise
+beim Transport kontaminiert wird. Andere Schadstoffe können beim Anbau
+über den Boden in die Reispflanzen gelangen.
+
+Ökotest rät deshalb von einem regelmäßigen Verzehr von Reis als
+Vollkorn ab. Gleiches gilt für Parboiled Reis, da bei diesem
+speziellen Herstellungsverfahren neben den guten Inhaltsstoffen auch
+die potenziell vorhandenen Schadstoffe ins Innere des Reiskorns
+befördert werden. Empfohlen wird stattdessen der Verzehr von poliertem
+Basmati, weil dieser durchschnittlich weniger belastet ist.
+
+DasBundeinstitut für Risikobewertung (BfR) erklärte in einer
+Stellungnahme aus dem Jahr 2020, dass nicht grundsätzlich auf den
+Verzehr von Reis verzichtet werden muss. Es wird aber empfohlen, die
+Vollkorn-Variante abwechselnd mit anderen Getreidesorten in den
+Speiseplan einzubauen.
+
+Vor allem die richtige Zubereitung ist wichtig, um möglichst vielen
+Schadstoffen den Garaus auszumachen, bevor der Reis auf dem Teller
+landet.
+
+
 ** Mais, süß, gelbe und weiße Körner, frisch, roh
 
 ** Mehl, Mais, gelb, Feinmehl, angereichert
