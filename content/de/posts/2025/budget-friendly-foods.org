@@ -9,121 +9,59 @@
 Source: https://www.myplate.gov/shopsimple/foods/all
 # more
 
-Apfelmus, ungezuckert
+* Früchte und Fruchtsäfte
+** Apfelmus, ungesüßt, mit Zusatz von Vitamin C
+** Kochbananen, reif, roh
+** Heidelbeeren, roh
+** Melonen, Cantaloupe, roh
+** Grapefruitsaft, rot, nicht angereichert, nicht aus Konzentrat, gekühlt
+** Mango, Ataulfo, geschält, roh
+** Orangen, roh, Nudeln
+** Pfirsiche, gelb, roh
+** Birnen, roh, bartlett
+** Ananas, roh
+** Erdbeeren, roh
+* Gemüse
+** Rote Bete, roh
+** Brokkoli, roh
+** Karotten, reif, roh
+** Blattkohl, roh
+** Gurke, mit Schale, roh
+** GrünBohnen, Snap, grün, roh, Gartenbohnen
+** Kohl, grün, roh, Weißkohl
+** Kartoffeln, goldfarben, ohne Schale, roh
+** Kürbis, Sommer, grün, Zucchini, mit Schale, roh
+* Hülsenfrüchte und Hülsenfruchtprodukte
+** Bohnen, trocken, schwarz (0% Feuchtigkeit)
+** Bohnen, trocken, Dunkelrot Niere (0% Feuchtigkeit), KidneyBohne
+** Linsen, trocken
+** Erdnussbutter, cremig
+** Erdnüsse, roh
+** GartenBohnen, BuschBohnen, Stangenbohnen, trocken, Pinto (0% Feuchtigkeit)
+* Backwaren
+** Brot, Vollkornbrot, handelsüblich zubereitet
+* Getreide und Teigwaren
+** Reis, braun, langkörnig, nicht angereichert, roh
+** Mais, süß, gelbe und weiße Körner, frisch, roh
 
-Bananas
-
-Rote Bete, Dosen
-
-Schwarze Bohnen, in Dosen
-
-Heidelbeeren, gefroren
-
-Brot, vollkorn
-
-Brokkoli, gefroren
-
-Brauner Reis, Naturreis, Vollkornreis
-
-Buttermilch
-
-Thunfisch in Dosen in Wasser
-
-Cantaloupe-Melone, Zucker-Melone
-
-Karroten
-
-Katzenwels, Fisch
-
-Cheddar cheese, reduced fat
-
-Hähnchenkeule, Trommelstock, Schlägel, Unterschenkel,
-Hähnchenschenkel.
-
-Hähnchenschenkelfilet.
-
-Blattkohl
-
-Mais, Dosen
-
-Maismehl
-
-Hüttenkäse.  Hüttenkäse ist eine Frischkäsesorte. Besonderes
-Kennzeichen des Hüttenkäses ist seine körnige Struktur, weswegen er
-auch als körniger Frischkäse (ugs. Kugerlkäse) bezeichnet wird.
-
-Gurke.
-
-Noch weniger Fett hat nur die entrahmte Milch, die als Magermilch
-höchstens 0,5 Prozent Fett enthalten darf.
-
-Eggs
-
-Grapefruit
-
-Grapefruit is in season in winter.
-
-Joghurt Griechischer Art.
-
-Die Gartenbohne. auch Grüne Bohne, Schnittbohne oder österreichisch
-Fisole genannt.  Sie ist in Deutschland fast immer mit dem Ausdruck
-„Bohne“ gemeint, der sich aber auch auf viele andere Nutzpflanzenarten
-beziehen kann. Je nach Wuchsform wird die Art auch als Buschbohne oder
-Stangenbohne bezeichnet.
-
-Weißkohl
-
-grobes Maismehl
-
-Die Kidneybohne, auch Indianerbohne oder Rote Bohne ist eine Sorte der Gartenbohne.
-
-Küchen-Linse.  Rote Linse, Beluga Linsen, Rote Linsen, Teller Linsen.
-
-Mangos
-
-Haferflocken.
-
-Die Okra oder der Gemüse-Eibisch (Abelmoschus esculentus) ist eine
-Pflanzenart aus der Familie der Malvengewächse.
-
-Oranges
-
-Pasta, vollkorn
-
-Der Pfirsich (Prunus persica) ist eine Pflanzenart aus der Gattung
-Prunus innerhalb der Familie der Rosengewächse (Rosaceae). Seine
-Früchte werden Pfirsiche genannt und zählen zum Steinobst.
-
-Erdnussbutter, mitunter auch als Erdnusscreme, Erdnussmus oder
-Erdnusspaste bezeichnet, ist ein energiereicher Brotaufstrich, dessen
-Hauptbestandteil gemahlene Erdnüsse sind.
-
-Erdnuss.
-
-Birne.
-
-Ananas.
-
-Pintobohnen.
-
-Natur Jogurt
-
-Kartoffeln
-
-Rosine
-
-Ricotta cheese, part skim
-
-Lachs
-
-Erdbeere, gefroren
-
-Zanderfisch.  Glasaugenbarsch, gefroren
-
-Die Wassermelone (Citrullus lanatus), auch Angurie, Arbuse, Pasteke
-und Zitrullengurke (früheres Synonym: Cucurbita citrullus L.) genannt.
-
-(Schellfisch, Tilapia, Wittling)
-
-Wasserreis, Wildreis, Indianerreis oder Kanadischer Reis
-
+** Mehl, Mais, gelb, Feinmehl, angereichert
+** Hafer, Vollkorn, gewalzt, altmodisch
+** Pasta, Vollkorn, Mehl, Vollweizen, nicht angereichert
+** Wildreis, Wasserreis, Indianerreis, Kanadischer Reis, trocken, roh
+* Milch- und Eierprodukte
+** Buttermilch, fettarm
+** Käse, Cheddar
+** Käse, Hüttenkäse, fettarm, 2% Milchfett
+** Milch, fettfrei, flüssig, mit Zusatz von Vitamin A und Vitamin D (fettfrei oder entrahmt)
+** Eier, Güteklasse A, groß, Vollei
+** Joghurt, griechisch, einfach, fettfrei
+** Natur Joghurt, normal, fettfrei
+* Fisch- und Muschelprodukte
+** Fisch, Thunfisch, leicht, in Wasser eingemacht, abgetropft, Feststoffe
+** Fisch, Wels, Aufzucht, roh, Katzenwels
+** Fisch, Lachs, Atlantik, aus Zucht, roh
+** Fisch, Zanderfisch,  Glasaugenbarsch
+** Fisch, Schellfisch, Tilapia, Zuchtfisch, roh
+* Geflügelprodukte
+** Hähnchen, Masthähnchen oder Brathähnchen, Keule, nur Fleisch, gekocht, geschmort
+** Hähnchen, Schenkel, ohne Knochen, ohne Haut, roh
