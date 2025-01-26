@@ -14,7 +14,25 @@ Source: https://www.myplate.gov/shopsimple/foods/all
 # more
 
 * Sodium intake
+https://medlineplus.gov/ency/article/002415.htm
 
+Healthy adults should limit sodium intake to 2,300 mg per day. Adults
+with high blood pressure should have no more than 1,500 mg per
+day. Those with congestive heart failure, liver cirrhosis, and kidney
+disease may need much lower amounts.
+
+Sodium in the diet (called dietary sodium) is measured in milligrams
+(mg). Table salt is 40% sodium. One teaspoon (5 milliliters) of table
+salt contains 2,300 mg of sodium.
+
+Sodium occurs naturally in most foods. The most common form of sodium
+is sodium chloride, which is table salt. Milk, beets, and celery also
+naturally contain sodium. Drinking water also contains sodium, but the
+amount depends on the source.  Sodium is also added to many food
+products. Some of these added forms are monosodium glutamate (MSG),
+sodium nitrite, sodium saccharin, baking soda (sodium bicarbonate),
+and sodium benzoate. These are in items such as Worcestershire sauce,
+soy sauce, onion salt, garlic salt, and bouillon cubes.
 * Fruits and Fruit Juices
 ** Applesauce, unsweetened, with added vitamin C
 Unopened applesauce can be stored in the pantry for 12 – 18
