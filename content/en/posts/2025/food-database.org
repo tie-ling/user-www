@@ -178,7 +178,7 @@ Open =food-data.csv= file in gnumeric.
 - Header should now be in this order, this example is tab-separated CSV and can be pasted into gnumeric:
 
   #+begin_example
-  Food Category	Sort English 100g	食品分类	每100克	Lebensmittelgruppen	Deutsch 100g	Energy kJ	Protein g	Fat g	Carb g	Data Source
+  Food Category	Sort English 100g	食品分类	每100克	Lebensmittelgruppen	Deutsch 100g	Ener Dev Abs	Ener Dev Rel	Energy Estimated kJ from Protein Fat Carb Mass	Energy kJ	Protein g	Fat g	Carb g	Data Source
   #+end_example
 
 - Fill missing food data for oils:  Select entire spreadsheet, Go to Menubar, Data, Sort.  Check "Region has a header option".
@@ -189,3 +189,22 @@ Open =food-data.csv= file in gnumeric.
   Move Data Source column to the bottom of sort order.
 
 
+* Checking for Errors
+
+Sometimes, macronutrient data for individual foods might be missing.  Using the rule of thumb that,
+- 9 kcal per 1 g fat
+- 4 kcal per 1 g protein
+- 4 kcal per 1 g carb
+then multiply by 4.184 to get kJ values; we can find out which food data has major deviations resulting from missing nutrient data.
+
+Sort by Col G (absolute deviation) then Col F (relative deviation).
+
+For foods with low energy content, the floor function used in =jq=
+results in large relative, but small absolute deviations.  These
+deviations can be ignored.
+
+We only need to pay attention to deviations larger than 300 kJ.
+
+For example, the largest deviations currently can be found in oils,
+where a 7% deviation results in 200 kJ (47 kcal) difference between
+estimate and actual value.
