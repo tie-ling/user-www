@@ -33,4 +33,5 @@
   um <2025-02-06 Thu 17:30>
   in TGS Haus 1a/b 402
 - Inf 1 ::
-  nicht zugelassen
+  um <2025-02-07 Fri 10:15>
+  in TGS Haus 1a/b 426 oder 428
